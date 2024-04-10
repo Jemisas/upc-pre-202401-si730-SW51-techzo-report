@@ -477,6 +477,9 @@ Para ambos segmentos, implementaremos una estrategia de marketing centrada en la
 - Desarrollo de funciones adicionales en la plataforma, como sistemas de valoración y comentarios, para aumentar la confianza y la participación de los usuarios.
 - Establecimiento de alianzas con organizaciones locales y empresas para promover eventos de intercambio y donación, generando así mayor visibilidad y compromiso con la comunidad.
 
+## 2.2 Entrevistas
+
+En esta sección se abordará la investigación en base a la información que se obtendrá de los segmentos entrevistados con el objetivo de conocer mejor a nuestros segmentos objetivos y aprender de ellos y sus procesos.
 
 
 </div>
