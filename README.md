@@ -2083,6 +2083,321 @@ Repositorio GitHub de los archivos feature: https://github.com/TechZo-Organizati
     <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Code-Management/acceptance-repositorio.jpeg?raw=true" width="800px" alt="repositorio feature">
 </div><br><br>
 
+### 5.1.3 Source Code Style Guide & Conventions
+
+En esta sección del proyecto, nos enfocaremos en establecer un conjunto coherente de referencias y convenciones para el estilo de código y las convenciones de programación que usaremos para la creación de nuestra aplicación web CambiaZo. Estas prácticas son cruciales para el desarrollo de la aplicación puesto a que garantizan la coherencia, la legibilidad y la calidad estructural del código. En consecuencia, nos facilitarán su mantenimiento y escalabilidad a lo largo del ciclo de vida del proyecto. 
+
+En este proyecto, se emplearán HTML, CSS, JavaScript y C# para desarrollar la plataforma web, mientras que Gherkin se utilizará en el proceso de prueba del programa. A continuación, se presentarán y explicarán las reglas y recomendaciones generales que se considerarán al utilizar estos lenguajes.
+
+
+
+**Nomenclatura en Inglés y uso de Minúsculas**
+
+Los términos utilizados para nombrar variables, objetos, elementos y funciones estarán en inglés y relacionados con la función o descripción de lo que representan. Se evitará el uso de mayúsculas, ya que la combinación de mayúsculas y minúsculas puede afectar la legibilidad del código, según lo señalado por Google. Se dará preferencia al uso exclusivo de minúsculas para mejorar la legibilidad del código.
+
+Ejemplo: 
+```
+.rg {}  (Mala práctica, el nombre de esta clase no nos dice nada)
+
+.register {} (Buena práctica, el nombre de esta clase nos dice que representa al registro)
+```
+
+**Identación o Sangría**
+
+La indentación o sangría en el código es esencial para mejorar la legibilidad y comprensión del mismo. Proporciona una estructura visual clara que refleja la lógica del código, facilitando su mantenimiento y reduciendo la probabilidad de errores.
+
+Según Google para facilitar la lectura, se debe agregar dos espacios de sangría y no utilizar la tecla de tabulación, por lo que seguiremos esta práctica para nuestro proyecto.
+
+
+Ejemplos:
+
+**En HTML:**
+```
+<ul>
+  <li>London</li>
+  <li>Paris</li>
+  <li>Tokyo</li>
+</ul>
+```
+
+**En CSS:**
+```
+body {
+  background: #fff;
+  color: #404;
+}
+```
+
+**En Javascript:**
+
+```
+function square(num) {
+  return num*num;
+}
+```
+
+A continuación se mostrarán las reglas específicas para cada lenguaje que utilizaremos:
+
+**HTML**
+
+Para nuestro proyecto utilizaremos HTML5, el estándar más reciente de HTML que ofrece una amplia gama de nuevas características y mejoras. A continuación se mostrarán las características y pautas que seguiremos para el desarrollo:
+
++ **Document Type**
+
+En nuestro proyecto, nos adherimos a las mejores prácticas recomendadas por Google al utilizar HTML. Por lo tanto, emplearemos la declaración de tipo de documento (DOCTYPE) específica de HTML5, que se define como "```<!DOCTYPE html>```". 
+
++ **Semantics**
+
+Utilizaremos los elementos HTML para lo que han sido diseñados. Por ejemplo, emplearemos elementos de encabezado para encabezados, elementos de párrafo (“p”) para párrafos, elementos de anchor (“a”) para enlaces, y así sucesivamente, tal y como nos indica Google.
+
+Ejemplo:
+```
+<!-- Not recommended -->
+<div onclick="goToComments();">All comments</div>
+
+<!-- Recommended -->
+<a href="comments/">All comments</a>
+```
++ **Blank Lines**
+
+Para mejorar la legibilidad del código, W3Schools recomienda agregar líneas en blanco para separar bloques de código grandes o lógicos. Esta práctica ayuda a dividir visualmente el código en secciones más manejables y facilita la identificación de la estructura y la lógica del programa.
+```
+<body>
+
+<h1>Famous Cities</h1>
+
+<h2>Tokyo</h2>
+<p>Tokyo is the capital of Japan, the center of the Greater Tokyo Area, and the most populous metropolitan area in the world.</p>
+
+<h2>London</h2>
+<p>London is the capital city of England. It is the most populous city in the United Kingdom.</p>
+
+<h2>Paris</h2>
+<p>Paris is the capital of France. The Paris area is one of the largest population centers in Europe.</p>
+
+</body>
+```
++ **Multimedia Fallback**
+
+Es fundamental proporcionar contenido alternativo para elementos multimedia, como imágenes, videos y objetos animados a través de canvas. Esto implica utilizar texto alternativo (“alt”) significativo para las imágenes, videos y audios. Según Google, la inclusión de contenido alternativo es crucial por razones de accesibilidad y además es importante en caso de que estos objetos multimedia fallen al cargar. 
+
+Ejemplo:
+```
+<!-- Not recommended -->
+<img src="userpersona.png">
+
+<!-- Recommended -->
+<img src="userpersona.png" alt="User persona screenshot.">
+```
++ **HTML Quotation Marks**
+
+Según las recomendaciones de Google, al citar los valores de los atributos en HTML, se deben utilizar comillas dobles ("") en lugar de comillas simples (''). Esta práctica es preferible ya que las comillas dobles son el estándar recomendado en la especificación de HTML.
+
+Ejemplo:
+```
+<!-- Not recommended →
+<a class='facebook-button'>Sign in</a>
+
+<!-- Recommended →
+<a class="facebook-button">Sign in</a>
+```
+<br><br>
+
+**CSS**
+
+Para nuestro proyecto, optaremos por CSS3, la versión más reciente de CSS que ofrece una amplia variedad de nuevas características y mejoras en comparación con las versiones anteriores. A continuación, se presentarán las características y directrices que seguiremos para el desarrollo:
+
++ **Property Name Stops**
+
+Para mantener la consistencia en el código CSS, se recomienda utilizar un espacio después de los dos puntos que siguen al nombre de la propiedad. Además, es importante utilizar un solo espacio entre la propiedad y el valor asignado a esa propiedad, tal y como nos indica  Google.
+
+Ejemplo:
+
+
+```
+/* Not recommended */
+h2 {
+  font-weight:bold;
+}
+
+/* Recommended */
+h2 {
+  font-weight: bold;
+}
+```
+
++ **Declaration Stops**
+
+Según las recomendaciones de Google, se debe utilizar un punto y coma (;) al final de cada declaración en CSS. Esto ayuda a mantener la consistencia y la extensibilidad del código.
+
+```
+/* Not recommended */
+.box {
+  display: block;
+  width: 100px
+}
+
+
+/* Recommended */
+.box {
+  display: block;
+  width: 100px;
+}
+```
+
++ **Shorthand Properties**
+
+Se debe utilizar propiedades abreviadas (shorthand properties) siempre que sea posible en CSS. Google afirma que estas propiedades abreviadas, como font, ofrecen una forma más concisa de definir múltiples valores en una sola declaración, incluso en casos donde solo se establece un valor de manera explícita.
+
+Ejemplo: 
+
+```
+/* Not recommended */
+border-top-style: none;
+padding-bottom: 2em;
+padding-left: 1em;
+padding-right: 1em;
+padding-top: 0;
+
+
+
+/* Recommended */
+border-top: 0;
+padding: 0 1em 2em;
+```
+
+
++ **CSS Quotation Marks**
+
+Google nos dice la recomendación de que se deben utilizar comillas simples ('') en lugar de comillas dobles ("") para selectores de atributos y valores de propiedades en CSS. No se deben utilizar comillas en valores de URI (url()).
+
+Ejemplo: 
+
+```
+/* Not recommended */
+@import url("https://www.google.com/css/page.css");
+
+html {
+  font-family: "open sans", sans-serif;
+}
+
+
+/* Recommended */
+@import url(https://www.google.com/css/page.css);
+
+html {
+  font-family: 'open sans', sans-serif;
+}
+```
+
++ **Declaration Block Separation**
+
+Se debe utilizar un espacio entre el último selector y el bloque de declaración en CSS. Google indica que siempre se debe utilizar un solo espacio entre el último selector y la llave de apertura que inicia el bloque de declaración. La llave de apertura debe estar en la misma línea que el último selector en una regla dada.
+
+Ejemplo:
+
+```
+/* Not recommended: missing space */
+.nav{
+  margin-bottom: 1em;
+}
+
+/* Not recommended: unnecessary line break */
+.nav
+{
+  margin-bottom: 1em;
+}
+
+
+/* Recommended */
+.nav {
+  margin-bottom: 1em;
+}
+```
+
+<br><br>
+
+**JAVASCRIPT**
+
+Para nuestro proyecto, seleccionaremos JavaScript, un lenguaje de programación fundamental para el desarrollo web. Se utiliza para agregar interactividad y dinamismo a las páginas web, permitiendo a los desarrolladores crear aplicaciones web complejas y altamente funcionales. Usaremos las siguientes indicaciones de JavaScript para nuestro proyecto:
+
++ **Spaces Around Operators**
+
+Según W3Schools, se recomienda siempre colocar espacios alrededor de los operadores (=, +, -, *, /) y después de las comas al escribir código JavaScript. Esto ayuda a mejorar la legibilidad y la claridad del código, facilitando su comprensión y mantenimiento.
+
+Ejemplo: 
+
+```
+let z = x + y;
+const myArray = ["Toyota", "Kia", "Hyundai"];
+```
+End of the simple declaration
+
+Según W3Schools, siempre se debe terminar una declaración simple con un punto y coma (;) al escribir código JavaScript. Esto incluye la declaración de variables, asignaciones y declaraciones de objetos.
+
+Ejemplo:
+
+```
+const cars = ["Toyota", "Kia", "Hyundai"];
+
+const person = {
+  firstName: "Joseph",
+  lastName: "Huamani",
+  age: 19,
+  eyeColor: "blue"
+};
+```
+
++ **General Rules for Complex Statements**
+
+Según la recomendación de W3Schools, para declaraciones complejas (compuestas) se deben seguir las siguientes pautas:
+
+Colocar la llave de apertura al final de la primera línea.
+Utilizar un espacio antes de la llave de apertura.
+Colocar la llave de cierre en una nueva línea, sin espacios previos.
+No terminar una declaración compleja con un punto y coma.
+
+Ejemplo:
+
+```
+function toSquare(number) {
+  return number*number;
+}
+
+for (let i = 0; i < 5; i++) {
+  x += i;
+}
+
+if (time < 20) {
+  timing= "Good day";
+} else {
+  timing= "Good evening";
+}
+```
+
+
++ **Object Rules**
+
+Según la recomendación de W3Schools, las reglas generales para definir objetos son las siguientes:
+
+Colocar la llave de apertura en la misma línea que el nombre del objeto.
+Utilizar dos puntos seguidos de un espacio entre cada propiedad y su valor.
+Utilizar comillas alrededor de los valores de cadena, pero no alrededor de los valores numéricos.
+No agregar una coma después del último par propiedad-valor.
+Colocar la llave de cierre en una nueva línea, sin espacios previos.
+Siempre terminar la definición del objeto con un punto y coma.
+
+Ejemplo:
+
+```
+const person = {
+  firstName: "Joseph",
+  lastName: "Huamani",
+  age: 19,
+  eyeColor: "blue"
+};
+```
+
 
 
 </div>
