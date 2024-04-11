@@ -2602,4 +2602,56 @@ Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
 </tbody>
 </table>
 
+
+#### 5.2.1.3. Development Evidence for Sprint Review
+A continuación presentaremos los commits realizados en el repositorio de nuestra Landing Page, todos estos commits se han hecho en la rama “master” durante el desarrollo de nuestro Sprint 1.
+
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited On (Date)**|
+| - | - | - | - | - | - |
+|HelloNerk/landing-page-cambiazo|master|339fdfd0541f9cd76ee66a9b246dbe97ccf2307b|feat: Add images, scripts, and styles folders|Create necessary folders to organize project resources, including images, scripts, and styles.|07/04/2024|
+|AndresVZ23/landing-page-cambiazo/index.html|master|f3e8c561f5a91e73073180b5941c570824720b29|Feat: Create index.html|Create Index and base structure|08/04/2024|
+|AndresVZ23/landing-page-cambiazo/index.html|master|3357ba2ab9eb951e6cfeba958d7191f22dea3819|Feat: Create header and navbar|Add to structure the header and navbar|08/04/2024|
+|IanHD04/landing-page-cambiazo/index.html|master|ac2fdf12500943b04b0a14f2821b60fe5690651e|Feat: Create Start-Container|Creation of the Start section and adding images of the logo, icon and hero background|08/04/2024|
+|HelloNerk/landing-page-cambiazo/scripts/script-burger.js|master|765518e7500c830c091e591847edd04684a65365|feat: Create burger script|Creation of the burger script for responsive menu and referencing in index.html|08/04/2024|
+|123-Mathias/landing-page-cambiazo/index.html|master|65ea5ba6849d961756527b49d5c53481c37ddbc5|Feat: Create Footer|Creation of the footer and linking of the networks with their icons|08/04/2024|
+|<p>123-Mathias/landing-page-cambiazo/images</p><p></p>|<p>master</p><p><br></p>|2b1d3f97f5cbb9bf993ea354aa9e7b8231319413|Feat: Add social media icons|Icons of social networks facebook, youtube, instagram and twitter|08/04/2024|
+|diegooo01/landing-page-cambiazo/index.html|master|3e1cdb45e96a4263206a664553bce87de4c0f98a|Feat:Create Election Section|Creation of the election section, in this part we will show to the new users what we can do in CambiaZo.|08/04/2024|
+|diegooo01/landing-page-cambiazo/index.html|master|4816649e2a0d022d5c47360927999bc89bf41554|Feat:Create Exchange Objects Container|Creation of the exchange objects container, in this section we'll show to the users, the most popular categories of traded objects.|08/04/2024|
+|IanHD04/landing-page-cambiazo/index.html|master|c2fe8e1baf059c01796e485aff5bb042b895b4e1|Feat: Create Features Container|Creation of the features section where you can see the main features that the website has.|08/04/2024|
+|diegooo01/landing-page-cambiazo/images|master|752c6d4aaa4232deca81fc3c5ba29fe1e5834c61|Feat:Uploading Images from Election and Exchange Objects Container|Uploading the corresponding images from Election container and Objects Exchange Container|08/04/2024|
+|<p>IanHD04/landing-page-cambiazo/images</p><p><br></p>|<p>master</p><p><br><br><br></p>|c30468513c8be6c71eb745e35fe1866ff614cba1|Feat: Uploading images from the features|Uploading the corresponding images from the Features container|<p>08/04/2024</p><p><br><br><br></p>|
+|HelloNerk/landing-page-cambiazo/index.html|master|a514b0fff252939404cfe959f7b77be3a2a97b14|feat: Create about us container|Create the about us container with information of TechZo|08/04/2024|
+|diegooo01/landing-page-cambiazo/index.html|master|58101ccdf070b764bdc0e4a39ceefdefb5183238|Feat:Adding Testimony Container|In this section of the code, we are adding the testimony container in which de new users will see the old users opinions about their experience with CambiaZo. We are uploading the corresponding images, too.|08/04/2024|
+|IanHD04/landing-page-cambiazo/index.html|master|24ba855a515614bfb5dc4ca33568eb3ddd2c4129|Feat: Create Ongs Section|Creation of the Ongs section where the Ongs affiliated with CambiaZo will be displayed|08/04/2024|
+|IanHD04/landing-page-cambiazo/images|master|c9215b49cfafb5b021babf0aa82b2c527b06d70e|Feat:Uploading Images from Ongs Container|Uploading the image corresponding to each affiliated Ong|08/04/2024|
+|<p>HelloNerk/landing-page-cambiazo/index.html</p><p></p>|<p>master</p><p><br><br></p>|4293204af170654ca388096d50f03b401e1d529e|feat: Create section plans container|Create the section plans container, add plans and details|<p>08/04/2024</p><p><br></p>|
+|AndresVZ23/landing-page-cambiazo/index.html|master|f5567a5cbc00ab8ea0fce90280090c067390ffdc|Feat: Create Contact us container|In this part, we created the contact us section|08/04/2024|
+|AndresVZ23/landing-page-cambiazo/index.html|master|81e0775450db680fbf27133c699be936021f0c34|Feat: Create Contact us form|In this part, we created the form that the users are going to use to contact us.|08/04/2024|
+|AndresVZ23/landing-page-cambiazo/images|master|729841dc4b236230ac99d707ec92578303d85aa7|Feat: Insert image Contact Us|In this part we inserted the image that is going to be in the contact us section.|08/04/2024|
+|diegooo01/landing-page-cambiazo/index.html|master|ac4f2abcbdf532bfb78c8c0d4e2fc06e657be6d9|Feat:Adding Stylesheet Header Link|Adding stylesheet header link.|08/04/2024|
+|<p>HelloNerk/landing-page-cambiazo/index.html</p><p></p>|master|0a0cdaef24fcdb8e87e407370345b2e01234da41|feat: Adding style-start in Stylesheet Header Link|Linking start-style.css in Stylesheet Header|08/04/2024|
+|AndresVZ23/landing-page-cambiazo/index.html|master|b9c08a5c98442a90c0a7d1aa64eca71064107154|Feat: Adding stylesheet about us|We linked the stylesheet about us.|08/04/2024|
+|IanHD04/landing-page-cambiazo/index.html|master|e7dcb8c7388e8231a81a2b42382627c241b96632|Feat: Adding stylesheet ongs|Linking style-ongs.css in Stylesheet Header|08/04/2024|
+|123-Mathias/landing-page-cambiazo/index.html|master|c0d395ed1609d07dea68060a0f988e1c6902d5b6|Feat: insert stylesheet plans|In this part, we linked the stylesheet plans.|08/04/2024|
+|AndresVZ23/landing-page-cambiazo/index.html|master|28a07c681ff23170962bd9f0ae4b667ba2fddbef|Feat: Insert stylesheet contact us|In this part we linked the stylesheet contact us.|08/04/2024|
+|123-Mathias/landing-page-cambiazo/index.html|master|462922e0e15d53d1890be5a3e97c87c2389c58e5|Feat: Insert stylesheet footer|<p>In this part, we linked the stylesheet footer.</p><p></p>|08/04/2024|
+|HelloNerk/landing-page-cambiazo/scripts/burger.js|master|f203caa7eb2f8b43bbaa3b4a268d052afae6976e|Feat: Create function mostrarMensaje()|Create a showMessage() function to confirm the form registration.|08/04/2024|
+|diegooo01/landing-page-cambiazo/styles/style-header.css|master|8692861afac77dfb185817014ea19b499dbc0344|Feat:Upload Style Header content|Uploading style header css content.|08/04/2024|
+|HelloNerk/landing-page-cambiazo/styles/style-start.css|master|9a0d2844aeebb4053a0dd35e860210eb30d4eece|feat: Add styles of the start section 1,2,3 parts|Add styles of first, second and third part of the start section|08/04/2024|
+|<p>HelloNerk/landing-page-cambiazo/styles/style-start.css</p><p></p>|master|995aa0f957201be52249c8441dfc2d077e0f103b|feat: create fourth part of the start section|Create style of the fourth part of the start section|08/04/2024|
+|<p>123-Mathias/landing-page-cambiazo/styles/style-start.css</p><p></p>|master|2ace8b9040dee6d5815960a7063c07496a2e769a|<p>Feat: Fifth part of the Start Section</p><p></p>|In this part, we added the Fifth part of the Start Section.|08/04/2024|
+|diegooo01/landing-page-cambiazo/styles/style-start.css|master|8f67d25ac1e560515e1c3348324ccc1e6b845a4e|<p>Feat:Uploading media screen section</p><p></p>|Uploading media screen part into the style-start.css, with this portion of code this section will be responsive.|08/04/2024|
+|123-Mathias/landing-page-cambiazo/styles/style-footer.css|master|df06dddecee2b4025be4f27722a105e0980927ee|Feat: stylesheet footer|In this part, we created the footer.|08/04/2024|
+|123-Mathias/landing-page-cambiazo/styles/style-plans.css|<p>master</p><p></p>|e85ee535d9be146757eef15dbc5639e6e26b8e6d|<p>Feat: Stylesheet Plans</p><p></p>|In this part, we linked the stylesheet Plans.|<p>08/04/2024</p><p><br></p>|
+|IanHD04/landing-page-cambiazo/styles/style-ongs.css|master|b252e9ac9aa9a3833b5c1c0c5e6f93d750b08f3e|Feat: Upload Style Ongs Section|Add styling to ongs section and responsive design|08/04/2024|
+|AndresVZ23/landing-page-cambiazo/styles/style-about-us.css|master|b90602fd52ce8fbec004b2d5038a9c81d9342701|<p>Feat: Upload Style About Us Section</p><p></p>|Add style to about us section and responsive design.|08/04/2024|
+|AndresVZ23/landing-page-cambiazo/styles/style-about-us.css|master|a9e3a09264e7584812b1d13d551e47c40226f512|Feat: Upload Style Testimony Section|Add style to Testimony section and responsive design|08/04/2024|
+|AndresVZ23/landing-page-cambiazo/styles/style-contact-us.css|master|df2ebc3956953014fd9fb65d319b0c10ce474517|Feat: Upload Contact Us Testimony Section|Add style to Contact Us section and responsive design.|08/04/2024|
+|IanHD04/landing-page-cambiazo/index.html|master|04c33a3c01b205289338767ad8393f9f9ccc68bf|Feat: Create Ongs Conatiner|Creation of the Ongs section where the Ongs affiliated with CambiaZo will be displayed|08/04/2024|
+|IanHD04/landing-page-cambiazo/index.html|master|7a226f867497de593155f8a3cb7831d68e53feec|Revert "Feat: Create Ongs Conatiner"|This reverts commit 04c33a3.|08/04/2024|
+|<p>AndresVZ23/landing-page-cambiazo/index.html</p><p></p>|master|8c256280f830dcc6578d956ede597973eb49c418|<p>Fix: link stylesheet style-footer</p><p></p>|fixed the link of stylesheet style-footer|09/04/2024|
+
+
+
 </div>
