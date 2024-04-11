@@ -2743,6 +2743,41 @@ Enlace: [Video del Development Evidence for Sprint 1](https://upcedupe-my.sharep
  En la siguiente fase, decidimos utilizar las funciones colaborativas de GitHub, las cuales nos ayudaron grandemente en la cooperación entre todos los participantes. Esto tuvo como resultado una implementación eficiente y sin complicaciones. Además, al permitir que cada integrante tuviera acceso al repositorio, se realizaron los commits sin problemas y rápidamente, esto permitió que todos puedan visualizar cada cambio y el progreso realizado.
 <br><br>
 
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+A continuación, detallaremos los procesos realizados a lo largo del Sprint 1:
+
+Lo primero que realizamos fue crear dos repositorios en GitHub, uno para nuestro Landing Page y otro para los Acceptance Test.
+
+  <div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Deployment-Evidence/landing-page-repository.PNG?raw=true" alt="landing repository">
+  </div><br><br>
+  
+  <div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Deployment-Evidence/acceptance-test-repository.PNG?raw=true" alt="acceptance test">
+  </div><br>
+
+En el caso del repositorio “Acceptance-Test”, adoptamos GitFlow para gestionar ramas, permitiendo el desarrollo simultáneo y facilitando la integración de nuevas características.<br>
+
+
+  <div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Deployment-Evidence/acceptance-test-branches.PNG?raw=true" alt="branches">
+  </div><br><br>
+
+Todos los archivos se subían a la rama “feature/sprint-1”. Una vez se tenía la aprobación de todo el equipo, se pasaba a la rama “develop”.
+
+Finalmente configuramos GitHub Pages para obtener un enlace directo a la Landing Page, facilitando la revisión continua de los cambios realizados.
+
+Link: https://techzo-organization.github.io/landing-page-CambiaZo/ 
+
+  <div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Deployment-Evidence/github-pages.PNG?raw=true" alt="github pages">
+  </div><br>
+
+  
+  <div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Deployment-Evidence/github-pages-2.PNG?raw=true" alt="landing">
+  </div><br>
+
 
 
 </div>
