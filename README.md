@@ -2779,5 +2779,18 @@ Link: https://techzo-organization.github.io/landing-page-CambiaZo/
   </div><br>
 
 
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica de colaboración del repositorio "landing-page-CambiaZo", donde se presenta una visualización de la contribución de cada miembro del equipo en el desarrollo del Sprint 1.
+
+<b>Analíticos de GitHUb</b>
+
+  + Landing Page
+          <div align="center">
+        <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Insights/Insights.jpeg?raw=true" alt="contributor-evidence.">
+        </div>
+
+    En esta imagen, se evidencia los integrantes que han contribuido en el desarrollo del Landing Page. Se evidencia que todo el equipo ha participado.
+
 
 </div>
