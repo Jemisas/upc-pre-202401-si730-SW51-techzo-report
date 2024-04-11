@@ -1272,6 +1272,31 @@ Mediante este artefacto se explicará y comprenderá como los usuarios del segme
 
 Enlace: [User Journey Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/m/ZJfdG)
 
+### 2.3.4 Empathy Mapping
+
+Lo siguiente a evaluar como parte del needfinding es a nuestros segmentos objetivos a través de empathy maps, con el objetivo de conocer mejor a nuestros segmentos objetivos e identificar sus necesidades profundas.
+
+<b>Segmento Intercambiadores</b><br>
+
+<div align="center">
+
+[![Empathy Mapping.](https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/NeedFinding/empathy-map-1.PNG?raw=true)](https://uxpressia.com/w/ODLU6/p/lPmO3)
+</div>
+
+
+Enlace: [Empathy Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/lPmO3)
+<br>
+
+<b>Segmento Donadores</b><br>
+
+<div align="center">
+
+[![Empathy Mapping.](https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/NeedFinding/empathy-map-2.PNG?raw=true)](https://uxpressia.com/w/ODLU6/p/pKfKi)
+</div>
+
+
+
+Enlace: [Empathy Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/pKfKi)
 
 
 
