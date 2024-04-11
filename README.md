@@ -1818,7 +1818,7 @@ Para guiar a los usuarios a través del Landing Page y las aplicaciones de Cambi
 Al implementar estas acciones y técnicas de navegación, buscamos garantizar que los usuarios puedan cumplir sus objetivos de manera satisfactoria y disfrutar de una experiencia fluida y sin problemas en la plataforma Cambiazo.
 
 
-## 4.3. Landing Page UI Design.
+## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 Para la creación del esquema inicial de nuestra página de inicio (landing page), se empleó la plataforma Figma en conjunto con una variedad de complementos que simplificaron considerablemente el proceso de diseño y desarrollo. Esta combinación de herramientas permitió una producción eficiente y efectiva del wireframe.
 
@@ -1886,6 +1886,43 @@ En este diagrama de contenedores mostramos la arquitectura de CambiaZo, en la cu
 
 Enlace: [Diagrama de Contenedores en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Contenedores)<br><br>
 
+
+### 4.6.3. Software Architecture Components Diagrams
+
+En estos diagramas de componentes mostramos la arquitectura de las principales funcionalidades de CambiaZo. Además se logra ver cómo funcionan por dentro y cómo se conectan con los sistemas externos.
+
+
+**Componente Gestión de Usuarios**
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Software-Architecture/software-architecture-components-diagram-gestion.png?raw=true" width="600px" alt="diagram component 1">
+</div><br><br>
+
+Enlace: [Diagrama de Componentes 1 en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Component-001)<br><br>
+
+**Componente Intercambios/Trueques**
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Software-Architecture/software-architecture-components-diagram-trueque.png?raw=true" width="600px" alt="diagram component 2">
+</div><br><br>
+
+Enlace: [Diagrama de Componentes 2 en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Component-002)<br><br>
+
+**Componente Configuración y Ajustes**
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Software-Architecture/software-architecture-components-diagram-configuracion.png?raw=true" width="600px" alt="diagram component 3">
+</div><br><br>
+
+Enlace: [Diagrama de Componentes 3 en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Component-003)<br><br>
+
+
+**Componente Donaciones**
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Software-Architecture/software-architecture-components-diagram-donaciones.png?raw=true" width="600px" alt="diagram component 4">
+</div><br><br>
+
+Enlace: [Diagrama de Componentes 4 en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Component-004)<br><br>
 
 
 
