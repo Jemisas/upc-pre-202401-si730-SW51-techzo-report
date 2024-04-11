@@ -2736,4 +2736,13 @@ A continuación, en el enlace del vídeo donde se explica de forma más didácti
 Enlace: [Video del Development Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/Ed7K-j_Q149FmFTKQA4wB1YBbCKukD_w9-WbDuI0IUEqtw?e=1bAHuY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+ 
+  En el transcurso del Sprint 1, hemos conseguido tener avances importantes al momento de crear los repositorios de nuestro proyecto para guardar la Landing Page y las pruebas de aceptación (acceptance test), ya que, al tener estos puntos desde el comienzo, nos facilitó la organización de ideas.
+ 
+ En la siguiente fase, decidimos utilizar las funciones colaborativas de GitHub, las cuales nos ayudaron grandemente en la cooperación entre todos los participantes. Esto tuvo como resultado una implementación eficiente y sin complicaciones. Además, al permitir que cada integrante tuviera acceso al repositorio, se realizaron los commits sin problemas y rápidamente, esto permitió que todos puedan visualizar cada cambio y el progreso realizado.
+<br><br>
+
+
+
 </div>
