@@ -1528,7 +1528,28 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 |TS12|Get Subscription|<p>**Como** usuario developer de la aplicación Cambiazo,</p><p>**Quiero** poder obtener información sobre las suscripciones existentes en la plataforma a través del API,</p><p>**Para** mostrar esta información a los usuarios y permitirles gestionar sus suscripciones.</p>|<p>**Escenario 1: Obtener información de suscripción**</p><p>Dado que el endpoint "/suscripciones" está disponible,</p><p>Cuando se envía una solicitud GET con el identificador de la suscripción,</p><p>Entonces se recibe una respuesta con estado 200,</p><p>Y se obtienen los detalles de la suscripción solicitada.</p><p>**Escenario 2: Suscripción no encontrada**</p><p>Dado que el endpoint "/suscripciones" está disponible,</p><p>Cuando se envía una solicitud GET con un identificador de suscripción que no existe,</p><p>Entonces se recibe una respuesta con estado 404,</p><p>Y se muestra un mensaje que indica "No se encontró la suscripción".</p><p></p>|**EP07**|
 
 
+## 3.3. Impact Mapping
+En esta sección, nuestro equipo presenta el Impact Mapping, el cual es una herramienta visual y colaborativa que ayuda a los equipos a alinear sus objetivos con los resultados deseados.
 
+<b>Segmento Intercambiadores</b><br>
+
+<div align="center">
+
+[![Impact Mapping.](https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Impact-Map/impact-map-1.PNG?raw=true)](https://uxpressia.com/w/ODLU6/i/7BZnN)
+</div>
+
+
+Enlace: [Impact Mappping en UXPRESSIA](https://uxpressia.com/w/ODLU6/i/7BZnN)
+
+<b>Segmento Donadores</b><br>
+
+<div align="center">
+
+[![Impact Mapping.](https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Impact-Map/impact-map-2.PNG?raw=true)](https://uxpressia.com/w/ODLU6/i/M9ikH)
+</div>
+
+
+Enlace: [Impact Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/i/M9ikH)
 
 
 
