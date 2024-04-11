@@ -2652,6 +2652,18 @@ A continuación presentaremos los commits realizados en el repositorio de nuestr
 |IanHD04/landing-page-cambiazo/index.html|master|7a226f867497de593155f8a3cb7831d68e53feec|Revert "Feat: Create Ongs Conatiner"|This reverts commit 04c33a3.|08/04/2024|
 |<p>AndresVZ23/landing-page-cambiazo/index.html</p><p></p>|master|8c256280f830dcc6578d956ede597973eb49c418|<p>Fix: link stylesheet style-footer</p><p></p>|fixed the link of stylesheet style-footer|09/04/2024|
 
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+A continuación presentaremos los commits que se han hecho en la rama “feature/sprint-1” de nuestro repositorio, en el cual hemos seguido el esquema Gherkin y añadimos los archivos .feature de nuestro Sprint 1.
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited On (Date)**|
+| - | - | - | - | - | - |
+|AndresVZ23/TechZo-Organization/Acceptance-Test|feature/sprint-1|0cf5f0117ab07d31cb1804a57fb261a9871a92f9|Feat: Create US-25|In this part, we applied Gherkin to the US-25.|11/04/2024|
+|123-Mathias/TechZo-Organization/Acceptance-Test|feature/sprint-1|adf315e8640341e571a0bf0b08f6d904bb68732f|Feat: Create US-26|In this part, we applied Gherkin to the US-26.|11/04/2024|
+|IanHD04/TechZo-Organization/Acceptance-Test|feature/sprint-1|44286b3fa1c3b7471e788b173d7a5dd8ba143210|Feat: Create US-27|In this part, we applied Gherkin to the US-27.|11/04/2024|
+|HelloNerk/TechZo-Organization/Acceptance-Test|feature/sprint-1|eaaca201cb1df7f680af7a08b5e2f21d5fc45d2c|Feat: Create US-28|In this part, we applied Gherkin to the US-28.|11/04/2024|
+|diegooo01/TechZo-Organization/Acceptance-Test|feature/sprint-1|b272c6d857c27e2fa6a8692dd2f4fac2c3ede606|Feat: Create US-29|In this part, we applied Gherkin to the US-29.|11/04/2024|
+|AndresVZ23/TechZo-Organization/Acceptance-Test|feature/sprint-1|9cd78c10cb78fb2f8cfe490632b6ff41f7423415|Feat: Create US-30|In this part, we applied Gherkin to the US-30.|11/04/2024|
 
 
 </div>
