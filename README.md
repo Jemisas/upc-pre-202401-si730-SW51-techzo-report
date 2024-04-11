@@ -1516,7 +1516,7 @@ Enlace: [Impact Mappping en UXPRESSIA](https://uxpressia.com/w/ODLU6/i/7BZnN)
 Enlace: [Impact Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/i/M9ikH)
 
 
-## 3.4. Product Backlog.
+## 3.4. Product Backlog
 En el Product Backlog presentaremos una lista priorizada de nuestras user stories según el nivel de prioridad que acordamos en el equipo, esencial para el *enfoque ágil*.Para analizar el nivel de dificultad de las tareas, utilizamos la secuencia de Fibonacci (1,2,3,5,8).
 <br><br>
 Tomamos como historia de usuario base la historia de usuario US12: Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar
@@ -1641,7 +1641,7 @@ En esta sección, describiremos los diferentes tonos que utilizamos, desde la em
 - **Usuario Donadores**: En constraste, utilizamos un lenguaje cálido y empático que resalte la importancia del acto de la donación y el impacto positivo que puede tener en la vida de otras personas. El tono es inspirador y motivador, invitando a los usuarios a sentirse parte de una causa noble y a generar un cambio positivo en la comunidad. Se enfatiza la gratitud y el reconocimiento hacia los donadores por su generosidad.
 
 
-### 4.1.2. Web Style Guidelines.
+### 4.1.2. Web Style Guidelines
 
 En nuestras pautas de estilo web, priorizamos la adaptación de nuestros principios de diseño a la experiencia de usuario en entornos de navegación en línea. Esto incluye:
 
@@ -1657,6 +1657,29 @@ Al adherirnos a estos principios de diseño, nos comprometemos a ofrecer una exp
 
 
 
+## 4.2. Information Architecture
+En Cambiazo, la arquitectura de la información se centra en organizar el contenido de manera intuitiva y accesible tanto en la página de inicio como en las aplicaciones web y móviles. Implementamos sistemas de organización claros y efectivos, como la jerarquía visual y la categorización por temas, junto con una etiquetación precisa para garantizar una navegación fluida y una búsqueda eficiente de productos. Además, ofrecemos una navegación intuitiva con opciones claras de búsqueda y filtros avanzados, lo que permite a los usuarios encontrar fácilmente lo que necesitan sin esfuerzo. Esto se traduce en una experiencia coherente y satisfactoria para los visitantes y usuarios de Cambiazo.
+
+### 4.2.1. Organization Systems
+En Cambiazo, aplicaremos varios sistemas de organización de información para garantizar una experiencia de usuario fluida y efectiva. Aquí está cómo se implementarán:
+
+**Organización visual del contenido:**
+
+- **Jerárquica (Visual Hierarchy):** Utilizaremos la organización jerárquica para destacar la información importante y guiar a los usuarios a través de los diferentes niveles de contenido. Por ejemplo, en la página de inicio, los productos destacados tendrán un tamaño y ubicación prominentes para captar la atención del usuario formando parte de un slide infinito.
+
+- **Organización secuencial (Step-by-step):** Implementaremos la organización secuencial en los procesos de registro de usuario, creación de listados de productos y confirmación de intercambios. Esto ayudará a los usuarios a completar tareas de manera efectiva, paso a paso, sin confusiones.
+
+**Esquemas de categorización de contenido:**
+
+- **Por tópicos:** Categorizamos los productos disponibles para intercambiar en diferentes temas o categorías, como electrónica, ropa, libros, etc. Esto facilitará a los usuarios encontrar rápidamente lo que están buscando.
+
+- **Según audiencia (Grupos de usuarios):** Implementaremos esquemas de categorización de contenido basados en los intereses y necesidades de diferentes grupos de usuarios. Por ejemplo, podríamos tener una sección especial para artículos infantiles, otra para artículos deportivos, etc., para satisfacer las necesidades específicas de cada grupo de usuarios.
+
+- **Cronológico:** Utilizaremos la organización cronológica para mostrar eventos importantes, como promociones especiales, actualizaciones de la aplicación y noticias relevantes para la comunidad de Cambiazo.
+
+- **Alfabético:** Algunas secciones de la aplicación, como los productos de intercambio o la sección de preguntas frecuentes, podrían organizarse alfabéticamente para facilitar la búsqueda y navegación.
+
+Al aplicar estos sistemas de organización de información, nos aseguraremos de que los usuarios puedan encontrar fácilmente lo que necesitan y completar sus tareas de manera eficiente en la plataforma Cambiazo.
 
 
 
