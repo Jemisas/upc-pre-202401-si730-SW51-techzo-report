@@ -1927,6 +1927,18 @@ Enlace: [Diagrama de Componentes 4 en Structurizr](https://structurizr.com/share
 
 
 
+## 4.7. Software Object-Oriented Design
+
+En la sección de Software Object-Oriented Design se presentarán dos aspectos fundamentales: los diagramas de clase y el diccionario de clases.
+
+### 4.7.1. Class Diagrams
+
+Los diagramas de clase representan las entidades del sistema y sus relaciones de manera visual, facilitando la comprensión de la estructura y la interacción entre los componentes del software.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Class%20Diagram/class-diagram.PNG?raw=true" width="500px" alt="class diagram">
+</div><br><br>
+
 
 
 
