@@ -1250,7 +1250,7 @@ Después de analizar las entrevistas de nuestro segmento objetivo, nuestra tarea
 
 <div align="center">
 
-[![User Persona 1](https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/NeedFinding/user-persona-1.PNG?raw=true)](https://uxpressia.com/w/ODLU6/p/WUMVh)>
+[![User Persona 1](https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/NeedFinding/user-persona-1.PNG?raw=true)](https://uxpressia.com/w/ODLU6/p/WUMVh)
 </div>
 
 Enlace: [User Persona en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/WUMVh)
