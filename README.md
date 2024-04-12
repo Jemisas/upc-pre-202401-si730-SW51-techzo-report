@@ -110,12 +110,11 @@ TechZo es una startup que está conformada por estudiantes de la Universidad Per
 
 | **Integrante**                         | **Perfil**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | **Imagen**                                                                                                       |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Diego Anderson Criollo De La Cruz - u202219639**              |                                                                                                                                                                                                                                                                                                                  Mi nombre es Diego Anderson Criollo de La Cruz, soy estudiante de 5to ciclo de la carrera de Ingeniería de Software. Me gusta mucho emplear soluciones creativas y que busquen eficiencia para poder aborder de esta forma cualquier desafío de la mejor manera. Como miembro del grupo, pretendo aportar con todos mis conocimientos en el desarrollo web tanto como en el front-end y back-end,  además de siempre colaborar con mis ideas y soluciones ante cualquier dificultad que se presente en el desarrollo. Espero poder aprender mucho de mis compañeros y que todos juntos podamos emplear de manera adecuada las tecnologías que iremos aprendiendo a lo largo del desarrollo del proyecto.| <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Profiles/diego.jpg?raw=true" alt="Imagen de Diego Criollo" />                 |
-| **Joseph Alexis Huamani Mandujano - u20221a133**             |Mi nombre es Joseph Huamani, soy estudiante de 5to ciclo en la carrera de Ingeniería de Software en la UPC. La razón por la cual elegí esta carrera es porque desde pequeño siempre me ha gustado la tecnología, el cómo es el funcionamiento y la creación de los programas que uso en mí día a día.  Por ello, en este curso me  comprometo a ser un buen integrante para mi grupo y dar lo  mejor de mí en los trabajos con las habilidades técnicas como dominio en los lenguajes C++, Python y Javascript y habillidades blandas como trabajo en equipo, responsabillidad y resolución de problemas.                                                               | <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Profiles/Joseph.jpg?raw=true" alt="Imagen de Joseph Huamani" />                |
-| **Mathias André Mendoza Carrión - u202216282** |                                                                                                                             Soy Mathias Andre Mendoza Carrión, un estudiante de 19 años de Ingeniería de Software en el quinto ciclo. Me caracterizo por ser organizado, trabajar bien en equipo y ser responsable. En este momento, mi enfoque principal es el aprendizaje profundo y práctico en el desarrollo de software. Aspiro a dominar nuevas tecnologías y habilidades, así como a comprender en detalle los principios fundamentales detrás del desarrollo de aplicaciones.| <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Profiles/mathias.jpg?raw=true" alt="Imagen de Mathias Mendoza" />   |
-| **Ian Haziel Donato Santisteban Palomino - u202214059**     |Mi nombre es Ian Haziel Donato Santisteban Palomino y estoy cursando el quinto ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Como miembro del equipo, aporto un sólido conocimiento en desarrollo de software y un compromiso constante con la excelencia en cada proyecto en el que participo. Estoy emocionado por aprender y colaborar con el equipo, así como por adquirir nuevas habilidades y conocimientos en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Profiles/Ian.PNG?raw=true" alt="Imagen de Ian Santisteban" /> |
-| **Abel Andrés Valle Zuta - u202210297**     |                                                                                                                                 Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), tengo 19 años y actualmente estoy cursando el 5to ciclo en la sede de Monterrico. Sé programar y editar videos. Además, sé resolver problemas, trabajar en equipo y lograr unir más al grupo. Mis hobbies son jugar básquet, fútbol, tenis, videojuegos, escuchar música, salir a pasear con mis amigos, ver películas, nadar, hacer ejercicio, pasear a mis mascotas y pasar tiempo con mi familia. Finalmente, siempre estoy dispuesto a trabajar y terminar a tiempo los deberes, esforzándome para aprender y comprender lo máximo posible y finalizar con éxito todos mis objetivos.| <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Profiles/andres.jpg?raw=true" alt="Imagen de Andres Valle" />      |
-||
+| **Diego Anderson Criollo De La Cruz - u202219639**              |                                                                                                                                                                                                                                                                                                                  Mi nombre es Diego Anderson Criollo de La Cruz, soy estudiante de 5to ciclo de la carrera de Ingeniería de Software. Me gusta mucho emplear soluciones creativas y que busquen eficiencia para poder aborder de esta forma cualquier desafío de la mejor manera. Como miembro del grupo, pretendo aportar con todos mis conocimientos en el desarrollo web tanto como en el front-end y back-end,  además de siempre colaborar con mis ideas y soluciones ante cualquier dificultad que se presente en el desarrollo. Espero poder aprender mucho de mis compañeros y que todos juntos podamos emplear de manera adecuada las tecnologías que iremos aprendiendo a lo largo del desarrollo del proyecto.| <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Profiles/diego.jpg?raw=true" alt="Imagen de Diego Criollo"/>                 |
+| **Joseph Alexis Huamani Mandujano - u20221a133**             |Mi nombre es Joseph Huamani, soy estudiante de 5to ciclo en la carrera de Ingeniería de Software en la UPC. La razón por la cual elegí esta carrera es porque desde pequeño siempre me ha gustado la tecnología, el cómo es el funcionamiento y la creación de los programas que uso en mí día a día.  Por ello, en este curso me  comprometo a ser un buen integrante para mi grupo y dar lo  mejor de mí en los trabajos con las habilidades técnicas como dominio en los lenguajes C++, Python y Javascript y habillidades blandas como trabajo en equipo, responsabillidad y resolución de problemas.                                                               | <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Profiles/Joseph.jpg?raw=true" alt="Imagen de Joseph Huamani"/>                |
+| **Mathias André Mendoza Carrión - u202216282** |                                                                                                                             Soy Mathias Andre Mendoza Carrión, un estudiante de 19 años de Ingeniería de Software en el quinto ciclo. Me caracterizo por ser organizado, trabajar bien en equipo y ser responsable. En este momento, mi enfoque principal es el aprendizaje profundo y práctico en el desarrollo de software. Aspiro a dominar nuevas tecnologías y habilidades, así como a comprender en detalle los principios fundamentales detrás del desarrollo de aplicaciones.| <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Profiles/mathias.jpg?raw=true" alt="Imagen de Mathias Mendoza"/>   |
+| **Ian Haziel Donato Santisteban Palomino - u202214059**     |Mi nombre es Ian Haziel Donato Santisteban Palomino y estoy cursando el quinto ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Como miembro del equipo, aporto un sólido conocimiento en desarrollo de software y un compromiso constante con la excelencia en cada proyecto en el que participo. Estoy emocionado por aprender y colaborar con el equipo, así como por adquirir nuevas habilidades y conocimientos en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Profiles/Ian.PNG?raw=true" alt="Imagen de Ian Santisteban"/> |
+| **Abel Andrés Valle Zuta - u202210297**     |                                                                                                                                 Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), tengo 19 años y actualmente estoy cursando el 5to ciclo en la sede de Monterrico. Sé programar y editar videos. Además, sé resolver problemas, trabajar en equipo y lograr unir más al grupo. Mis hobbies son jugar básquet, fútbol, tenis, videojuegos, escuchar música, salir a pasear con mis amigos, ver películas, nadar, hacer ejercicio, pasear a mis mascotas y pasar tiempo con mi familia. Finalmente, siempre estoy dispuesto a trabajar y terminar a tiempo los deberes, esforzándome para aprender y comprender lo máximo posible y finalizar con éxito todos mis objetivos.| <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Profiles/andres.jpg?raw=true" alt="Imagen de Andres Valle"/>|
 
 ## 1.2 Solution Profile
 La propuesta se basa en una aplicación web llamada CambiaZo, diseñada para asistir en el intercambio y donación de productos que los usuarios ya no utilizan. Esta aplicación web conectará a usuarios de distintas partes a través del ordenador y ayudará a que puedan obtener los objetos que desean a través del trueque con otros usuarios, además ayudará a facilitar las formas de donar a personas de escasos recursos económicos.
@@ -126,27 +125,29 @@ Se sabe que la cultura de desarrollo sostenible está tomando impulso en los úl
 Según un reporte del portal INFOBAE del presente año 2024, se menciona sobre las estimaciones realizadas de la ONU sobre el crecimiento de la población mundial, de acuerdo a ello, se espera que la población mundial aumente en 2000 millones de personas en los próximos 30 años, llegando a una cifra total de 9700 millones de personas para el año 2050. Cada una de estas personas llegarán a generar sus propios residuos que multiplicado por toda la población mundial se vuelve una cifra gigantesca. Es frente a este futuro escenario en donde entra nuestra propuesta de solución, CambiaZo.
 
 Para explicar con más detalle esta situación, como grupo, usaremos la metodología de las 5W y 2H para darle más énfasis a los antecedentes y problemáticas a las que se enfrenta nuestra iniciativa de cambio:
-#### 5W's y 2H's
 
-* **What?** <br>
-La cantidad de residuos que se generan a diario por cada persona del mundo generan un impacto negativo en el medio ambiente y en la conservación de los recursos básicos del planeta.
+**5W's y 2H's**
 
-* **Why?** <br>
-Debido a que muchas personas no toman la iniciativa de darle un nuevo uso a aquellas pertenencias que ya no necesitan más y simplemente deciden desecharlas, sin conocer las consecuencias que esto podría ocasionar a largo plazo.
+* **What?**
+La cantidad de residuos que se generan a diario por cada persona del mundo generan un impacto negativo en el medio ambiente y en la conservación de los recursos básicos del planeta.<br><br>
 
-* **Who?** <br>
-Público en general y personas que más necesitan de apoyo de recursos.
 
-* **When?** <br>
-Esta problemática es una constante con el pasar de los años ya que recién es que se está popularizando la cultura de reutilización y desarrollo sostenible, debido a que desde siempre se ha optado en primera instancia por solo desechar y no reutilizar.
+* **Why?**
+Debido a que muchas personas no toman la iniciativa de darle un nuevo uso a aquellas pertenencias que ya no necesitan más y simplemente deciden desecharlas, sin conocer las consecuencias que esto podría ocasionar a largo plazo.<br><br>
 
-* **Where?** <br>
-Si bien es una problemática que persiste en todo el mundo, nos centraremos en un inicio en la población peruana.
+* **Who?**
+Público en general y personas que más necesitan de apoyo de recursos.<br><br>
 
-* **How?** <br>
-Se implementará una propuesta de solución, mediante el desarrollo de una aplicación web que permita a los usuarios publicar posts de objetos que deseen intercambiar por otras pertenencias, además de permitir realizar donaciones a organizaciones benéficas. Todo ello en una plataforma intuitiva, fácil de manejar y con opciones de personalización.
+* **When?**
+Esta problemática es una constante con el pasar de los años ya que recién es que se está popularizando la cultura de reutilización y desarrollo sostenible, debido a que desde siempre se ha optado en primera instancia por solo desechar y no reutilizar.<br><br>
 
-* **How much?** <br>
+* **Where?**
+Si bien es una problemática que persiste en todo el mundo, nos centraremos en un inicio en la población peruana.<br><br>
+
+* **How?**
+Se implementará una propuesta de solución, mediante el desarrollo de una aplicación web que permita a los usuarios publicar posts de objetos que deseen intercambiar por otras pertenencias, además de permitir realizar donaciones a organizaciones benéficas. Todo ello en una plataforma intuitiva, fácil de manejar y con opciones de personalización.<br><br>
+
+* **How much?**
 El presupuesto varía dependiendo de cuanta información se
 requiera para el desarrollo del aplicativo web. Sin embargo se considera un aproximado de s/. 7 000.
 
@@ -157,7 +158,8 @@ requiera para el desarrollo del aplicativo web. Sin embargo se considera un apro
 **Problem Statement 1:**  El contexto actual en el que nos encontramos nos demuestra que a diario se ve mucho más en práctica modelos de vida sostenible y que incluso se popularizan de manera más rápida por las redes sociales. De acuerdo a esto, cada vez la población busca darle una nueva vida a sus pertenencias y así evitar el desechar tantos objetos y de este modo contribuir con la disminución de residuos en el planeta.
 
 Sin embargo, hemos notado que hay una gran dificultad al que este sector de la población tiene, el cual es que no hay una forma sencilla y práctica de darle un segundo uso a sus pertenencias, en este caso, enfocándonos en el intercambio de bienes. 
-¿Cómo implementamos de manera eficaz un modelo de intercambio de pertenencias?
+¿Cómo implementamos de manera eficaz un modelo de intercambio de pertenencias?<br><br>
+
 
 **Problem Statement 2:** En la actualidad, se puede observar que hay una base sólida de organizaciones benéficas que siempre apoyan a diversos sectores vulnerables de la población, ya sea con donaciones de víveres, ropa, objetos de primera necesidad y/o apoyo económico.
 
@@ -170,19 +172,19 @@ Pese a ello, hemos identificado un factor crítico que afecta a muchas de estas 
 
  + **User Assumptions:** 
 
-    + **¿Quién es el usuario?** <br> Nuestros usuarios son todo el público que esté interesado en darle un nuevo uso a sus pertenencias, intercambiandolas por otras con alguien que sí las necesite. Además de ello, va dirigido a personas que deseen donar a ciertas organizaciones benéficas registradas en la plataforma.
+    + **¿Quién es el usuario?** <br> Nuestros usuarios son todo el público que esté interesado en darle un nuevo uso a sus pertenencias, intercambiandolas por otras con alguien que sí las necesite. Además de ello, va dirigido a personas que deseen donar a ciertas organizaciones benéficas registradas en la plataforma.<br><br>
 
-    + **¿Dónde encaja nuestro producto en su trabajo o en su vida?**<br> Nuestro producto encaja en el estilo de vida de nuestros usuarios, al querer impulsar una forma de vida sostenible y una economía cíclica respecto a los bienes de las personas
+    + **¿Dónde encaja nuestro producto en su trabajo o en su vida?**<br> Nuestro producto encaja en el estilo de vida de nuestros usuarios, al querer impulsar una forma de vida sostenible y una economía cíclica respecto a los bienes de las personas<br><br>
 
-    + **¿Cuándo y cómo se utiliza nuestro producto?**<br> Nuestro producto es usado cuando los usuarios sientan que ya no necesitan más una pertenencia y en vez de solo desecharla, darle un nuevo uso para alguien más, intercambiándose por algo que sí necesite o realizando donaciones a organizaciones benéficas para aquellos que más lo necesitan.
-
-
-    + **¿Qué problemas resuelve nuestro producto?**<br>Cambiazo simplifica el intercambio y la donación de objetos, ofreciendo una plataforma segura y conveniente que promueve la reutilización y reduce el desperdicio. Con medidas de seguridad integradas, aborda las preocupaciones sobre transacciones fraudulentas, proporcionando una solución completa para una experiencia de intercambio confiable y sostenible.
+    + **¿Cuándo y cómo se utiliza nuestro producto?**<br> Nuestro producto es usado cuando los usuarios sientan que ya no necesitan más una pertenencia y en vez de solo desecharla, darle un nuevo uso para alguien más, intercambiándose por algo que sí necesite o realizando donaciones a organizaciones benéficas para aquellos que más lo necesitan.<br><br>
 
 
-    + **¿Qué características son importantes?**<br> Que sea fácil de usar, intuitiva y que contenga las funcionalidades necesarias para que la experiencia del usuario sea la mejor, con opción de filtros para la búsqueda de ciertos artículos y/o también la inclusión de un chat privado entre usuarios para que puedan comunicarse y coordinar el intercambio, si es que ambos están de acuerdo con las pertenencias que ofrecen y desean recibir.
+    + **¿Qué problemas resuelve nuestro producto?**<br>Cambiazo simplifica el intercambio y la donación de objetos, ofreciendo una plataforma segura y conveniente que promueve la reutilización y reduce el desperdicio. Con medidas de seguridad integradas, aborda las preocupaciones sobre transacciones fraudulentas, proporcionando una solución completa para una experiencia de intercambio confiable y sostenible.<br><br>
 
-    + **¿Cómo debe verse y comportarse nuestro producto?**<br> Nuestro producto debe tener una interfaz amigable para todos el público en general, incluir solo funcionalidades básicas y necesarias para no saturar a los usuarios con demasiada información.Además de ello debe mantenerse siempre con actualizaciones que vayan mejorando la optimización del proyecto.
+
+    + **¿Qué características son importantes?**<br> Que sea fácil de usar, intuitiva y que contenga las funcionalidades necesarias para que la experiencia del usuario sea la mejor, con opción de filtros para la búsqueda de ciertos artículos y/o también la inclusión de un chat privado entre usuarios para que puedan comunicarse y coordinar el intercambio, si es que ambos están de acuerdo con las pertenencias que ofrecen y desean recibir.<br><br>
+
+    + **¿Cómo debe verse y comportarse nuestro producto?**<br> Nuestro producto debe tener una interfaz amigable para todos el público en general, incluir solo funcionalidades básicas y necesarias para no saturar a los usuarios con demasiada información.Además de ello debe mantenerse siempre con actualizaciones que vayan mejorando la optimización del proyecto.<br><br>
 
  + **Business Outcomes:** 
 
@@ -209,7 +211,7 @@ Pese a ello, hemos identificado un factor crítico que afecta a muchas de estas 
     11. **Resolveremos esto a través de** un proceso de verificación y control sobre la información que cada usuario coloca al momento de hacer un intercambio, para que no haya inconvenientes de posibles intercambios injustos o de broma.
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
-**Creemos que** al tener una plataforma sólida **para**  poder realizar publicaciones de intercambios, los usuarios podrán contribuir con la metodología de una economía cíclica y de formar parte de un estilo de vida sostenible.<br>
+**Creemos que** al tener una plataforma sólida **para**  poder realizar publicaciones de intercambios, los usuarios podrán contribuir con la metodología de una economía cíclica y de formar parte de un estilo de vida sostenible.
 **Sabremos que es cierto** cuando las estadísticas de cuántos intercambios se van realizando al día sean más de 30, esto demostrará que nuestra propuesta de solución realmente está fomentando la reutilización de los objetos de las personas en general.
 
 **Creemos que**  permitir la interacción entre los usuarios al momento de mostrar interés por un artículo, ayudará a que puedan coordinar el intercambio de mejor manera <br>**Sabremos que lo habremos logrado**  cuando se refleje a través de los comentarios, que más del 50% de los usuarios resalte el sistema de comunicación entre usuarios, previo al intercambio.
@@ -224,57 +226,39 @@ La aplicación **CambiaZo**  es una plataforma digital diseñada para que los us
 <table>
     <tr>
         <td valign="top" >
-            <div align="center"> 
-                <b>Problema de negocios</b> 
-            </div><br>
+            <div align="center"> <br><b>Problema de negocios</b> </div><br>
             <p>El mayor factor de todo esto es la falta de accesibilidad y sencillez a la hora de buscar la forma de intercambiar bienes.<br><br>¿Cómo podemos crear una forma sencilla de encontrar personas que</p><br>
         </td>
         <td rowspan="2" valign="top">
-            <div align="center"> 
-                <b>Ideas de las soluciones</b> 
-            </div><br>
+            <div align="center"><br><b>Ideas de las soluciones</b> </div><br>
             <p>Una aplicación con la cual se pueda realizar intercambios de productos. Además de tener un apartado donde los usuarios puedan registrar los objetos que deseen donar.<br><br> En caso el usuario no considere conveniente el intercambio, tiene la opción de cancelarlo y seguir buscando a otros usuarios.
-            </p>
+            </p><br>
         </td>
             <td valign="top">
-            <div align="center"> 
-                <b>Resultados Comerciales</b> 
-            </div><br>
-            <p>Priorizar que los usuarios estén conformes con los intercambios realizados.<br><br>Obtener un financiamiento adicional para el crecimiento de la empresa.<br><br>Aumentar el alcance de la aplicación a través de las redes sociales.</p>
+            <div align="center"> <br><b>Resultados Comerciales</b> </div><br>
+            <p>Priorizar que los usuarios estén conformes con los intercambios realizados.<br><br>Obtener un financiamiento adicional para el crecimiento de la empresa.<br><br>Aumentar el alcance de la aplicación a través de las redes sociales.</p><br>
             </td>
         </tr>
     <tr>
         <td valign="top">
-            <div align="center"> 
-                <br><b>Usuarios y Clientes</b> 
-            </div><br>
-            <p>Personas que desean intercambiar objetos que ya no usan.</p>
+            <div align="center"><br><b>Usuarios y Clientes</b></div><br>
+            <p>Personas que desean intercambiar objetos que ya no usan.</p><br>
         </td>
         <td valign="top">
-            <div align="center"> 
-                <br><b>Beneficios del usuario</b> 
-            </div><br> 
-            <p>Ahorro de dinero.<br><br>Deshacerse de objetos que ya no desean.<br><br>Obtención de nuevos artículos.<br><br></p>
+            <div align="center"><br><b>Beneficios del usuario</b></div><br>
+            <p>Ahorro de dinero.<br><br>Deshacerse de objetos que ya no desean<br><br>Obtención de nuevos artículos.</p><br>
         </td>
     </tr>
     <tr>
         <td valign="top">
-            <div align="center"> 
-                <br><b>Hipótesis</b> 
-            </div><br>
-            <p>Creemos que con nuestra aplicación, ayudaremos a promover la metodología de economía cíclica y un estilo de vida sostenible.<br><br>Creemos que al utilizar nuestra aplicación, las personas podrán realizar fácilmente el intercambio de sus objetos que ya no desean.</p><br>
+            <div align="center"> <br><b>Hipótesis</b> </div><br>
+            <p>Creemos que con nuestra aplicación, ayudaremos a promover la metodología de economía cíclica y un estilo de vida sostenible.<br><br>Creemos que al utilizar nuestra aplicación, las personas podrán realizar fácilmente el intercambio de sus objetos que ya no desean.</p> <br>
         </td>
         <td valign="top">
-            <div align="center"> 
-                <br><b>¿Qué es lo más importante que necesitamos aprender primero? </b> 
-            </div><br>
-            <p>Conocer las preguntas más comunes de los usuarios.<br><br>Conocer las características más importantes de los productos.<br><br>Implementar medidas de seguridad sólidas para proteger los datos de los usuarios.</p><br>
+            <div align="center"> <br><b>¿Qué es lo más importante que necesitamos aprender primero? </b> </div><br><p>Conocer las preguntas más comunes de los usuarios.<br><br>Conocer las características más importantes de los productos.<br><br>Implementar medidas de seguridad sólidas para proteger los datos de los usuarios.</p> <br>
         </td>
         <td valign="top">
-            <div align="center"> 
-                <br><b>¿Cuál es la menor cantidad de trabajo que necesitamos hacer para resolver las dudas y para hacer lo siguiente más importante?</b> 
-            </div><br>
-            <p>Dejar una opción para que los usuarios puedan dejar sus comentarios en general sobre el uso de la aplicación e ideas de cómo mejorarla.<br><br>Realizar encuestas mensualmente para conocer el nivel de satisfacción de nuestros usuarios con la aplicación.</p><br>
+            <div align="center">  <br><b>¿Cuál es la menor cantidad de trabajo que necesitamos hacer para resolver las dudas y para hacer lo siguiente más importante?</b> </div><br><p>Dejar una opción para que los usuarios puedan dejar sus comentarios en general sobre el uso de la aplicación e ideas de cómo mejorarla.<br><br>Realizar encuestas mensualmente para conocer el nivel de satisfacción de nuestros usuarios con la aplicación.</p> <br>
         </td>
     </tr>
 </table>
@@ -332,69 +316,50 @@ En esta sección se realizará el análisis competitivo de los competidores iden
   </tr>
   <tr>
     <td colspan="2">
-        <div align="center">
-    		Nombre
-		</div>
+        <div align="center">Nombre</div>
     </td>
     <td>
-		<div align="center">
-    		Cambiazo<br>
-		</div>
+		<div align="center">Cambiazo<br></div>
 	</td>
     <td>
-		<div align="center">
-    	    Trueques.com
-		</div>
+		<div align="center">Trueques.com</div>
 	</td>
     <td>
-			<div align="center">
-    		Haztruequing
-			</div>
-		</td>
+		<div align="center">Haztruequing</div>
+	</td>
     <td>
-			<div align="center">
-    		Me Sirve
-			</div>
-		</td>
+		<div align="center">Me Sirve</div>
+	</td>
   </tr>
   <tr>
     <td colspan="2">
-        <div align="center">
-    		Logo
-		</div>
+        <div align="center">Logo</div>
     </td>
     <td>
-			<div align="center">
-				<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/logo-cambiazo.PNG?raw=true" alt="Cambiazo logo" width="150">
-			</div>
+		<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/logo-cambiazo.PNG?raw=true" alt="Cambiazo logo" /></div>
 		</td>
     <td>
-			<div align="center">
-				<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Competitors/logo-trueques.PNG?raw=true" alt="Trueques.com logo" width="150">
-			</div>
+		<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Competitors/logo-trueques.PNG?raw=true" alt="Trueques.com logo" /></div>
 		</td>
     <td>
-			<div align="center">
-				<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Competitors/logo-haztruequing.png?raw=true" alt="Haztruequing logo" width="150">
-			</div>
+		<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Competitors/logo-haztruequing.png?raw=true" alt="Haztruequing logo" /></div>
 		</td>
     <td>
-			<div align="center">
-				<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Competitors/logo-mesirve.png?raw=true" alt="Me sirve logo" width="150">
-			</div>
+		<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Competitors/logo-mesirve.png?raw=true" alt="Me sirve logo" /></div>
 		</td>
   </tr>
   <tr>
     <td rowspan="2">Perfil</td>
     <td>Overview</td>
-    <td>App Web que conecta a personas interesadas en darle un nuevo uso a sus pertenencias mediante intercambios o donaciones, enfocándose en la sostenibilidad y la economía circular.</td>
+    <td>App Web que conecta a personas interesadas en darle un nuevo uso a sus pertenencias mediante intercambios o donaciones, enfocándose en la sostenibilidad y la economía circular.
+	</td>
     <td>Página Web para intercambio de bienes y servicios entre usuarios, fomentando la economía colaborativa y la reutilización de recursos.</td>
     <td>Plataforma para intercambiar servicios y artículos de segunda mano de manera gratuita, promoviendo un estilo de vida sostenible y consciente.</td>
     <td>App para intercambiar bienes y servicios de manera segura y eficiente, promoviendo la reutilización y la solidaridad entre usuarios.</td>
   </tr>
   <tr>
     <td>Ventaja Competitiva <br>¿Qué valor ofrece a los clientes?</td>
-    <td>Intercambio de productos o servicios. Donación de objetos a ONGs afiliadas</td>
+    <td>Intercambio de productos o servicios. <br><br>Donación de objetos a ONGs afiliadas</td>
     <td>Intercambio directo de bienes y servicios sin dinero, fomentando la reutilización y colaboración.</td>
     <td>Intercambio de servicios y artículos de segunda mano, promoviendo un estilo de vida sostenible.</td>
     <td>Intercambio bienes y servicios, promoviendo la reutilización y la solidaridad.
@@ -415,7 +380,6 @@ En esta sección se realizará el análisis competitivo de los competidores iden
     <td>Publicidad en redes sociales</td>
     <td>Publicidad en redes sociales</td>
   </tr>
-
   <tr>
     <td rowspan="3">Perfil de Producto<br></td>
     <td>Productos &amp; Servicios</td>
@@ -600,10 +564,8 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 
 **Segmento Intercambiadores**<br>
 
-<table style="undefined;table-layout: fixed; width: 910px">
+<table>
 <colgroup>
-<col style="width: 220px">
-<col style="width: 700px">
 </colgroup>
 <thead>
   <tr>
@@ -649,21 +611,15 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center">
-				<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Interviews/entrevista-Jorge-Pacheco.PNG?raw=true" alt="Entrevista Jorge Pacheco">
-			</div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Interviews/entrevista-Jorge-Pacheco.PNG?raw=true" alt="Entrevista Jorge Pacheco"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/Eeb5zIydJiRJuxYajHT2EpABGacNeoYGNTcv_yUL82B9wQ" title="Title">Microsoft Stream</p>
-		</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/Eeb5zIydJiRJuxYajHT2EpABGacNeoYGNTcv_yUL82B9wQ" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>
-		 00:00 min - 4:59 min 
-		</td>
+    <td> 00:00 min - 4:59 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -674,10 +630,8 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 </table>
 
 
-<table style="undefined;table-layout: fixed; width: 910px">
+<table>
 <colgroup>
-<col style="width: 220px">
-<col style="width: 700px">
 </colgroup>
 <thead>
   <tr>
@@ -723,39 +677,26 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
     <tr>
     <td>Evidencia</td>
-    <td>
-      <div align="center">
-				<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Interviews/entrevista-Edu-Gutierrez.PNG?raw=true" alt="Entrevista Edu Gutierrez">
-			</div>
-    </td>
+    <td><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Interviews/entrevista-Edu-Gutierrez.PNG?raw=true" alt="Entrevista Edu Gutierrez"></div></td>
   </tr>
-
   <tr>
     <td>Link</td>
-    <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/Eeb5zIydJiRJuxYajHT2EpABGacNeoYGNTcv_yUL82B9wQ" title="Title">Microsoft Stream</p>
-		</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/Eeb5zIydJiRJuxYajHT2EpABGacNeoYGNTcv_yUL82B9wQ" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>
-		 5:00 min - 9:55 min 
-		</td>
+    <td>5:00 min - 9:55 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>
-    En la entrevista con Edu, se revelaron detalles sobre su experiencia y preferencias en cuanto a realizar intercambios de objetos. Edu suele contactarse con otras personas para intercambiar objetos a través de Facebook y WhatsApp, pero encuentra limitaciones en estas plataformas en términos de seguridad y calidad de los productos.Considera que una plataforma como Cambiazo sería de gran ayuda para simplificar este proceso. Además, mencionó que le gustaría que la plataforma implementara funciones como un sistema de verificación de identidad y calidad de los productos, así como un sistema de evaluaciones entre usuarios para garantizar la confianza y seguridad en los intercambios. Edu también señaló que los productos de ocio y entretenimiento tendrían mayor demanda entre personas de su edad y ubicación geográfica. <br>En cuanto a sus preocupaciones, destacó la seguridad de las transacciones y la calidad de los productos ofrecidos. Para garantizar la calidad de los productos, Edu se basaría en las descripciones detalladas, las fotos proporcionadas por los usuarios y las evaluaciones de otros usuarios. También considera que la comunidad de usuarios podría contribuir a garantizar la veracidad de los productos ofrecidos dentro de la plataforma mediante la retroalimentación honesta y la denuncia de prácticas fraudulentas.<br>En términos de beneficios esperados al utilizar una aplicación como Cambiazo, Edu espera una mayor variedad de productos y una experiencia de intercambio más segura. Además, considera que el intercambio de productos usados puede contribuir al desarrollo de una comunidad más sostenible y consciente en su ciudad. 
-
+    <td>En la entrevista con Edu, se revelaron detalles sobre su experiencia y preferencias en cuanto a realizar intercambios de objetos. Edu suele contactarse con otras personas para intercambiar objetos a través de Facebook y WhatsApp, pero encuentra limitaciones en estas plataformas en términos de seguridad y calidad de los productos.Considera que una plataforma como Cambiazo sería de gran ayuda para simplificar este proceso. Además, mencionó que le gustaría que la plataforma implementara funciones como un sistema de verificación de identidad y calidad de los productos, así como un sistema de evaluaciones entre usuarios para garantizar la confianza y seguridad en los intercambios. Edu también señaló que los productos de ocio y entretenimiento tendrían mayor demanda entre personas de su edad y ubicación geográfica. <br>En cuanto a sus preocupaciones, destacó la seguridad de las transacciones y la calidad de los productos ofrecidos. Para garantizar la calidad de los productos, Edu se basaría en las descripciones detalladas, las fotos proporcionadas por los usuarios y las evaluaciones de otros usuarios. También considera que la comunidad de usuarios podría contribuir a garantizar la veracidad de los productos ofrecidos dentro de la plataforma mediante la retroalimentación honesta y la denuncia de prácticas fraudulentas.<br>En términos de beneficios esperados al utilizar una aplicación como Cambiazo, Edu espera una mayor variedad de productos y una experiencia de intercambio más segura. Además, considera que el intercambio de productos usados puede contribuir al desarrollo de una comunidad más sostenible y consciente en su ciudad. 
 </td>
   </tr>
 </tbody>
 </table>
 
-<table style="undefined;table-layout: fixed; width: 910px">
+<table>
 <colgroup>
-<col style="width: 220px">
-<col style="width: 700px">
 </colgroup>
 <thead>
   <tr>
@@ -801,23 +742,15 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
     <tr>
     <td>Evidencia</td>
-    <td>
-      <div align="center">
-				<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Interviews/entrevista-Marcela-Moraima.PNG?raw=true" alt="Entrevista Marcela Perinango">
-			</div>
-    </td>
+    <td><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Interviews/entrevista-Marcela-Moraima.PNG?raw=true" alt="Entrevista Marcela Perinango"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/Eeb5zIydJiRJuxYajHT2EpABGacNeoYGNTcv_yUL82B9wQ" title="Title">Microsoft Stream</p>
-		</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/Eeb5zIydJiRJuxYajHT2EpABGacNeoYGNTcv_yUL82B9wQ" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>
-		 9:56 min - 14:50 min 
-		</td>
+    <td> 9:56 min - 14:50 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -830,10 +763,8 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 
 **Segmento Donadores**<br>
 
-<table style="undefined;table-layout: fixed; width: 910px">
+<table>
 <colgroup>
-<col style="width: 220px">
-<col style="width: 700px">
 </colgroup>
 <thead>
   <tr>
@@ -879,23 +810,15 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
     <tr>
     <td>Evidencia</td>
-    <td>
-      <div align="center">
-				<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Interviews/entrevista-Jeremy-Quispe.PNG?raw=true" alt="Entrevista Jeremy Quispe">
-			</div>
-    </td>
+    <td><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Interviews/entrevista-Jeremy-Quispe.PNG?raw=true" alt="Entrevista Jeremy Quispe"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/Eeb5zIydJiRJuxYajHT2EpABGacNeoYGNTcv_yUL82B9wQ" title="Title">Microsoft Stream</p>
-		</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/Eeb5zIydJiRJuxYajHT2EpABGacNeoYGNTcv_yUL82B9wQ" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>
-		 14:51 min - 19:47 min 
-		</td>
+    <td>14:51 min - 19:47 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -906,10 +829,8 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 </table>
 
 
-<table style="undefined;table-layout: fixed; width: 910px">
+<table>
 <colgroup>
-<col style="width: 220px">
-<col style="width: 700px">
 </colgroup>
 <thead>
   <tr>
@@ -955,39 +876,25 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td>
-      <div align="center">
-				<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Interviews/entrevista-Hernan-Morales.PNG?raw=true" alt="Entrevista Hernan Morales">
-			</div>
-    </td>
+    <td><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Interviews/entrevista-Hernan-Morales.PNG?raw=true" alt="Entrevista Hernan Morales"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/Eeb5zIydJiRJuxYajHT2EpABGacNeoYGNTcv_yUL82B9wQ" title="Title">Microsoft Stream</p>
-		</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/Eeb5zIydJiRJuxYajHT2EpABGacNeoYGNTcv_yUL82B9wQ" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>
-		 19:48 min - 23:35 min 
-		</td>
+    <td>19:48 min - 23:35 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>
-    Durante la entrevista, Hernan compartió su experiencia y perspectiva sobre el proceso de donación a través de su participación en actividades de caridad y su interacción con plataformas dedicadas a esta causa. Destacó su compromiso con contribuciones significativas, incluyendo alimentos no perecederos, vestimenta en buen estado y juguetes, los cuales destinó a instituciones benéficas locales y hogares de acogida para niños desfavorecidos en su comunidad.Asimismo, Hernán enfatizó la importancia de la seguridad de los datos personales y la confiabilidad de los sistemas utilizados en estas plataformas, destacando la necesidad de contar con funcionalidades de protección que aseguren la integridad de la información personal y financiera de los donantes.Además, manifestó su interés en seguir de cerca el progreso de sus donaciones y su impacto en la comunidad, así como en mantenerse informado sobre el prestigio de la plataforma, su transparencia en la gestión de fondos y los testimonios de otros usuarios. Hernán expresó su deseo de una experiencia de donación más accesible y sencilla, y sugirió mejoras en la interfaz de usuario y una mayor variedad de opciones de donación específicas para fomentar la solidaridad y proporcionar un medio más fácil para ayudar a quienes más lo necesitan en la comunidad.
-
-
-</td>
+    <td>Durante la entrevista, Hernan compartió su experiencia y perspectiva sobre el proceso de donación a través de su participación en actividades de caridad y su interacción con plataformas dedicadas a esta causa. Destacó su compromiso con contribuciones significativas, incluyendo alimentos no perecederos, vestimenta en buen estado y juguetes, los cuales destinó a instituciones benéficas locales y hogares de acogida para niños desfavorecidos en su comunidad.Asimismo, Hernán enfatizó la importancia de la seguridad de los datos personales y la confiabilidad de los sistemas utilizados en estas plataformas, destacando la necesidad de contar con funcionalidades de protección que aseguren la integridad de la información personal y financiera de los donantes.Además, manifestó su interés en seguir de cerca el progreso de sus donaciones y su impacto en la comunidad, así como en mantenerse informado sobre el prestigio de la plataforma, su transparencia en la gestión de fondos y los testimonios de otros usuarios. Hernán expresó su deseo de una experiencia de donación más accesible y sencilla, y sugirió mejoras en la interfaz de usuario y una mayor variedad de opciones de donación específicas para fomentar la solidaridad y proporcionar un medio más fácil para ayudar a quienes más lo necesitan en la comunidad.</td>
   </tr>
 </tbody>
 </table>
 
-<table style="undefined;table-layout: fixed; width: 910px">
+<table>
 <colgroup>
-<col style="width: 220px">
-<col style="width: 700px">
 </colgroup>
 <thead>
   <tr>
@@ -1033,28 +940,19 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td>
-			<div align="center">
-				<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Interviews/entrevista-Arturo-Adrianzen.PNG?raw=true" alt="Entrevista Arturo Adrianzen">
-			</div>
-    </td>
+    <td><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Interviews/entrevista-Arturo-Adrianzen.PNG?raw=true" alt="Entrevista Arturo Adrianzen"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/Eeb5zIydJiRJuxYajHT2EpABGacNeoYGNTcv_yUL82B9wQ" title="Title">Microsoft Stream</p>
-		</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/Eeb5zIydJiRJuxYajHT2EpABGacNeoYGNTcv_yUL82B9wQ" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>
-		 23:36 min - 28:51 min 
-		</td>
+    <td> 23:36 min - 28:51 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>Durante nuestra conversación con Arturo, exploramos su experiencia en intercambios y los desafíos que ha enfrentado al no tener una plataforma dedicada para realizarlos. Arturo compartió sus vivencias al realizar donaciones a la iglesia, describiendo las dificultades que encontró al llevar un canasto lleno de ropa, lo cual consideró una tarea tediosa. Propuso la idea de que, para facilitar el proceso de donación de objetos, sería conveniente que alguien se encargará de recogerlos, evitando así la molestia de tener que trasladarse hasta el lugar de donación. Además, resaltó la importancia de garantizar seguridad para los usuarios, sugiriendo medidas como la presentación de una foto que confirme la realización de la donación, con el fin de evitar cualquier tipo de desconfianza. Arturo realiza una sugerencia final y significativa para Cambiazo, el cual, sería crear conciencia sobre la importancia de cada objeto donado para las personas necesitadas. Esto podría lograrse mediante la divulgación de testimonios conmovedores de aquellos que se han visto directamente afectados por estas donaciones, lo que, a su vez, podría inspirar a más personas a contribuir y seguir apoyando esta noble causa de forma continua.
-</td>
+    <td>Durante nuestra conversación con Arturo, exploramos su experiencia en intercambios y los desafíos que ha enfrentado al no tener una plataforma dedicada para realizarlos. Arturo compartió sus vivencias al realizar donaciones a la iglesia, describiendo las dificultades que encontró al llevar un canasto lleno de ropa, lo cual consideró una tarea tediosa. Propuso la idea de que, para facilitar el proceso de donación de objetos, sería conveniente que alguien se encargará de recogerlos, evitando así la molestia de tener que trasladarse hasta el lugar de donación. Además, resaltó la importancia de garantizar seguridad para los usuarios, sugiriendo medidas como la presentación de una foto que confirme la realización de la donación, con el fin de evitar cualquier tipo de desconfianza. Arturo realiza una sugerencia final y significativa para Cambiazo, el cual, sería crear conciencia sobre la importancia de cada objeto donado para las personas necesitadas. Esto podría lograrse mediante la divulgación de testimonios conmovedores de aquellos que se han visto directamente afectados por estas donaciones, lo que, a su vez, podría inspirar a más personas a contribuir y seguir apoyando esta noble causa de forma continua.</td>
   </tr>
 </tbody>
 </table><br><br>
@@ -1065,11 +963,9 @@ En esta sección presentaremos el análisis de cada entrevista realizada por cad
 
 **Segmento objetivo 1:** Personas adultas que desean obtener nuevos artículos (Intercambiadores).<br>
 
-
 Lo que hemos podido notar después de realizar las entrevistas al primer segmento, es que siempre que desean realizar intercambios de objetos usan redes sociales como WhatsApp y Facebook, sin embargo su experiencia no ha sido buena, ya que suelen tener problemas o inseguridades al realizarlo, ya que no tienen ninguna garantía de que el producto que les va a llegar es el que desean o está en buen estado. Los 3 usuarios consideran que CambiaZo sería una gran herramiento y les ayudaría mucho para poder realizar trueques, las principales funciones que sugirieron añadir son que se muestre un valor aproximado del producto, reseñas de los usuarios, sistema de verificación de identidad y calidad de los productos y añadir una garantía a los usuarios. Finalmente, todos los entrevistados consideran que sí es posible que CambiaZo ayude a que Lima avance en el desarrollo para ser una comunidad más sostenible.
 
 **Análisis por medio de herramientas estadísticas:**
-
 
 <div align="center">
 	<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Stadistics/segmento-objetivo-1-grafica-1.PNG?raw=true" alt="Estadistica 1">
@@ -1102,8 +998,6 @@ Finalmente, podemos observar que nuestros entrevistados suelen realizar intercam
 Al finalizar de realizar las entrevistas a nuestro segundo segmento objetivo, logramos identificar que cada vez que han querido realizar donaciones, han atravesado por situaciones un poco tediosas, como el tener que llevar su donación hasta lugares lejanos, no encontrar una forma sencilla de realizar la donación y no obtener el seguimiento de su donación o una evidencia que se realizó la donación. Por lo que consideran que CambiaZo sería una gran herramienta para brindar ayuda a personas de escasos recursos, ya que de esta forma consideran que sería más simple, sencillo y seguro de hacerlo, justo por ello sugirieron que se haga un rastreamiento de la donación y una evidencia cuando llegue a su lugar de destino. Además indicaron que sería de gran ayuda realizar campañas de sensibilización y colaboraciones con influencers, para que de este modo, más personas se logren enterar acerca de cómo CambiaZo está ayudando a transformar la vida de las personas con necesidades económicas, y consecuentemente, más personas se sumen y comienzen a donar o donen más seguido.
 
 **Análisis por medio de herramientas estadísticas:**
-
-
 
 <div align="center">
 	<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Stadistics/segmento-objetivo-2-grafica-1.PNG?raw=true" alt="Estadistica 7"><br><br>
@@ -1143,7 +1037,7 @@ Después de analizar las entrevistas de nuestro segmento objetivo, nuestra tarea
 </div>
 
 Enlace: [User Persona en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/WUMVh)
-<br><br>
+<br>
 
 <b>Usuario Donador</b><br>
 
@@ -1153,9 +1047,7 @@ Enlace: [User Persona en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/WUMVh)
 </div>
 
 Enlace: [User Persona en UXPRESSIA](https://uxpressia.com/w/5DZd7/p/C7wKs)
-<br><br>
-
-
+<br>
 
 
 ### 2.3.2 User Task Matrix
@@ -1163,15 +1055,11 @@ Enlace: [User Persona en UXPRESSIA](https://uxpressia.com/w/5DZd7/p/C7wKs)
 Con el fin de elaborar un Task Matrix adecuado para el proyecto, se han considerado los dos segmentos objetivo, producto del análisis de entrevistas, es decir, Intercambiador y Donador.
 
 
-
 <b>Usuario Intercambiador</b><br>
 
 <div align="center">
-<table style="undefined;table-layout: fixed; width: 636px">
+<table>
 <colgroup>
-<col style="width: 263px">
-<col style="width: 150px">
-<col style="width: 150px">
 </colgroup>
 <thead>
   <tr>
@@ -1212,22 +1100,18 @@ Con el fin de elaborar un Task Matrix adecuado para el proyecto, se han consider
   </tr>
 </tbody>
 </table>
-</div><br><br>
+</div><br>
 
 <b>Usuario Donador</b><br>
 
 <div align="center">
-<table style="undefined;table-layout: fixed; width: 636px">
+<table>
 <colgroup>
-<col style="width: 263px">
-<col style="width: 150px">
-<col style="width: 150px">
 </colgroup>
 <thead>
   <tr>
     <th rowspan="2"><div align="center">USER TASK</div><br></th>
     <th colspan="2"><div align="center">Donador <br>Mariana Okinawa<br></div></th>
-   
   </tr>
   <tr>
     <th>Frecuencia</th>
@@ -1280,7 +1164,7 @@ Mediante este artefacto se explicará y comprenderá como los usuarios del segme
 
 
 Enlace: [User Journey Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/m/85V7e)
-
+<br>
 
 <b>Segmento Donadores</b><br>
 
@@ -1291,9 +1175,8 @@ Mediante este artefacto se explicará y comprenderá como los usuarios del segme
 [![User Journey Mapping.](https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/NeedFinding/user-journey-map-2.PNG?raw=true)](https://uxpressia.com/w/ODLU6/m/ZJfdG)
 </div>
 
-
-
 Enlace: [User Journey Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/m/ZJfdG)
+<br>
 
 ### 2.3.4 Empathy Mapping
 
@@ -1324,9 +1207,9 @@ Enlace: [Empathy Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/pKfKi)
 
 ### 2.3.5 As-Is Scenario Mapping
 
-En esta sección, abordaremos el As-Is Scenario Mapping para ambos segmentos, donde describiremos cómo deben configurarse las experiencias durante cada fase.<br><br>
-<b>Segmento Intercambiadores</b><br>
+En esta sección, abordaremos el As-Is Scenario Mapping para ambos segmentos, donde describiremos cómo deben configurarse las experiencias durante cada fase.<br>
 
+<b>Segmento Intercambiadores</b>
 
 <div align="center">
 
@@ -1334,7 +1217,7 @@ En esta sección, abordaremos el As-Is Scenario Mapping para ambos segmentos, do
 </div>
 
 Enlace: [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=453144500996)
-<br><br>
+<br>
 
 <b>Segmento Donadores</b><br>
 
@@ -1344,47 +1227,35 @@ Enlace: [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWd
 </div>
 
 
-Enlace: [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=453144500996)<br><br>
+Enlace: [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=453144500996)<br>
 
 
 ## 2.4 Ubiquitous Language
 En esta sección, se establece un glosario de términos clave del dominio de negocio, conforme al enfoque de Ubiquitous Language propuesto por Eric Evans en Domain-Driven Design. Este glosario proporciona definiciones claras y sin ambigüedades de los conceptos utilizados en el ámbito específico del problema y la solución abordados, facilitando una comunicación efectiva entre todos los miembros del equipo.
 
-+ **Subscription (Subscripción):** An arrangement where users sign up for a service or access to a product on a recurring basis, often for a specific duration, in exchange for certain benefits or features. Subscriptions typically involve the payment of a recurring fee, and they may offer various levels or tiers of access, each providing different features, benefits, or limitations. Users may subscribe to gain access to premium content, exclusive features, or enhanced functionality within the platform.
++ **Subscription (Subscripción):** An arrangement where users sign up for a service or access to a product on a recurring basis, often for a specific duration, in exchange for certain benefits or features. Subscriptions typically involve the payment of a recurring fee, and they may offer various levels or tiers of access, each providing different features, benefits, or limitations. Users may subscribe to gain access to premium content, exclusive features, or enhanced functionality within the platform.<br><br>
 
++ **Plan (Plan):** Different tiers or levels of subscription offering varying features, benefits, or limitations. Plans are structured to cater to the diverse needs and preferences of users, providing options that align with their usage patterns, budget constraints, or desired level of engagement. These plans may be designed to cater to different user segments, such as casual users, power users, or businesses, and they often dictate the scope of access and available features within the platform.<br><br>
 
-+ **Plan (Plan):** Different tiers or levels of subscription offering varying features, benefits, or limitations. Plans are structured to cater to the diverse needs and preferences of users, providing options that align with their usage patterns, budget constraints, or desired level of engagement. These plans may be designed to cater to different user segments, such as casual users, power users, or businesses, and they often dictate the scope of access and available features within the platform.
++ **Exchange (Intercambio):** The act of swapping objects between users, typically facilitated by the platform. Exchanges may involve the direct trade of items between users, where one user offers an object in exchange for another object offered by a different user. Alternatively, exchanges may involve indirect transactions facilitated by the platform, where users list objects they wish to exchange, and the platform matches them with other users interested in those items. Exchanges promote the circulation of goods within the community, fostering a collaborative and sustainable consumption model.<br><br>
 
++ **Guarantees (Garantías):** Assurances provided by the platform to users regarding the quality, authenticity, or condition of exchanged objects. Guarantees serve to instill confidence in users, assuring them that the objects they receive through exchanges meet certain standards and expectations. These guarantees may include policies for verifying the authenticity of items, conducting quality inspections, or providing recourse in the event of disputes or issues with exchanged objects.<br><br>
 
-+ **Exchange (Intercambio):** The act of swapping objects between users, typically facilitated by the platform. Exchanges may involve the direct trade of items between users, where one user offers an object in exchange for another object offered by a different user. Alternatively, exchanges may involve indirect transactions facilitated by the platform, where users list objects they wish to exchange, and the platform matches them with other users interested in those items. Exchanges promote the circulation of goods within the community, fostering a collaborative and sustainable consumption model.
++ **Advertisements (Anuncios)** Promotional content displayed on the platform to generate interest or revenue. Advertisements may take various forms, including banner ads, sponsored content, or targeted promotions, and they are often tailored to the interests, preferences, or demographics of users. Advertisements may be used to promote relevant products, services, or events to users, and they may serve as a source of revenue for the platform through advertising partnerships or pay-per-click arrangements.<br><br>
 
++ **Donation (Donaciones):** Contributions made by users in the form of objects or monetary support to individuals or organizations. Donations reflect acts of generosity and altruism within the community, allowing users to support causes they care about or assist those in need. Users may donate objects they no longer need or use, providing them to individuals or organizations that can benefit from them. Additionally, users may make monetary donations to support charitable initiatives, nonprofit organizations, or community projects facilitated by the platform.<br><br>
 
-+ **Guarantees (Garantías):** Assurances provided by the platform to users regarding the quality, authenticity, or condition of exchanged objects. Guarantees serve to instill confidence in users, assuring them that the objects they receive through exchanges meet certain standards and expectations. These guarantees may include policies for verifying the authenticity of items, conducting quality inspections, or providing recourse in the event of disputes or issues with exchanged objects.
++ **Physical Donation (Donación física):** Donating physical objects by providing an address for drop-off. Physical donations involve the transfer of tangible items from one user to another, typically through arrangements for pickup or delivery. Users may offer physical donations to other users directly, arranging for the exchange of objects through personal interactions or logistics coordinated within the platform. Physical donations contribute to resource sharing and waste reduction efforts, enabling users to repurpose or recycle items they no longer need.<br><br>
 
++ **Monetary Donation (Donación monetaria):** Contributing money to a specified account, typically belonging to a non-profit organization. Monetary donations involve the transfer of funds from one user to another, often in support of charitable causes, humanitarian efforts, or community initiatives. Users may donate money to nonprofit organizations, charitable foundations, or crowdfunding campaigns endorsed by the platform, providing financial support to causes aligned with their values or interests. Monetary donations may be used to fund various projects, programs, or activities that benefit the community or address societal needs.<br><br>
 
-+ **Advertisements (Anuncios)** Promotional content displayed on the platform to generate interest or revenue. Advertisements may take various forms, including banner ads, sponsored content, or targeted promotions, and they are often tailored to the interests, preferences, or demographics of users. Advertisements may be used to promote relevant products, services, or events to users, and they may serve as a source of revenue for the platform through advertising partnerships or pay-per-click arrangements.
++ **Transaction (Transacción):** A financial exchange or operation carried out between users or involving the platform. Transactions encompass a wide range of interactions within the platform, including purchases, sales, exchanges, donations, or payments. Users engage in transactions to acquire, exchange, or transfer goods, services, or funds, utilizing the platform's features and functionalities to facilitate these exchanges securely and efficiently. Transactions may involve the transfer of virtual assets, such as digital currency or credits, as well as the exchange of physical goods or monetary payments.<br><br>
 
++ **Categories (Categorías):** Groupings or classifications used to organize objects, organizations, or content for easier navigation and searchability. Categories serve as a taxonomy or hierarchical structure within the platform, grouping related items or entities based on shared characteristics, attributes, or properties. Users can browse or filter content within specific categories to narrow down their search results and find relevant information more efficiently. Categories may be predefined by the platform or created dynamically based on user-generated content, reflecting the diverse interests and preferences of the community.<br><br>
 
-+ **Donation (Donaciones):** Contributions made by users in the form of objects or monetary support to individuals or organizations. Donations reflect acts of generosity and altruism within the community, allowing users to support causes they care about or assist those in need. Users may donate objects they no longer need or use, providing them to individuals or organizations that can benefit from them. Additionally, users may make monetary donations to support charitable initiatives, nonprofit organizations, or community projects facilitated by the platform.
++ **User Limit (Límite de usuario):** The maximum number of objects a user can publish or display on the platform within a given timeframe. User limits impose restrictions on the quantity or volume of content that individual users can contribute or showcase within the platform, preventing abuse, spam, or excessive clutter. These limits may be enforced to maintain a balanced and equitable distribution of resources among users, ensuring fair access to platform features and functionalities. Users may encounter user limits based on their subscription level, account status, or platform policies, with options to increase limits through upgrades or premium memberships.<br><br>
 
-
-+ **Physical Donation (Donación física):** Donating physical objects by providing an address for drop-off. Physical donations involve the transfer of tangible items from one user to another, typically through arrangements for pickup or delivery. Users may offer physical donations to other users directly, arranging for the exchange of objects through personal interactions or logistics coordinated within the platform. Physical donations contribute to resource sharing and waste reduction efforts, enabling users to repurpose or recycle items they no longer need.
-
-
-+ **Monetary Donation (Donación monetaria):** Contributing money to a specified account, typically belonging to a non-profit organization. Monetary donations involve the transfer of funds from one user to another, often in support of charitable causes, humanitarian efforts, or community initiatives. Users may donate money to nonprofit organizations, charitable foundations, or crowdfunding campaigns endorsed by the platform, providing financial support to causes aligned with their values or interests. Monetary donations may be used to fund various projects, programs, or activities that benefit the community or address societal needs.
-
-
-+ **Transaction (Transacción):** A financial exchange or operation carried out between users or involving the platform. Transactions encompass a wide range of interactions within the platform, including purchases, sales, exchanges, donations, or payments. Users engage in transactions to acquire, exchange, or transfer goods, services, or funds, utilizing the platform's features and functionalities to facilitate these exchanges securely and efficiently. Transactions may involve the transfer of virtual assets, such as digital currency or credits, as well as the exchange of physical goods or monetary payments.
-
-
-+ **Categories (Categorías):** Groupings or classifications used to organize objects, organizations, or content for easier navigation and searchability. Categories serve as a taxonomy or hierarchical structure within the platform, grouping related items or entities based on shared characteristics, attributes, or properties. Users can browse or filter content within specific categories to narrow down their search results and find relevant information more efficiently. Categories may be predefined by the platform or created dynamically based on user-generated content, reflecting the diverse interests and preferences of the community.
-
-
-+ **User Limit (Límite de usuario):** The maximum number of objects a user can publish or display on the platform within a given timeframe. User limits impose restrictions on the quantity or volume of content that individual users can contribute or showcase within the platform, preventing abuse, spam, or excessive clutter. These limits may be enforced to maintain a balanced and equitable distribution of resources among users, ensuring fair access to platform features and functionalities. Users may encounter user limits based on their subscription level, account status, or platform policies, with options to increase limits through upgrades or premium memberships.
-
-
-+ **Space Allocation (Asignación de espacio):** The allocation of virtual real estate or capacity on the platform for users to publish or display their objects. Space allocation involves the provision of digital resources, such as storage capacity, bandwidth, or display area, to accommodate user-generated content within the platform. Users are allotted a certain amount of space or resources based on their subscription plan, account settings, or platform privileges, dictating the extent to which they can contribute or showcase objects, advertisements, or other content. Space allocation may be managed dynamically to accommodate fluctuations in user activity or demand, optimizing resource utilization and user experience within the platform.
-
++ **Space Allocation (Asignación de espacio):** The allocation of virtual real estate or capacity on the platform for users to publish or display their objects. Space allocation involves the provision of digital resources, such as storage capacity, bandwidth, or display area, to accommodate user-generated content within the platform. Users are allotted a certain amount of space or resources based on their subscription plan, account settings, or platform privileges, dictating the extent to which they can contribute or showcase objects, advertisements, or other content. Space allocation may be managed dynamically to accommodate fluctuations in user activity or demand, optimizing resource utilization and user experience within the platform.<br><br>
 
 + **User (Usuario):** An individual who interacts with the platform, either by subscribing, publishing objects, or engaging in exchanges. Users represent the primary stakeholders and participants within the platform ecosystem, contributing content, generating activity, and shaping the community dynamics. Users may vary in their roles, behaviors, and preferences, ranging from content creators and contributors to consumers and participants. The platform's features, functionalities, and policies are designed to cater to the needs, interests, and expectations of users, fostering a positive and engaging user experience.<br><br>
 
@@ -1517,11 +1388,8 @@ Enlace: [Impact Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/i/M9ikH)
 
 
 ## 3.4. Product Backlog
-En el Product Backlog presentaremos una lista priorizada de nuestras user stories según el nivel de prioridad que acordamos en el equipo, esencial para el *enfoque ágil*.Para analizar el nivel de dificultad de las tareas, utilizamos la secuencia de Fibonacci (1,2,3,5,8).
-<br><br>
+En el Product Backlog presentaremos una lista priorizada de nuestras user stories según el nivel de prioridad que acordamos en el equipo, esencial para el *enfoque ágil*.Para analizar el nivel de dificultad de las tareas, utilizamos la secuencia de Fibonacci (1,2,3,5,8).<br><br>
 Tomamos como historia de usuario base la historia de usuario US12: Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar
-
-<br>
 
 |# Orden |User Story Id|Título|Descripción|Story Points (1 / 2 / 3 / 5 / 8)|
 | - | - | - | - | - |
@@ -1568,7 +1436,7 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
 |41|**TS-11**|<p>Post Subscription</p><p></p>|<p>**Como** usuario developer de la aplicación Cambiazo,</p><p>**Quiero** implementar una API que permita a los usuarios suscribirse para obtener beneficios adicionales,</p><p>**Para** mejorar la experiencia del usuario y fomentar la participación en la plataforma.</p>|3|
 |42|**TS-12**|Get Subscription|<p>**Como** usuario developer de la aplicación Cambiazo,</p><p>**Quiero** poder obtener información sobre las suscripciones existentes en la plataforma a través del API,</p><p>**Para** mostrar esta información a los usuarios y permitirles gestionar sus suscripciones.</p>|2|
 
-<br><br>
+<br>
 
 A continuación se presenta una representación gráfica del mismo en la plataforma Pivotal Tracker:
 
@@ -1594,17 +1462,14 @@ A continuación, se presentan las pautas generales para asegurar una presentaci�
 
 Hemos seleccionado cuidadosamente una paleta de colores para representar nuestro aplicativo CambiaZo. Nuestro enfoque se centra en tonalidades que incluyen el amarillo (#FFD146), el blanco (#FFFFFF), el negro (#000000) y degradados del negro para crear transiciones suaves entre los colores. Optamos por el amarillo para reflejar energía y positividad, el blanco para transmitir sofisticación y claridad, y el negro para agregar un toque de elegancia y prestigio. Además, el degradado del negro se utiliza para suavizar las transiciones entre los elementos visuales y añadir profundidad. Por último, el blanco humo (#F8F7F4) complementa la paleta al proporcionar un aspecto moderno y neutro. Este conjunto de colores busca armonizar con nuestra misión de resolver problemas y promover un ambiente de intercambio amigable y dinámico.<br>
 
-<div align="center">
-	<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Style%20Guidelines/paleta-colores.PNG?raw=true" alt="Paleta de Colores"><br><br>
-</div><br>
+<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Style%20Guidelines/paleta-colores.PNG?raw=true" alt="Paleta de Colores"><br><br></div>
 
 **Branding**
 
 El branding es un proceso creativo fundamental que orienta el rumbo de una empresa y forja su identidad de marca. Su finalidad es la creación de marcas sólidas y fácilmente identificables en el mercado, logrando establecer una identidad y presencia apropiadas a través del diseño gráfico. En nuestro caso, el logo de la marca que queremos transmitir a nuestros usuarios es:
 
-<div align="center">
-	<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Style%20Guidelines/branding.PNG?raw=true" alt="Logo CambiaZo"><br><br>
-</div><br>
+<br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Style%20Guidelines/branding.PNG?raw=true" alt="Logo CambiaZo"><br><br>
+</div>
 
 
 **Typography**
@@ -1617,7 +1482,7 @@ La tipografía utilizada será Montserrat, que incluye las variantes Regular, Me
 <div align="center">
 
 [![Montserrat - Google fonts](https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Style%20Guidelines/Montserrat.PNG?raw=true)](https://fonts.google.com/specimen/Montserrat) 
-</div><br>
+</div>
 
 
 Referencia: [Montserrat - Google fonts](https://fonts.google.com/specimen/Montserrat)<br><br>
@@ -1630,7 +1495,6 @@ El espacio en el diseño debe armonizar con la imagen general para lograr una ap
 - **Márgenes entre texto**: Mantenemos un margen de 1 rem (16 px) entre elementos de texto.
 - **Márgenes entre elementos**: Garantizamos un margen de 1.5 rem (24 px) entre distintos elementos.
 - **Márgenes entre secciones**: Fijamos un margen de 6 rem (72 px) para separar claramente las diferentes secciones de contenido.<br><br>
-
 
 **Dimensions** 
 
@@ -1645,13 +1509,13 @@ En esta sección, describiremos los diferentes tonos que utilizamos, desde la em
 
 En nuestras pautas de estilo web, priorizamos la adaptación de nuestros principios de diseño a la experiencia de usuario en entornos de navegación en línea. Esto incluye:
 
-- **Diseño Responsivo**: Nos aseguramos de que nuestro sitio web se adapte fluidamente a diferentes tamaños de pantalla, desde computadoras de escritorio hasta dispositivos móviles como tabletas y teléfonos inteligentes. Esto garantiza que los usuarios puedan acceder y disfrutar de la plataforma sin importar el dispositivo que utilicen.
+- **Diseño Responsivo**: Nos aseguramos de que nuestro sitio web se adapte fluidamente a diferentes tamaños de pantalla, desde computadoras de escritorio hasta dispositivos móviles como tabletas y teléfonos inteligentes. Esto garantiza que los usuarios puedan acceder y disfrutar de la plataforma sin importar el dispositivo que utilicen.<br><br>
+  
+- **Navegación Intuitiva**: Implementamos una barra de navegación (Navbar) clara y organizada que facilita el acceso a las diferentes secciones del sitio. Para mejorar la experiencia en dispositivos móviles, incorporamos un "Botón hamburguesa" que despliega el menú principal de manera compacta y fácilmente accesible en pantallas más pequeñas. Esto permite a los usuarios navegar por el sitio de manera intuitiva y eficiente.<br><br>
 
-- **Navegación Intuitiva**: Implementamos una barra de navegación (Navbar) clara y organizada que facilita el acceso a las diferentes secciones del sitio. Para mejorar la experiencia en dispositivos móviles, incorporamos un "Botón hamburguesa" que despliega el menú principal de manera compacta y fácilmente accesible en pantallas más pequeñas. Esto permite a los usuarios navegar por el sitio de manera intuitiva y eficiente.
+- **Consistencia Visual**: Mantenemos una estética coherente en todo el sitio, utilizando colores, tipografías y elementos visuales que reflejen la identidad de marca de Cambiazo. Esto ayuda a crear una experiencia de usuario unificada y memorable en todas las páginas y dispositivos.<br><br>
 
-- **Consistencia Visual**: Mantenemos una estética coherente en todo el sitio, utilizando colores, tipografías y elementos visuales que reflejen la identidad de marca de Cambiazo. Esto ayuda a crear una experiencia de usuario unificada y memorable en todas las páginas y dispositivos.
-
-- **Accesibilidad**: Nos esforzamos por hacer que nuestro sitio sea accesible para todos los usuarios, incluidos aquellos con discapacidades visuales o de movilidad. Esto implica utilizar etiquetas alt en imágenes, asegurar un contraste adecuado entre texto y fondo, y proporcionar opciones de navegación alternativas para usuarios con dificultades para interactuar con el sitio de forma estándar.
+- **Accesibilidad**: Nos esforzamos por hacer que nuestro sitio sea accesible para todos los usuarios, incluidos aquellos con discapacidades visuales o de movilidad. Esto implica utilizar etiquetas alt en imágenes, asegurar un contraste adecuado entre texto y fondo, y proporcionar opciones de navegación alternativas para usuarios con dificultades para interactuar con el sitio de forma estándar.<br>
 
 Al adherirnos a estos principios de diseño, nos comprometemos a ofrecer una experiencia web que sea fácil de usar, estéticamente atractiva y accesible para todos los usuarios, independientemente de su dispositivo o capacidad.
 
@@ -1665,19 +1529,19 @@ En Cambiazo, aplicaremos varios sistemas de organización de información para g
 
 **Organización visual del contenido:**
 
-- **Jerárquica (Visual Hierarchy):** Utilizaremos la organización jerárquica para destacar la información importante y guiar a los usuarios a través de los diferentes niveles de contenido. Por ejemplo, en la página de inicio, los productos destacados tendrán un tamaño y ubicación prominentes para captar la atención del usuario formando parte de un slide infinito.
+- **Jerárquica (Visual Hierarchy):** Utilizaremos la organización jerárquica para destacar la información importante y guiar a los usuarios a través de los diferentes niveles de contenido. Por ejemplo, en la página de inicio, los productos destacados tendrán un tamaño y ubicación prominentes para captar la atención del usuario formando parte de un slide infinito.<br><br>
 
 - **Organización secuencial (Step-by-step):** Implementaremos la organización secuencial en los procesos de registro de usuario, creación de listados de productos y confirmación de intercambios. Esto ayudará a los usuarios a completar tareas de manera efectiva, paso a paso, sin confusiones.
 
 **Esquemas de categorización de contenido:**
 
-- **Por tópicos:** Categorizamos los productos disponibles para intercambiar en diferentes temas o categorías, como electrónica, ropa, libros, etc. Esto facilitará a los usuarios encontrar rápidamente lo que están buscando.
+- **Por tópicos:** Categorizamos los productos disponibles para intercambiar en diferentes temas o categorías, como electrónica, ropa, libros, etc. Esto facilitará a los usuarios encontrar rápidamente lo que están buscando.<br><br>
 
-- **Según audiencia (Grupos de usuarios):** Implementaremos esquemas de categorización de contenido basados en los intereses y necesidades de diferentes grupos de usuarios. Por ejemplo, podríamos tener una sección especial para artículos infantiles, otra para artículos deportivos, etc., para satisfacer las necesidades específicas de cada grupo de usuarios.
+- **Según audiencia (Grupos de usuarios):** Implementaremos esquemas de categorización de contenido basados en los intereses y necesidades de diferentes grupos de usuarios. Por ejemplo, podríamos tener una sección especial para artículos infantiles, otra para artículos deportivos, etc., para satisfacer las necesidades específicas de cada grupo de usuarios.<br><br>
 
-- **Cronológico:** Utilizaremos la organización cronológica para mostrar eventos importantes, como promociones especiales, actualizaciones de la aplicación y noticias relevantes para la comunidad de Cambiazo.
+- **Cronológico:** Utilizaremos la organización cronológica para mostrar eventos importantes, como promociones especiales, actualizaciones de la aplicación y noticias relevantes para la comunidad de Cambiazo.<br><br>
 
-- **Alfabético:** Algunas secciones de la aplicación, como los productos de intercambio o la sección de preguntas frecuentes, podrían organizarse alfabéticamente para facilitar la búsqueda y navegación.
+- **Alfabético:** Algunas secciones de la aplicación, como los productos de intercambio o la sección de preguntas frecuentes, podrían organizarse alfabéticamente para facilitar la búsqueda y navegación.<br><br>
 
 Al aplicar estos sistemas de organización de información, nos aseguraremos de que los usuarios puedan encontrar fácilmente lo que necesitan y completar sus tareas de manera eficiente en la plataforma Cambiazo.
 
@@ -1687,17 +1551,17 @@ Al aplicar estos sistemas de organización de información, nos aseguraremos de 
 ### 4.2.2. Labeling Systems
 En esta sección, vamos a presentar el sistema de etiquetado que proporcionará una descripción concisa y clara de la información presentada en cada una de nuestras aplicaciones. Comenzaremos detallando los encabezados que estarán disponibles en nuestra landing page.
 
-- **Inicio/Home:** Esta sección preseleccionada por defecto ofrecerá una visión general de Cambiazo y su propósito principal, proporcionando una introducción a la plataforma y sus funciones clave.
+- **Inicio/Home:** Esta sección preseleccionada por defecto ofrecerá una visión general de Cambiazo y su propósito principal, proporcionando una introducción a la plataforma y sus funciones clave.<br><br>
 
-- **Conócenos/About Us:** En esta sección, los usuarios pueden conocer al equipo detrás de Cambiazo, su misión y visión, así como obtener una comprensión más profunda de lo que impulsa la plataforma.
+- **Conócenos/About Us:** En esta sección, los usuarios pueden conocer al equipo detrás de Cambiazo, su misión y visión, así como obtener una comprensión más profunda de lo que impulsa la plataforma.<br><br>
 
-- **Características/Features:** La sección de Características se encuentran los beneficios específicos que ofrece Cambiazo para sus Usuarios, destacando cómo la plataforma puede satisfacer sus necesidades de intercambio de productos de manera efectiva.
+- **Características/Features:** La sección de Características se encuentran los beneficios específicos que ofrece Cambiazo para sus Usuarios, destacando cómo la plataforma puede satisfacer sus necesidades de intercambio de productos de manera efectiva.<br><br>
 
-- **ONGs Afiliadas/Affiliated NGOs:** Aquí se destacan las organizaciones no gubernamentales asociadas con Cambiazo.
+- **ONGs Afiliadas/Affiliated NGOs:** Aquí se destacan las organizaciones no gubernamentales asociadas con Cambiazo.<br><br>
 
-- **Planes/Subscriptions:** En esta sección se presentarán los diferentes planes de suscripción disponibles en Cambiazo, junto con sus características y precios, permitiendo a los usuarios elegir la opción que mejor se adapte a sus necesidades y preferencias de intercambio.
+- **Planes/Subscriptions:** En esta sección se presentarán los diferentes planes de suscripción disponibles en Cambiazo, junto con sus características y precios, permitiendo a los usuarios elegir la opción que mejor se adapte a sus necesidades y preferencias de intercambio.<br><br>
 
-- **Contáctanos/Contact Us:** Esta sección proporcionará a los usuarios la información de contacto de Cambiazo, incluidos los correos electrónicos, números de teléfono y posiblemente un formulario de contacto para consultas o comentarios.
+- **Contáctanos/Contact Us:** Esta sección proporcionará a los usuarios la información de contacto de Cambiazo, incluidos los correos electrónicos, números de teléfono y posiblemente un formulario de contacto para consultas o comentarios.<br><br>
 
 - **Registrarse/Sign Up:** En esta sección, los usuarios podrán registrarse para obtener una cuenta en Cambiazo, donde podrán acceder a todas las funciones de la plataforma, incluido el intercambio de productos. Se proporcionarán campos para que los usuarios ingresen su información personal y se configuren sus cuentas de usuario.
 
@@ -1789,15 +1653,15 @@ Estos tags están diseñados para resaltar los aspectos clave de Cambiazo, como 
 
 Para garantizar una experiencia de búsqueda eficiente y satisfactoria para los usuarios en Cambiazo, implementaremos un sistema de búsqueda robusto con varias opciones y filtros. Aquí está cómo será el sistema de búsqueda:
 
-- **Búsqueda básica:** Ofreceremos un campo de búsqueda simple en la parte superior de cada página, donde los usuarios podrán ingresar palabras clave relacionadas con los productos que desean encontrar. Esto proporcionará una forma rápida y directa de buscar artículos específicos.
+- **Búsqueda básica:** Ofreceremos un campo de búsqueda simple en la parte superior de cada página, donde los usuarios podrán ingresar palabras clave relacionadas con los productos que desean encontrar. Esto proporcionará una forma rápida y directa de buscar artículos específicos.<br><br>
+  
+- **Filtros avanzados:** Permitiremos a los usuarios refinar sus resultados de búsqueda utilizando filtros avanzados como categoría de producto. Estos filtros ayudarán a los usuarios a encontrar exactamente lo que están buscando y a reducir el volumen de información para evitar la sobrecarga de datos.<br><br>
 
-- **Filtros avanzados:** Permitiremos a los usuarios refinar sus resultados de búsqueda utilizando filtros avanzados como categoría de producto. Estos filtros ayudarán a los usuarios a encontrar exactamente lo que están buscando y a reducir el volumen de información para evitar la sobrecarga de datos.
+- **Ordenación de resultados:** Después de realizar una búsqueda, los usuarios podrán ordenar los resultados según diferentes criterios, como relevancia, precio ascendente/descendente, fecha de publicación, etc. Esto les permitirá encontrar los productos más adecuados de manera rápida y eficiente.<br><br>
 
-- **Ordenación de resultados:** Después de realizar una búsqueda, los usuarios podrán ordenar los resultados según diferentes criterios, como relevancia, precio ascendente/descendente, fecha de publicación, etc. Esto les permitirá encontrar los productos más adecuados de manera rápida y eficiente.
+- **Vista de resultados clara y detallada:** Mostraremos los resultados de búsqueda de manera clara y ordenada, con información relevante y detallada sobre cada producto, incluyendo imágenes, título, descripción, precio y ubicación del vendedor. Esto facilitará a los usuarios evaluar y comparar los productos encontrados.<br><br>
 
-- **Vista de resultados clara y detallada:** Mostraremos los resultados de búsqueda de manera clara y ordenada, con información relevante y detallada sobre cada producto, incluyendo imágenes, título, descripción, precio y ubicación del vendedor. Esto facilitará a los usuarios evaluar y comparar los productos encontrados.
-
-- **Sugerencias de búsqueda:** Proporcionaremos sugerencias de búsqueda mientras los usuarios escriben en el campo de búsqueda, ayudándoles a encontrar términos relevantes y populares relacionados con su consulta.
+- **Sugerencias de búsqueda:** Proporcionaremos sugerencias de búsqueda mientras los usuarios escriben en el campo de búsqueda, ayudándoles a encontrar términos relevantes y populares relacionados con su consulta.<br><br>
 
 Al ofrecer estas opciones de búsqueda y filtros, junto con una presentación clara y detallada de los resultados, buscamos garantizar que los usuarios puedan encontrar fácilmente los productos que están buscando en Cambiazo, sin sentirse abrumados por el volumen de información disponible.
 
@@ -1807,13 +1671,13 @@ Al ofrecer estas opciones de búsqueda y filtros, junto con una presentación cl
 
 Para guiar a los usuarios a través del Landing Page y las aplicaciones de Cambiazo de manera efectiva, implementaremos diversas acciones y técnicas de navegación:
 
-- **Menú de navegación claro y conciso:** En la parte superior de cada página, proporcionaremos un menú de navegación que incluya enlaces directos a las secciones principales de la plataforma, como "Inicio", "Donaciones", "Mi perfil" y "Ayuda". Esto permitirá a los usuarios acceder rápidamente a las funciones y áreas que deseen explorar.
+- **Menú de navegación claro y conciso:** En la parte superior de cada página, proporcionaremos un menú de navegación que incluya enlaces directos a las secciones principales de la plataforma, como "Inicio", "Donaciones", "Mi perfil" y "Ayuda". Esto permitirá a los usuarios acceder rápidamente a las funciones y áreas que deseen explorar.<br><br>
 
-- **Búsqueda prominente:** Colocaremos un campo de búsqueda bien visible en la parte superior de cada página, permitiendo a los usuarios buscar productos específicos, categorías o ong’s dentro de la plataforma de manera rápida y sencilla.
+- **Búsqueda prominente:** Colocaremos un campo de búsqueda bien visible en la parte superior de cada página, permitiendo a los usuarios buscar productos específicos, categorías o ong’s dentro de la plataforma de manera rápida y sencilla.<br><br>
 
-- **Botones de llamada a la acción (CTA):** Utilizaremos botones de CTA estratégicamente ubicados para dirigir a los usuarios hacia acciones importantes, como "Publicar", "Inicia sesión", "Inicio", "Categorías", etc. Estos botones ayudarán a los usuarios a tomar decisiones y avanzar en su experiencia en la plataforma.
+- **Botones de llamada a la acción (CTA):** Utilizaremos botones de CTA estratégicamente ubicados para dirigir a los usuarios hacia acciones importantes, como "Publicar", "Inicia sesión", "Inicio", "Categorías", etc. Estos botones ayudarán a los usuarios a tomar decisiones y avanzar en su experiencia en la plataforma.<br><br>
 
-- **Navegación intuitiva:** Diseñaremos la estructura de la plataforma de manera intuitiva, siguiendo convenciones de diseño web estándar y asegurándonos de que la navegación sea coherente en todas las páginas. Esto ayudará a los usuarios a sentirse cómodos y seguros mientras exploran y utilizan Cambiazo.
+- **Navegación intuitiva:** Diseñaremos la estructura de la plataforma de manera intuitiva, siguiendo convenciones de diseño web estándar y asegurándonos de que la navegación sea coherente en todas las páginas. Esto ayudará a los usuarios a sentirse cómodos y seguros mientras exploran y utilizan Cambiazo.<br><br>
 
 Al implementar estas acciones y técnicas de navegación, buscamos garantizar que los usuarios puedan cumplir sus objetivos de manera satisfactoria y disfrutar de una experiencia fluida y sin problemas en la plataforma Cambiazo.
 
@@ -1828,13 +1692,13 @@ Enlace: [Wireframe del Landing Page en Figma](https://www.figma.com/file/EuSz7z4
 
 <div align="center">
     <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes/Wireframe_desktop.png?raw=true" width="600px" alt="Wireframe">
-</div><br><br>
+</div><br>
 
 **Landing Page en Mobile Web Browser**
 
 <div align="center">
     <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes/Wireframe_mobile.png?raw=true" width="300px" alt="Wireframe Mobile">
-</div><br><br>
+</div><br>
 
 
 ### 4.3.2. Landing Page Mock-up
@@ -1846,18 +1710,13 @@ Enlace: [Mock-up del Landing Page en Figma](https://www.figma.com/file/EuSz7z4cW
 
 <div align="center">
     <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up/Mock-up_desktop.png?raw=true" width="600px" alt="Mockup">
-</div><br><br>
+</div><br>
 
 **Landing Page en Mobile Web Browser**
 
 <div align="center">
     <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up/Mock-up_mobile.png?raw=true" width="300px" alt="Mockup Mobile">
-</div><br><br>
-
-
-
-
-
+</div><br>
 
 
 
@@ -1871,9 +1730,9 @@ Para lograr identificar y representar correctamente los usuarios y sistemas exte
 
 <div align="center">
     <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Software-Architecture/software-architecture-context-diagram.png?raw=true" width="600px" alt="diagram context">
-</div><br><br>
+</div><br>
 
-Enlace: [Diagrama de Contexto en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Contexto)<br><br>
+Enlace: [Diagrama de Contexto en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Contexto)<br>
 
 
 ### 4.6.2. Software Architecture Container Diagrams
@@ -1882,10 +1741,9 @@ En este diagrama de contenedores mostramos la arquitectura de CambiaZo, en la cu
 
 <div align="center">
     <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Software-Architecture/software-architecture-container-diagram.png?raw=true" width="600px" alt="diagram container">
-</div><br><br>
+</div><br>
 
 Enlace: [Diagrama de Contenedores en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Contenedores)<br><br>
-
 
 ### 4.6.3. Software Architecture Components Diagrams
 
@@ -1896,7 +1754,7 @@ En estos diagramas de componentes mostramos la arquitectura de las principales f
 
 <div align="center">
     <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Software-Architecture/software-architecture-components-diagram-gestion.png?raw=true" width="600px" alt="diagram component 1">
-</div><br><br>
+</div><br>
 
 Enlace: [Diagrama de Componentes 1 en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Component-001)<br><br>
 
@@ -1904,7 +1762,7 @@ Enlace: [Diagrama de Componentes 1 en Structurizr](https://structurizr.com/share
 
 <div align="center">
     <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Software-Architecture/software-architecture-components-diagram-trueque.png?raw=true" width="600px" alt="diagram component 2">
-</div><br><br>
+</div><br>
 
 Enlace: [Diagrama de Componentes 2 en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Component-002)<br><br>
 
@@ -1912,7 +1770,7 @@ Enlace: [Diagrama de Componentes 2 en Structurizr](https://structurizr.com/share
 
 <div align="center">
     <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Software-Architecture/software-architecture-components-diagram-configuracion.png?raw=true" width="600px" alt="diagram component 3">
-</div><br><br>
+</div><br>
 
 Enlace: [Diagrama de Componentes 3 en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Component-003)<br><br>
 
@@ -1920,10 +1778,9 @@ Enlace: [Diagrama de Componentes 3 en Structurizr](https://structurizr.com/share
 **Componente Donaciones**
 <div align="center">
     <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Software-Architecture/software-architecture-components-diagram-donaciones.png?raw=true" width="600px" alt="diagram component 4">
-</div><br><br>
+</div><br>
 
 Enlace: [Diagrama de Componentes 4 en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Component-004)<br><br>
-
 
 
 
@@ -1936,8 +1793,8 @@ En la sección de Software Object-Oriented Design se presentarán dos aspectos f
 Los diagramas de clase representan las entidades del sistema y sus relaciones de manera visual, facilitando la comprensión de la estructura y la interacción entre los componentes del software.
 
 <div align="center">
-    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Class%20Diagram/class-diagram.PNG?raw=true" width="800px" alt="class diagram">
-</div><br><br>
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Class%20Diagram/class-diagram.PNG?raw=true" alt="class diagram">
+</div><br>
 
 Enlace: [Class Diagram en LucidChart](https://lucid.app/lucidchart/d12cb0f3-976b-46bf-ab0e-a545c1575e19/edit?viewport_loc=-2546%2C119%2C2587%2C1126%2C0_0&invitationId=inv_3ca4de93-b0e9-4de4-819a-3037cf6b4e95)<br><br>
 
@@ -1946,13 +1803,20 @@ Enlace: [Class Diagram en LucidChart](https://lucid.app/lucidchart/d12cb0f3-976b
 
 El diccionario de clases detalla las características y funciones de cada entidad del sistema, proporcionando una referencia completa para entender la funcionalidad del software.
 
-- **Usuario:** Representa a los usuarios de la aplicación, quienes pueden tener objetos, hacer donaciones, crear anuncios, etc.
-- **Objeto:** Representa los objetos que los usuarios pueden subir, junto con su información asociada.
-- **Donación:** Representa las donaciones realizadas por los usuarios a organizaciones.
-- **Anuncio:** Representa los anuncios creados por los usuarios.
-- **Suscripción:** Representa las subscripciones que los usuarios pueden tener en la aplicación.
-- **Contacto:** Representa los mensajes de contacto enviados por los usuarios.
-- **Adapter:** Representa al patrón de diseño estructural “adapter” para transformar la interfaz del usuario al utilizar CambiaZo.
+- **Usuario:** Representa a los usuarios de la aplicación, quienes pueden tener objetos, hacer donaciones, crear anuncios, etc.<br><br>
+  
+- **Objeto:** Representa los objetos que los usuarios pueden subir, junto con su información asociada.<br><br>
+  
+- **Donación:** Representa las donaciones realizadas por los usuarios a organizaciones.<br><br>
+  
+- **Anuncio:** Representa los anuncios creados por los usuarios.<br><br>
+  
+- **Suscripción:** Representa las subscripciones que los usuarios pueden tener en la aplicación.<br><br>
+  
+- **Contacto:** Representa los mensajes de contacto enviados por los usuarios.<br><br>
+  
+- **Adapter:** Representa al patrón de diseño estructural “adapter” para transformar la interfaz del usuario al utilizar CambiaZo.<br><br>
+  
 - **InicioSesion:** Representa a un patrón de diseño “singleton” para que todos los usuarios tengan una sola instancia al querer iniciar sesión en CambiaZo.
 
 ## 4.8. Database Design
@@ -1964,7 +1828,7 @@ En la sección Database Design, se incluirá el diagrama de la base de datos par
 Los diagramas de base de datos representan la estructura de la base de datos y las relaciones entre las entidades, lo que permite visualizar cómo se almacenan y se relacionan los datos dentro del sistema de manera eficiente.
 
 <div align="center">
-    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Database%20Diagram/database-diagram.PNG?raw=true" width="800px" alt="database diagram">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Database%20Diagram/database-diagram.PNG?raw=true"  alt="database diagram">
 </div><br>
 
 Enlace: [Database Diagram en Vertabelo](https://my.vertabelo.com/public-model-view/s7THFGyJJnZzsBc37Ubx6ig8WmX5rVJ6ZL16CxHnv7GEzTEZZFbid1yg52TaV2yg?x=3174&y=3601&zoom=0.5095)<br><br>
@@ -1982,77 +1846,58 @@ A continuación, se presentará un repositorio central y organizado que servirá
 
 En esta sección se incluye los links de las aplicaciónes, productos de software realizadas durante el ciclo del proyecto en los programas que se utilizaron. <br>
 
-+ **Project Management**<br>
-Esta área se centra en la planificación, organización, coordinación y control de los recursos y actividades necesarias para completar un proyecto de software con éxito. Incluye la gestión del alcance, el tiempo, el costo, la calidad, los riesgos, los recursos humanos y la comunicación para garantizar que el proyecto se entregue dentro del tiempo y el presupuesto establecidos, cumpliendo con los requisitos y objetivos definidos.
++ **Project Management**<br>Esta área se centra en la planificación, organización, coordinación y control de los recursos y actividades necesarias para completar un proyecto de software con éxito. Incluye la gestión del alcance, el tiempo, el costo, la calidad, los riesgos, los recursos humanos y la comunicación para garantizar que el proyecto se entregue dentro del tiempo y el presupuesto establecidos, cumpliendo con los requisitos y objetivos definidos.<br><br>
 
   +	<b>Pivotal Tracker:</b> Herramienta ágil de gestión de proyectos que permite a los equipos planificar, priorizar y realizar un seguimiento del trabajo de manera colaborativa. <br>https://www.pivotaltracker.com<br><br>
 
-+ **Requirements Management**<br>
-Se refiere al proceso de identificar, documentar, verificar y gestionar los requisitos del sistema y del software. Implica entender las necesidades de los usuarios y las partes interesadas, traduciéndolas en requisitos funcionales y no funcionales claros y específicos. El objetivo es garantizar que el software desarrollado satisfaga las necesidades y expectativas de los usuarios finales.
++ **Requirements Management**<br>Se refiere al proceso de identificar, documentar, verificar y gestionar los requisitos del sistema y del software. Implica entender las necesidades de los usuarios y las partes interesadas, traduciéndolas en requisitos funcionales y no funcionales claros y específicos. El objetivo es garantizar que el software desarrollado satisfaga las necesidades y expectativas de los usuarios finales.<br><br>
 
-  + **Pivotal Tracker:**
-Pivotal Tracker es una plataforma de gestión de proyectos centrada en User Stories, que se organizan en Epics y se clasifican por puntaje. Es utilizada para mantener a todos los miembros del equipo al tanto del progreso del proyecto, ofreciendo una vista en tiempo real compartida. Esto facilita la colaboración y permite a los miembros contribuir en diferentes aspectos del proyecto, manteniendo así un flujo de trabajo eficiente y bien coordinado.<br> https://www.pivotaltracker.com/n/projects/2699481<br><br>
+  + **Pivotal Tracker:** Pivotal Tracker es una plataforma de gestión de proyectos centrada en User Stories, que se organizan en Epics y se clasifican por puntaje. Es utilizada para mantener a todos los miembros del equipo al tanto del progreso del proyecto, ofreciendo una vista en tiempo real compartida. Esto facilita la colaboración y permite a los miembros contribuir en diferentes aspectos del proyecto, manteniendo así un flujo de trabajo eficiente y bien coordinado.<br> https://www.pivotaltracker.com/n/projects/2699481<br><br>
 
-+ **Product UX/UI Design**<br>
-Este aspecto se enfoca en el diseño de la experiencia del usuario (UX) y la interfaz de usuario (UI) del producto de software. UX se centra en comprender y mejorar la experiencia general del usuario al interactuar con el software, mientras que UI se refiere al diseño visual y la usabilidad de la interfaz de usuario. El diseño UX/UI busca crear una experiencia intuitiva, atractiva y eficiente para los usuarios. En este caso realizar un modelo de sitio web para computadoras y celulares.
++ **Product UX/UI Design**<br>Este aspecto se enfoca en el diseño de la experiencia del usuario (UX) y la interfaz de usuario (UI) del producto de software. UX se centra en comprender y mejorar la experiencia general del usuario al interactuar con el software, mientras que UI se refiere al diseño visual y la usabilidad de la interfaz de usuario. El diseño UX/UI busca crear una experiencia intuitiva, atractiva y eficiente para los usuarios. En este caso realizar un modelo de sitio web para computadoras y celulares.<br><br>
 
-  + **Figma:**<br>Es una herramienta de prototipo web y editor de gráficos vectorial, que, a diferencia de las otras herramientas, se aloja en la web, permitiendo establecer los modelos para versión en Web Browser y Mobile Browser.
-https://www.figma.com/design/ 
+  + **Figma:** Es una herramienta de prototipo web y editor de gráficos vectorial, que, a diferencia de las otras herramientas, se aloja en la web, permitiendo establecer los modelos para versión en Web Browser y Mobile Browser.<br>https://www.figma.com/design/ <br><br>
 
-  + **UXPressia:**<br> Es una herramienta en línea para el mapeo de la trayectoria del cliente que crea mapas de impacto y personas. Sus herramientas nos permitieron establecer las bases del modelado de User Persona, Empathy Map y Journey Map.<br>https://uxpressia.com/ 
+  + **UXPressia:** Es una herramienta en línea para el mapeo de la trayectoria del cliente que crea mapas de impacto y personas. Sus herramientas nos permitieron establecer las bases del modelado de User Persona, Empathy Map y Journey Map.<br>https://uxpressia.com/ <br><br> 
 
-  + **MIRO:**<br>Es una pizarra digital colaborativa en línea, que puede ser usada para la investigación, la ideación, mapas mentales, as-is, to-be y una variedad de otras actividades colaborativas.<br>https://miro.com/app/dashboard/ 
+  + **MIRO:** Es una pizarra digital colaborativa en línea, que puede ser usada para la investigación, la ideación, mapas mentales, as-is, to-be y una variedad de otras actividades colaborativas.<br>https://miro.com/app/dashboard/ <br><br> 
 
-  + **Lucid Chart:**<br> Es una herramienta de diagramación basada en la web, que permite a los usuarios colaborar y trabajar juntos en tiempo real, creando diseños UML, mapas mentales, prototipos de software y muchos otros tipos de diagrama.
-https://lucid.app/documents#/dashboard 
+  + **Lucid Chart:** Es una herramienta de diagramación basada en la web, que permite a los usuarios colaborar y trabajar juntos en tiempo real, creando diseños UML, mapas mentales, prototipos de software y muchos otros tipos de diagrama.<br>https://lucid.app/documents#/dashboard<br><br> 
 
-  + **Vertabelo:**<br> Es una herramienta que permite a los usuarios crear diagramas de bases de datos de manera intuitiva y colaborativa, facilitando la visualización y comprensión de la estructura de la base de datos. 
-https://my.vertabelo.com/drive
+  + **Vertabelo:** Es una herramienta que permite a los usuarios crear diagramas de bases de datos de manera intuitiva y colaborativa, facilitando la visualización y comprensión de la estructura de la base de datos. <br>https://my.vertabelo.com/drive<br><br> 
 
-  + **Structurizr:**<br> Es una herramienta de diseño que soporta el modelo C4, para visualizar la arquitectura de software de nuestra solución. 
-https://structurizr.com/ 
+  + **Structurizr:** Es una herramienta de diseño que soporta el modelo C4, para visualizar la arquitectura de software de nuestra solución. <br> https://structurizr.com/ <br><br> 
 
-+ **Software Development**<br>
-Es el proceso de crear, diseñar, programar, probar y mantener el software. Incluye la implementación de los requisitos definidos en el proceso de desarrollo de software, utilizando diferentes lenguajes de programación, herramientas y tecnologías. El objetivo es construir un producto de software funcional y de alta calidad que cumpla con los requisitos y expectativas del cliente.
++ **Software Development**<br>Es el proceso de crear, diseñar, programar, probar y mantener el software. Incluye la implementación de los requisitos definidos en el proceso de desarrollo de software, utilizando diferentes lenguajes de programación, herramientas y tecnologías. El objetivo es construir un producto de software funcional y de alta calidad que cumpla con los requisitos y expectativas del cliente.<br><br> 
 
-  + **GitHub:**<br> Es un repositorio comunitario cuya función es almacenar los avances de un proyecto elaborado por un grupo de personas. <br>
-https://github.com/TechZo-Organization  para open otro link
+  + **GitHub:** Es un repositorio comunitario cuya función es almacenar los avances de un proyecto elaborado por un grupo de personas. <br> https://github.com/TechZo-Organization <br><br> 
 
+  + **Visual Studio Code:**Es un editor potente que brinda extensiones que nos permiten personalizar y agregar funcionalidades para que la función del desarrollador sea más eficiente.<br>https://code.visualstudio.com/ <br><br>
 
-  + **Visual Studio Code:**<br> Es un editor potente que brinda extensiones que nos permiten personalizar y agregar funcionalidades para que la función del desarrollador sea más eficiente.<br>
-https://code.visualstudio.com/ 
+  + **HTML:** Es el lenguaje estándar para crear y diseñar sitios web. Utiliza etiquetas para estructurar el contenido, como texto, imágenes y enlaces. Junto con CSS y JavaScript, HTML forma la base de la web moderna. Este lenguaje será utilizado en el presente proyecto para implementar la documentación de la página web.<br>https://www.jetbrains.com/help/webstorm/editing-html-files.html<br><br> 
 
-  + **HTML:**<br>  Es el lenguaje estándar para crear y diseñar sitios web. Utiliza etiquetas para estructurar el contenido, como texto, imágenes y enlaces. Junto con CSS y JavaScript, HTML forma la base de la web moderna. Este lenguaje será utilizado en el presente proyecto para implementar la documentación de la página web.<br>
-https://www.jetbrains.com/help/webstorm/editing-html-files.html 
+  + **CSS:** Es un lenguaje de estilo utilizado para controlar el diseño y la presentación de páginas web. Permite establecer colores, fuentes, márgenes y otros aspectos visuales para mejorar la apariencia de un sitio web. Este lenguaje se utilizará para la implementación del diseño de nuestra plataforma web.<br>https://www.jetbrains.com/help/webstorm/style-sheets.html#ws_css_completion <br><br> 
 
-  + **CSS:**<br> Es un lenguaje de estilo utilizado para controlar el diseño y la presentación de páginas web. Permite establecer colores, fuentes, márgenes y otros aspectos visuales para mejorar la apariencia de un sitio web. Este lenguaje se utilizará para la implementación del diseño de nuestra plataforma web.<br>
-https://www.jetbrains.com/help/webstorm/style-sheets.html#ws_css_completion 
-
-  + **JavaScript:**<br> Es un lenguaje de programación de alto nivel que se utiliza principalmente para agregar interactividad y dinamismo a los sitios web. Permite realizar acciones como validar formularios, animar elementos y actualizar contenido sin recargar la página. Se utilizará para la elaboración de las dinámicas de la plataforma web.<br>
-https://www.jetbrains.com/help/webstorm/javascript-specific-guidelines.html 
+  + **JavaScript:** Es un lenguaje de programación de alto nivel que se utiliza principalmente para agregar interactividad y dinamismo a los sitios web. Permite realizar acciones como validar formularios, animar elementos y actualizar contenido sin recargar la página. Se utilizará para la elaboración de las dinámicas de la plataforma web.<br> https://www.jetbrains.com/help/webstorm/javascript-specific-guidelines.html<br><br> 
 
 
-  + **C#:**<br> Es un lenguaje de programación desarrollado por Microsoft que se utiliza principalmente en el desarrollo de aplicaciones para el ecosistema .NET. C# es conocido por su sintaxis intuitiva y su amplio conjunto de características, incluyendo la orientación a objetos y el manejo de eventos.<br>
-https://learn.microsoft.com/es-es/dotnet/csharp/ 
+  + **C#:** Es un lenguaje de programación desarrollado por Microsoft que se utiliza principalmente en el desarrollo de aplicaciones para el ecosistema .NET. C# es conocido por su sintaxis intuitiva y su amplio conjunto de características, incluyendo la orientación a objetos y el manejo de eventos.<br>https://learn.microsoft.com/es-es/dotnet/csharp/ <br><br> 
+ 
+
+  + **Vue Material:** Vue Material es una biblioteca de componentes y directivas Vue.js que sigue los principios de diseño de Material Design. Está diseñado para facilitar la creación de interfaces de usuario atractivas y funcionales con Vue.js, ofreciendo una amplia gama de componentes predefinidos y personalizables que siguen las pautas de diseño de Material Design.<br>https://vuematerial.io/<br><br> 
+
++ **Software Testing**<br>Se refiere a la actividad de verificar y validar el software para garantizar su calidad y funcionamiento correcto. Involucra la ejecución de pruebas funcionales y no funcionales para identificar errores, defectos o problemas en el software antes de su lanzamiento. El objetivo es asegurar que el software sea confiable, robusto y cumpla con los requisitos y expectativas del usuario final.<br><br> 
+
+  + **Lenguaje Gherkin:** Es un lenguaje de dominio específico (DSL) utilizado en el desarrollo de software para escribir pruebas de aceptación en un formato legible por humanos. Utiliza palabras clave como Given, When y Then para describir el estado inicial, la acción y el resultado esperado de un escenario de prueba, lo que facilita la colaboración entre equipos al definir requisitos y pruebas.<br>https://cucumber.io/<br><br> 
+
++ **Software Deployment**<br> Es el proceso de implementar y poner en funcionamiento el software en un entorno de producción o en los dispositivos de los usuarios finales. Incluye actividades como la instalación, configuración, migración de datos y puesta en marcha del software. El objetivo es garantizar una implementación exitosa y sin problemas del software en el entorno de producción.<br><br> 
+
+  + **Github Pages:** Servicio de Github que nos permitió alojar nuestra Landing page y nos permitirá alojar nuestro web applications.<br>https://pages.github.com/ <br><br>
 
 
-  + **Vue Material:**<br>Vue Material es una biblioteca de componentes y directivas Vue.js que sigue los principios de diseño de Material Design. Está diseñado para facilitar la creación de interfaces de usuario atractivas y funcionales con Vue.js, ofreciendo una amplia gama de componentes predefinidos y personalizables que siguen las pautas de diseño de Material Design.<br>https://vuematerial.io/
++	**Software Documentation**<br>Se refiere a la creación y mantenimiento de documentos que describen el software, incluyendo su arquitectura, diseño, funcionamiento, instalación, configuración, uso y mantenimiento. La documentación proporciona información útil y detallada sobre el software para desarrolladores, usuarios finales, administradores de sistemas y otras partes interesadas. <br><br> 
 
-+ **Software Testing**<br>
-Se refiere a la actividad de verificar y validar el software para garantizar su calidad y funcionamiento correcto. Involucra la ejecución de pruebas funcionales y no funcionales para identificar errores, defectos o problemas en el software antes de su lanzamiento. El objetivo es asegurar que el software sea confiable, robusto y cumpla con los requisitos y expectativas del usuario final.
-
-  + **Lenguaje Gherkin:**<br>Es un lenguaje de dominio específico (DSL) utilizado en el desarrollo de software para escribir pruebas de aceptación en un formato legible por humanos. Utiliza palabras clave como Given, When y Then para describir el estado inicial, la acción y el resultado esperado de un escenario de prueba, lo que facilita la colaboración entre equipos al definir requisitos y pruebas.<br>https://cucumber.io/
-
-+ **Software Deployment**<br>
-Es el proceso de implementar y poner en funcionamiento el software en un entorno de producción o en los dispositivos de los usuarios finales. Incluye actividades como la instalación, configuración, migración de datos y puesta en marcha del software. El objetivo es garantizar una implementación exitosa y sin problemas del software en el entorno de producción.
-
-  + **Github Pages:**<br> Servicio de Github que nos permitió alojar nuestra Landing page y nos permitirá alojar nuestro web applications.<br>
-https://pages.github.com/ <br>
-
-
-+	**Software Documentation**<br>Se refiere a la creación y mantenimiento de documentos que describen el software, incluyendo su arquitectura, diseño, funcionamiento, instalación, configuración, uso y mantenimiento. La documentación proporciona información útil y detallada sobre el software para desarrolladores, usuarios finales, administradores de sistemas y otras partes interesadas. 
-
-    + **Markdown:**<br>Es un lenguaje de marcado ligero que permite escribir texto con un formato fácil de leer y escribir, que luego puede ser convertido a HTML u otros formatos de presentación. Es ampliamente utilizado para documentar proyectos de software debido a su simplicidad y versatilidad. Markdown permite agregar formato básico como encabezados, listas, enlaces e imágenes utilizando una sintaxis sencilla y fácil de recordar.<br>https://www.markdownguide.org/getting-started/
+    + **Markdown:** Es un lenguaje de marcado ligero que permite escribir texto con un formato fácil de leer y escribir, que luego puede ser convertido a HTML u otros formatos de presentación. Es ampliamente utilizado para documentar proyectos de software debido a su simplicidad y versatilidad. Markdown permite agregar formato básico como encabezados, listas, enlaces e imágenes utilizando una sintaxis sencilla y fácil de recordar.<br>https://www.markdownguide.org/getting-started/<br><br>
 
 
 ### 5.1.2 Source Code Management
@@ -2061,26 +1906,24 @@ Para administrar el progreso del código de manera efectiva, hemos decidido adop
 
 Además, hemos optado por utilizar GitHub debido a su función específica llamada GitHub Pages. Esta función permite la visualización eficiente del proyecto mediante la ejecución de archivos '.html' y la generación de un enlace web.
 
-En cuanto a nuestros archivos feature, creamos una nueva rama “feature/sprint-1” para cada nueva funcionalidad que deseamos agregar. Este enfoque modular y organizado asegura un desarrollo progresivo, ya que cada rama “feature/sprint-1” actúa como un espacio aislado para desarrollar y probar una característica específica antes de fusionarla con la rama de desarrollo.
+En cuanto a nuestros archivos feature, creamos una nueva rama “feature/sprint-1” para cada nueva funcionalidad que deseamos agregar. Este enfoque modular y organizado asegura un desarrollo progresivo, ya que cada rama “feature/sprint-1” actúa como un espacio aislado para desarrollar y probar una característica específica antes de fusionarla con la rama de desarrollo.<br><br>
 
-Enlace de la Landing Page en GitHub Pages: https://techzo-organization.github.io/landing-page-CambiaZo/
-
-<div align="center">
-    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Code-Management/landing-desplegada.jpeg?raw=true" width="800px" alt="Landing Page">
-</div><br><br>
-
-
-Repositorio GitHub de la Landing Page: https://github.com/TechZo-Organization/landing-page-CambiaZo 
+Enlace de la Landing Page en GitHub Pages: https://techzo-organization.github.io/landing-page-CambiaZo/ <br><br> 
 
 <div align="center">
-    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Code-Management/landing-repositorio.jpeg?raw=true" width="800px" alt="Repositorio landing page">
-</div><br><br>
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Code-Management/landing-desplegada.jpeg?raw=true" alt="Landing Page">
+</div><br>
 
-
-Repositorio GitHub de los archivos feature: https://github.com/TechZo-Organization/Acceptance-Test
+Repositorio GitHub de la Landing Page: https://github.com/TechZo-Organization/landing-page-CambiaZo <br><br> 
 
 <div align="center">
-    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Code-Management/acceptance-repositorio.jpeg?raw=true" width="800px" alt="repositorio feature">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Code-Management/landing-repositorio.jpeg?raw=true"  alt="Repositorio landing page">
+</div><br>
+
+Repositorio GitHub de los archivos feature: https://github.com/TechZo-Organization/Acceptance-Test <br><br> 
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Code-Management/acceptance-repositorio.jpeg?raw=true"  alt="repositorio feature">
 </div><br><br>
 
 ### 5.1.3 Source Code Style Guide & Conventions
@@ -2194,13 +2037,14 @@ Ejemplo:
 Según las recomendaciones de Google, al citar los valores de los atributos en HTML, se deben utilizar comillas dobles ("") en lugar de comillas simples (''). Esta práctica es preferible ya que las comillas dobles son el estándar recomendado en la especificación de HTML.
 
 Ejemplo:
-```
+``` 
 <!-- Not recommended →
 <a class='facebook-button'>Sign in</a>
 
 <!-- Recommended →
-<a class="facebook-button">Sign in</a>
+<a class="facebook-button">Sign in</a> 
 ```
+
 <br><br>
 
 **CSS**
@@ -2444,9 +2288,8 @@ Para desplegar nuestro landing page hemos optado por usar Github Pages el cual b
   <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Deployment-Landing/paso5.png?raw=true" alt="landing repo">
 </div><br>
 
-Esta sería la forma de cómo desplegamos automáticamente la landing page en GitHub Pages. Con cada commit a la rama develop, se configuró GitHub Pages para que se despliegue desde esa rama en lugar de la principal. Luego, se creó un flujo de trabajo de GitHub Actions que se active con cada commit a develop, compile los archivos estáticos de la landing page y los suba a la misma rama develop, lo que provocará que GitHub Pages detecte los cambios y actualice automáticamente la landing page desplegada con los nuevos archivos subidos.
+Esta sería la forma de cómo desplegamos automáticamente la landing page en GitHub Pages. Con cada commit a la rama develop, se configuró GitHub Pages para que se despliegue desde esa rama en lugar de la principal. Luego, se creó un flujo de trabajo de GitHub Actions que se active con cada commit a develop, compile los archivos estáticos de la landing page y los suba a la misma rama develop, lo que provocará que GitHub Pages detecte los cambios y actualice automáticamente la landing page desplegada con los nuevos archivos subidos.<br><br>
 
-<br><br>
 
 ## 5.2 Landing Page, Services & Applications Implementation
 ### 5.2.1 Sprint 1
@@ -2495,10 +2338,8 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1
   </tr>
   <tr>
     <td>Sprint 1 </td>
-    <td>Desarrollar una versión inicial de la landing page que permita atraer visitantes a nuestro sitio web.<br><br>
-      Métrica de Cumplimiento: Para evaluar el cumplimiento de este sprint, utilizaremos la siguiente métrica: Mediremos cuántos visitantes llegan a nuestra landing page durante el período del sprint. El objetivo será atraer al menos 10 visitantes nuevos.<br>
+    <td>Desarrollar una versión inicial de la landing page que permita atraer visitantes a nuestro sitio web.<br><br>Métrica de Cumplimiento: Para evaluar el cumplimiento de este sprint, utilizaremos la siguiente métrica: Mediremos cuántos visitantes llegan a nuestra landing page durante el período del sprint. El objetivo será atraer al menos 10 visitantes nuevos.<br>
 </tr>
-
   <tr>
     <td>Sprint 1 Velocity</td>
     <td>22 Story Points</td>
@@ -2532,7 +2373,7 @@ Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
     <td>Id</td>
     <td>Title</td>
     <td>Description</td>
-    <td>Estimation (Hours)</td>
+    <td>Estim<br>ation (Hours)</td>
     <td>Assigned to</td>
     <td>Status (To-do / InProcess / ToReview / Done)</td>
   </tr>
@@ -2568,7 +2409,6 @@ Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
     <td>Ian Santisteban</td>
     <td>Done</td>
   </tr>
-
   <tr>
     <td rowspan="1">US28</td>
     <td rowspan="1">Acceder a la página principal de CambiaZo</td>
@@ -2606,51 +2446,52 @@ Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
 #### 5.2.1.3. Development Evidence for Sprint Review
 A continuación presentaremos los commits realizados en el repositorio de nuestra Landing Page, todos estos commits se han hecho en la rama “master” durante el desarrollo de nuestro Sprint 1.
 
-
 |**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited On (Date)**|
 | - | - | - | - | - | - |
-|HelloNerk/landing-page-cambiazo|master|339fdfd0541f9cd76ee66a9b246dbe97ccf2307b|feat: Add images, scripts, and styles folders|Create necessary folders to organize project resources, including images, scripts, and styles.|07/04/2024|
-|AndresVZ23/landing-page-cambiazo/index.html|master|f3e8c561f5a91e73073180b5941c570824720b29|Feat: Create index.html|Create Index and base structure|08/04/2024|
-|AndresVZ23/landing-page-cambiazo/index.html|master|3357ba2ab9eb951e6cfeba958d7191f22dea3819|Feat: Create header and navbar|Add to structure the header and navbar|08/04/2024|
-|IanHD04/landing-page-cambiazo/index.html|master|ac2fdf12500943b04b0a14f2821b60fe5690651e|Feat: Create Start-Container|Creation of the Start section and adding images of the logo, icon and hero background|08/04/2024|
-|HelloNerk/landing-page-cambiazo/scripts/script-burger.js|master|765518e7500c830c091e591847edd04684a65365|feat: Create burger script|Creation of the burger script for responsive menu and referencing in index.html|08/04/2024|
-|123-Mathias/landing-page-cambiazo/index.html|master|65ea5ba6849d961756527b49d5c53481c37ddbc5|Feat: Create Footer|Creation of the footer and linking of the networks with their icons|08/04/2024|
-|<p>123-Mathias/landing-page-cambiazo/images</p><p></p>|<p>master</p><p><br></p>|2b1d3f97f5cbb9bf993ea354aa9e7b8231319413|Feat: Add social media icons|Icons of social networks facebook, youtube, instagram and twitter|08/04/2024|
-|diegooo01/landing-page-cambiazo/index.html|master|3e1cdb45e96a4263206a664553bce87de4c0f98a|Feat:Create Election Section|Creation of the election section, in this part we will show to the new users what we can do in CambiaZo.|08/04/2024|
-|diegooo01/landing-page-cambiazo/index.html|master|4816649e2a0d022d5c47360927999bc89bf41554|Feat:Create Exchange Objects Container|Creation of the exchange objects container, in this section we'll show to the users, the most popular categories of traded objects.|08/04/2024|
-|IanHD04/landing-page-cambiazo/index.html|master|c2fe8e1baf059c01796e485aff5bb042b895b4e1|Feat: Create Features Container|Creation of the features section where you can see the main features that the website has.|08/04/2024|
-|diegooo01/landing-page-cambiazo/images|master|752c6d4aaa4232deca81fc3c5ba29fe1e5834c61|Feat:Uploading Images from Election and Exchange Objects Container|Uploading the corresponding images from Election container and Objects Exchange Container|08/04/2024|
-|<p>IanHD04/landing-page-cambiazo/images</p><p><br></p>|<p>master</p><p><br><br><br></p>|c30468513c8be6c71eb745e35fe1866ff614cba1|Feat: Uploading images from the features|Uploading the corresponding images from the Features container|<p>08/04/2024</p><p><br><br><br></p>|
-|HelloNerk/landing-page-cambiazo/index.html|master|a514b0fff252939404cfe959f7b77be3a2a97b14|feat: Create about us container|Create the about us container with information of TechZo|08/04/2024|
-|diegooo01/landing-page-cambiazo/index.html|master|58101ccdf070b764bdc0e4a39ceefdefb5183238|Feat:Adding Testimony Container|In this section of the code, we are adding the testimony container in which de new users will see the old users opinions about their experience with CambiaZo. We are uploading the corresponding images, too.|08/04/2024|
-|IanHD04/landing-page-cambiazo/index.html|master|24ba855a515614bfb5dc4ca33568eb3ddd2c4129|Feat: Create Ongs Section|Creation of the Ongs section where the Ongs affiliated with CambiaZo will be displayed|08/04/2024|
-|IanHD04/landing-page-cambiazo/images|master|c9215b49cfafb5b021babf0aa82b2c527b06d70e|Feat:Uploading Images from Ongs Container|Uploading the image corresponding to each affiliated Ong|08/04/2024|
-|<p>HelloNerk/landing-page-cambiazo/index.html</p><p></p>|<p>master</p><p><br><br></p>|4293204af170654ca388096d50f03b401e1d529e|feat: Create section plans container|Create the section plans container, add plans and details|<p>08/04/2024</p><p><br></p>|
-|AndresVZ23/landing-page-cambiazo/index.html|master|f5567a5cbc00ab8ea0fce90280090c067390ffdc|Feat: Create Contact us container|In this part, we created the contact us section|08/04/2024|
-|AndresVZ23/landing-page-cambiazo/index.html|master|81e0775450db680fbf27133c699be936021f0c34|Feat: Create Contact us form|In this part, we created the form that the users are going to use to contact us.|08/04/2024|
-|AndresVZ23/landing-page-cambiazo/images|master|729841dc4b236230ac99d707ec92578303d85aa7|Feat: Insert image Contact Us|In this part we inserted the image that is going to be in the contact us section.|08/04/2024|
-|diegooo01/landing-page-cambiazo/index.html|master|ac4f2abcbdf532bfb78c8c0d4e2fc06e657be6d9|Feat:Adding Stylesheet Header Link|Adding stylesheet header link.|08/04/2024|
-|<p>HelloNerk/landing-page-cambiazo/index.html</p><p></p>|master|0a0cdaef24fcdb8e87e407370345b2e01234da41|feat: Adding style-start in Stylesheet Header Link|Linking start-style.css in Stylesheet Header|08/04/2024|
-|AndresVZ23/landing-page-cambiazo/index.html|master|b9c08a5c98442a90c0a7d1aa64eca71064107154|Feat: Adding stylesheet about us|We linked the stylesheet about us.|08/04/2024|
-|IanHD04/landing-page-cambiazo/index.html|master|e7dcb8c7388e8231a81a2b42382627c241b96632|Feat: Adding stylesheet ongs|Linking style-ongs.css in Stylesheet Header|08/04/2024|
-|123-Mathias/landing-page-cambiazo/index.html|master|c0d395ed1609d07dea68060a0f988e1c6902d5b6|Feat: insert stylesheet plans|In this part, we linked the stylesheet plans.|08/04/2024|
-|AndresVZ23/landing-page-cambiazo/index.html|master|28a07c681ff23170962bd9f0ae4b667ba2fddbef|Feat: Insert stylesheet contact us|In this part we linked the stylesheet contact us.|08/04/2024|
-|123-Mathias/landing-page-cambiazo/index.html|master|462922e0e15d53d1890be5a3e97c87c2389c58e5|Feat: Insert stylesheet footer|<p>In this part, we linked the stylesheet footer.</p><p></p>|08/04/2024|
-|HelloNerk/landing-page-cambiazo/scripts/burger.js|master|f203caa7eb2f8b43bbaa3b4a268d052afae6976e|Feat: Create function mostrarMensaje()|Create a showMessage() function to confirm the form registration.|08/04/2024|
-|diegooo01/landing-page-cambiazo/styles/style-header.css|master|8692861afac77dfb185817014ea19b499dbc0344|Feat:Upload Style Header content|Uploading style header css content.|08/04/2024|
-|HelloNerk/landing-page-cambiazo/styles/style-start.css|master|9a0d2844aeebb4053a0dd35e860210eb30d4eece|feat: Add styles of the start section 1,2,3 parts|Add styles of first, second and third part of the start section|08/04/2024|
-|<p>HelloNerk/landing-page-cambiazo/styles/style-start.css</p><p></p>|master|995aa0f957201be52249c8441dfc2d077e0f103b|feat: create fourth part of the start section|Create style of the fourth part of the start section|08/04/2024|
-|<p>123-Mathias/landing-page-cambiazo/styles/style-start.css</p><p></p>|master|2ace8b9040dee6d5815960a7063c07496a2e769a|<p>Feat: Fifth part of the Start Section</p><p></p>|In this part, we added the Fifth part of the Start Section.|08/04/2024|
-|diegooo01/landing-page-cambiazo/styles/style-start.css|master|8f67d25ac1e560515e1c3348324ccc1e6b845a4e|<p>Feat:Uploading media screen section</p><p></p>|Uploading media screen part into the style-start.css, with this portion of code this section will be responsive.|08/04/2024|
-|123-Mathias/landing-page-cambiazo/styles/style-footer.css|master|df06dddecee2b4025be4f27722a105e0980927ee|Feat: stylesheet footer|In this part, we created the footer.|08/04/2024|
-|123-Mathias/landing-page-cambiazo/styles/style-plans.css|<p>master</p><p></p>|e85ee535d9be146757eef15dbc5639e6e26b8e6d|<p>Feat: Stylesheet Plans</p><p></p>|In this part, we linked the stylesheet Plans.|<p>08/04/2024</p><p><br></p>|
-|IanHD04/landing-page-cambiazo/styles/style-ongs.css|master|b252e9ac9aa9a3833b5c1c0c5e6f93d750b08f3e|Feat: Upload Style Ongs Section|Add styling to ongs section and responsive design|08/04/2024|
-|AndresVZ23/landing-page-cambiazo/styles/style-about-us.css|master|b90602fd52ce8fbec004b2d5038a9c81d9342701|<p>Feat: Upload Style About Us Section</p><p></p>|Add style to about us section and responsive design.|08/04/2024|
-|AndresVZ23/landing-page-cambiazo/styles/style-about-us.css|master|a9e3a09264e7584812b1d13d551e47c40226f512|Feat: Upload Style Testimony Section|Add style to Testimony section and responsive design|08/04/2024|
-|AndresVZ23/landing-page-cambiazo/styles/style-contact-us.css|master|df2ebc3956953014fd9fb65d319b0c10ce474517|Feat: Upload Contact Us Testimony Section|Add style to Contact Us section and responsive design.|08/04/2024|
-|IanHD04/landing-page-cambiazo/index.html|master|04c33a3c01b205289338767ad8393f9f9ccc68bf|Feat: Create Ongs Conatiner|Creation of the Ongs section where the Ongs affiliated with CambiaZo will be displayed|08/04/2024|
-|IanHD04/landing-page-cambiazo/index.html|master|7a226f867497de593155f8a3cb7831d68e53feec|Revert "Feat: Create Ongs Conatiner"|This reverts commit 04c33a3.|08/04/2024|
-|<p>AndresVZ23/landing-page-cambiazo/index.html</p><p></p>|master|8c256280f830dcc6578d956ede597973eb49c418|<p>Fix: link stylesheet style-footer</p><p></p>|fixed the link of stylesheet style-footer|09/04/2024|
+|HelloNerk/landing-page-cambiazo|master|339fdfd|feat: Add images, scripts, and styles <br>folders|Create necessary folders to organize project resources, including images, scripts, and styles.|07/04/2024|
+|AndresVZ23/landing-page-cambiazo/index.html|master|f3e8c56|Feat: Create index.html|Create Index and base structure|08/04/2024|
+|AndresVZ23/landing-page-cambiazo/index.html|master|3357ba2|Feat: Create header and navbar|Add to structure the header and navbar|08/04/2024|
+|IanHD04/landing-page-cambiazo/index.html|master|ac2fdf1|Feat: Create Start-Container|Creation of the Start section and adding images of the logo, icon and hero background|08/04/2024|
+|HelloNerk/landing-page-cambiazo/scripts/script-burger.js|master|765518e|feat: Create burger script|Creation of the burger script for responsive menu and referencing in index.html|08/04/2024|
+|123-Mathias/landing-page-cambiazo/index.html|master|65ea5ba|Feat: Create Footer|Creation of the footer and linking of the networks with their icons|08/04/2024|
+|<p>123-Mathias/landing-page-cambiazo/images</p><p></p>|<p>master</p><p><br></p>|2b1d3f9|Feat: Add social media icons|Icons of social networks facebook, youtube, instagram and twitter|08/04/2024|
+|diegooo01/landing-page-cambiazo/index.html|master|3e1cdb4|Feat:Create Election Section|Creation of the election section, in this part we will show to the new users what we can do in CambiaZo.|08/04/2024|
+|diegooo01/landing-page-cambiazo/index.html|master|4816649|Feat:Create Exchange Objects Container|Creation of the exchange objects container, in this section we'll show to the users, the most popular categories of traded objects.|08/04/2024|
+|IanHD04/landing-page-cambiazo/index.html|master|c2fe8e1|Feat: Create Features Container|Creation of the features section where you can see the main features that the website has.|08/04/2024|
+|diegooo01/landing-page-cambiazo/images|master|752c6d4|Feat:Uploading Images from Election and Exchange Objects Container|Uploading the corresponding images from Election container and Objects Exchange Container|08/04/2024|
+|<p>IanHD04/landing-page-cambiazo/images</p><p><br></p>|<p>master</p><p><br><br><br></p>|c304685|Feat: Uploading images from the features|Uploading the corresponding images from the Features container|<p>08/04/2024</p><p><br><br><br></p>|
+|HelloNerk/landing-page-cambiazo/index.html|master|a514b0f|feat: Create about us container|Create the about us container with information of TechZo|08/04/2024|
+|diegooo01/landing-page-cambiazo/index.html|master|58101cc|Feat:Adding Testimony Container|In this section of the code, we are adding the testimony container in which de new users will see the old users opinions about their experience with CambiaZo. We are uploading the corresponding images, too.|08/04/2024|
+|IanHD04/landing-page-cambiazo/index.html|master|24ba855|Feat: Create Ongs Section|Creation of the Ongs section where the Ongs affiliated with CambiaZo will be displayed|08/04/2024|
+|IanHD04/landing-page-cambiazo/images|master|c9215b4|Feat:Uploading Images from Ongs Container|Uploading the image corresponding to each affiliated Ong|08/04/2024|
+|<p>HelloNerk/landing-page-cambiazo/index.html</p><p></p>|<p>master</p><p><br><br></p>|4293204|feat: Create section plans container|Create the section plans container, add plans and details|<p>08/04/2024</p><p><br></p>|
+|AndresVZ23/landing-page-cambiazo/index.html|master|f5567a5|Feat: Create Contact us container|In this part, we created the contact us section|08/04/2024|
+|AndresVZ23/landing-page-cambiazo/index.html|master|81e0775|Feat: Create Contact us form|In this part, we created the form that the users are going to use to contact us.|08/04/2024|
+|AndresVZ23/landing-page-cambiazo/images|master|729841d|Feat: Insert image Contact Us|In this part we inserted the image that is going to be in the contact us section.|08/04/2024|
+|diegooo01/landing-page-cambiazo/index.html|master|ac4f2ab|Feat:Adding Stylesheet Header Link|Adding stylesheet header link.|08/04/2024|
+|<p>HelloNerk/landing-page-cambiazo/index.html</p><p></p>|master|0a0cdae|feat: Adding style-start in Stylesheet Header Link|Linking start-style.css in Stylesheet Header|08/04/2024|
+|AndresVZ23/landing-page-cambiazo/index.html|master|b9c08a5|Feat: Adding stylesheet about us|We linked the stylesheet about us.|08/04/2024|
+|IanHD04/landing-page-cambiazo/index.html|master|e7dcb8c|Feat: Adding stylesheet ongs|Linking style-ongs.css in Stylesheet Header|08/04/2024|
+|123-Mathias/landing-page-cambiazo/index.html|master|c0d395e|Feat: insert stylesheet plans|In this part, we linked the stylesheet plans.|08/04/2024|
+|AndresVZ23/landing-page-cambiazo/index.html|master|28a07c6|Feat: Insert stylesheet contact us|In this part we linked the stylesheet contact us.|08/04/2024|
+|123-Mathias/landing-page-cambiazo/index.html|master|462922e|Feat: Insert stylesheet footer|<p>In this part, we linked the stylesheet footer.</p><p></p>|08/04/2024|
+|HelloNerk/landing-page-cambiazo/scripts/burger.js|master|f203caa|Feat: Create function mostrarMensaje<br>()|Create a showMessage() function to confirm the form registration.|08/04/2024|
+|diegooo01/landing-page-cambiazo/styles/style-header.css|master|8692861|Feat:Upload Style Header content|Uploading style header css content.|08/04/2024|
+|HelloNerk/landing-page-cambiazo/styles/style-start.css|master|9a0d284|feat: Add styles of the start section 1,2,3 parts|Add styles of first, second and third part of the start section|08/04/2024|
+|<p>HelloNerk/landing-page-cambiazo/styles/style-start.css</p><p></p>|master|995aa0f|feat: create fourth part of the start section|Create style of the fourth part of the start section|08/04/2024|
+|<p>123-Mathias/landing-page-cambiazo/styles/style-start.css</p><p></p>|master|2ace8b9|<p>Feat: Fifth part of the Start Section</p><p></p>|In this part, we added the Fifth part of the Start Section.|08/04/2024|
+|diegooo01/landing-page-cambiazo/styles/style-start.css|master|8f67d25|<p>Feat:Uploading media screen section</p><p></p>|Uploading media screen part into the style-start.css, with this portion of code this section will be responsive.|08/04/2024|
+|123-Mathias/landing-page-cambiazo/styles/style-footer.css|master|df06ddd|Feat: stylesheet footer|In this part, we created the footer.|08/04/2024|
+|123-Mathias/landing-page-cambiazo/styles/style-plans.css|<p>master</p><p></p>|e85ee53|<p>Feat: Stylesheet Plans</p><p></p>|In this part, we linked the stylesheet Plans.|<p>08/04/2024</p><p><br></p>|
+|IanHD04/landing-page-cambiazo/styles/style-ongs.css|master|b252e9a|Feat: Upload Style Ongs Section|Add styling to ongs section and responsive design|08/04/2024|
+|AndresVZ23/landing-page-cambiazo/styles/style-about-us.css|master|b90602f|<p>Feat: Upload Style About Us Section</p><p></p>|Add style to about us section and responsive design.|08/04/2024|
+|AndresVZ23/landing-page-cambiazo/styles/style-about-us.css|master|a9e3a09|Feat: Upload Style Testimony Section|Add style to Testimony section and responsive design|08/04/2024|
+|AndresVZ23/landing-page-cambiazo/styles/style-contact-us.css|master|df2ebc3|Feat: Upload Contact Us Testimony Section|Add style to Contact Us section and responsive design.|08/04/2024|
+|IanHD04/landing-page-cambiazo/index.html|master|04c33a3|Feat: Create Ongs Conatiner|Creation of the Ongs section where the Ongs affiliated with CambiaZo will be displayed|08/04/2024|
+|IanHD04/landing-page-cambiazo/index.html|master|7a226f8|Revert "Feat: Create Ongs Conatiner"|This reverts commit 04c33a3.|08/04/2024|
+|<p>AndresVZ23/landing-page-cambiazo/index.html</p><p></p>|master|8c25628|<p>Fix: link stylesheet style-footer</p><p></p>|fixed the link of stylesheet style-footer|09/04/2024|
+
+
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
@@ -2658,12 +2499,12 @@ A continuación presentaremos los commits que se han hecho en la rama “feature
 
 |**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited On (Date)**|
 | - | - | - | - | - | - |
-|AndresVZ23/TechZo-Organization/Acceptance-Test|feature/sprint-1|0cf5f0117ab07d31cb1804a57fb261a9871a92f9|Feat: Create US-25|In this part, we applied Gherkin to the US-25.|11/04/2024|
-|123-Mathias/TechZo-Organization/Acceptance-Test|feature/sprint-1|adf315e8640341e571a0bf0b08f6d904bb68732f|Feat: Create US-26|In this part, we applied Gherkin to the US-26.|11/04/2024|
-|IanHD04/TechZo-Organization/Acceptance-Test|feature/sprint-1|44286b3fa1c3b7471e788b173d7a5dd8ba143210|Feat: Create US-27|In this part, we applied Gherkin to the US-27.|11/04/2024|
-|HelloNerk/TechZo-Organization/Acceptance-Test|feature/sprint-1|eaaca201cb1df7f680af7a08b5e2f21d5fc45d2c|Feat: Create US-28|In this part, we applied Gherkin to the US-28.|11/04/2024|
-|diegooo01/TechZo-Organization/Acceptance-Test|feature/sprint-1|b272c6d857c27e2fa6a8692dd2f4fac2c3ede606|Feat: Create US-29|In this part, we applied Gherkin to the US-29.|11/04/2024|
-|AndresVZ23/TechZo-Organization/Acceptance-Test|feature/sprint-1|9cd78c10cb78fb2f8cfe490632b6ff41f7423415|Feat: Create US-30|In this part, we applied Gherkin to the US-30.|11/04/2024|
+|AndresVZ23/TechZo-Organization/Acceptance-Test|feature/sprint-1|0cf5f01|Feat: Create US-25|In this part, we applied Gherkin to the US-25.|11/04/2024|
+|123-Mathias/TechZo-Organization/Acceptance-Test|feature/sprint-1|adf315e|Feat: Create US-26|In this part, we applied Gherkin to the US-26.|11/04/2024|
+|IanHD04/TechZo-Organization/Acceptance-Test|feature/sprint-1|44286b3|Feat: Create US-27|In this part, we applied Gherkin to the US-27.|11/04/2024|
+|HelloNerk/TechZo-Organization/Acceptance-Test|feature/sprint-1|eaaca20|Feat: Create US-28|In this part, we applied Gherkin to the US-28.|11/04/2024|
+|diegooo01/TechZo-Organization/Acceptance-Test|feature/sprint-1|b272c6d|Feat: Create US-29|In this part, we applied Gherkin to the US-29.|11/04/2024|
+|AndresVZ23/TechZo-Organization/Acceptance-Test|feature/sprint-1|9cd78c1|Feat: Create US-30|In this part, we applied Gherkin to the US-30.|11/04/2024|
 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
