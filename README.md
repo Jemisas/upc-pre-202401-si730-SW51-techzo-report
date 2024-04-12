@@ -2866,6 +2866,174 @@ const person = {
   eyeColor: "blue"
 };
 ```
+  
+  <br><br>
+  
+**GHERKIN**<br>
+Gherkin es un Lenguaje Específico de Dominio (DSL) diseñado para abordar problemas específicos al generar casos de validación de características en diversos escenarios. Este lenguaje se utiliza para describir el comportamiento deseado de un software de manera comprensible para personas no técnicas. Gherkin presenta varios elementos, entre los que se destacan Feature, Scenario, Example, Given, When y Then, los cuales son ampliamente utilizados para definir las características y los pasos de las pruebas de comportamiento.
+
+Las pautas a tener en cuenta al utilizar Gherkin en nuestro código incluyen:
+
+  
+
+* **Discernible Given-When-Then Blocks**
+  
+Según la sugerencia de Keiblinger, para facilitar la comprensión y la organización de los escenarios en Gherkin, se recomienda indentar los pasos que comienzan con "And" después de cada Given, When o Then. Esto permite distinguir claramente dónde termina un bloque y comienza otro, incluso en escenarios con múltiples pasos.
+
+Ejemplo de Sophie Keiblinger :
+
+```
+Scenario: Discernible Given-When-Then Blocks
+
+In order to quickly spot where one block ends and another one begins, you can indent the steps starting with “And”
+
+Given I need to prepare some data for my  scenario
+
+And this is more complex so I need a second step
+
+And this is more complex so I need a third step
+
+When I trigger some action
+
+Then I can see the expected outcome
+
+And this outcome also has a second step
+
+And this outcome also has a third step
+```
+
+* **Steps with Tables**
+  
+Keiblinger nos sugiere utilizar un colon (:) al final de los pasos que requieren más entrada de una tabla. Esto ayuda a hacer inmediatamente reconocible que se espera una tabla como parte de la entrada del paso.
+
+Ejemplo de Sophie Keiblinger:
+
+```
+Given I need to prepare the following data for my scenario:
+
+|  column 1  | column 2 |
+| necessary |     data     |
+```
+
+* **Reducing Noise**
+
+Keiblinger sugiere utilizar valores por defecto para campos que el sistema requiere pero que no son pertinentes para el escenario en cuestión. Por ejemplo, al probar la validación de una fecha de nacimiento, no es necesario especificar el nombre de la persona, título académico o número de seguro social. Esta  inclusión no afecta al resultado del escenario. Esta práctica ayuda a simplificar los escenarios y a enfocarse en las características específicas que se están probando.
+
+Ejemplo:
+
+```
+When el visitante se acerque a la sección ‘Comunícate con nosotros’
+```
+
+* **Newlines between scenarios and separator comments**
+
+Keiblinger nos dice que para mantener la claridad en los archivos de escenarios de Gherkin, especialmente cuando estos son extensos o contienen múltiples escenarios, se recomienda agregar dos líneas en blanco entre cada escenario. Esto ayuda a distinguir claramente dónde termina un escenario y comienza otro. Además, es común añadir un comentario separador para brindar una guía visual adicional y facilitar la navegación en el archivo.
+
+Ejemplo:
+
+```
+#-----------------------------------------------------------------------------------
+Scenario: Acceso a la historia de TechZo
+        Given que soy un visitante de la landing page
+        When navegue por la página de inicio
+        And encuentre la sección titulada "¿Quiénes Somos?"
+        Then podré obtener información detallada sobre la historia de la startup.
+
+#-----------------------------------------------------------------------------------
+
+    Scenario: Acceso a las redes sociales de TechZo
+        Given que el visitante se encuentra en el landing page
+        When el visitante de click en la etiqueta “Contáctanos”
+        And encuentre los botones con los logos de las redes sociales en las que puede encontrar la página de TechZo
+        And de click encima del botón con el logo de la red social que desee ver
+        Then el usuario será redireccionado a la red social que seleccionó previamente.
+
+```
+ 
+<br><br>
+
+**C#**
+
+C# es un lenguaje de programación moderno desarrollado por Microsoft, diseñado específicamente para la plataforma .NET. Se utiliza ampliamente para el desarrollo de aplicaciones de escritorio, aplicaciones web, servicios web y aplicaciones móviles en el ecosistema de Microsoft. En nuestro proyecto, optamos por utilizar C# debido a su potencia, flexibilidad y las numerosas características que ofrece en su versión más reciente, C# 9.0. A continuación, presentaremos las características y directrices que seguiremos para el desarrollo utilizando este lenguaje
+
+* **Nomenclatura en C#**
+
+Para identificar una variable, método, función o clase, es importante utilizar nombres significativos que mejoren la legibilidad del código. A continuación, se detallan las convenciones para diferentes tipos de identificadores:
+
+Nombre de una clase: Debe comenzar con una letra mayúscula.
+
+Ejemplo:
+
+```
+public class Persona
+{
+}
+```
+
+Nombre de función: Debe comenzar con una letra minúscula.
+
+Ejemplo:
+
+```
+static string devuelveTexto()
+{
+}
+```
+
+Nombre de variable: Debe comenzar con una letra minúscula.
+
+Ejemplo:
+
+```
+int area = 100;
+```
+
+Nombre de constante: Debe estar en letras mayúsculas.
+
+Ejemplo:
+
+```
+const int MAX_HEIGHT = 100;
+```
+
+* **Uso de paréntesis en las expresiones**
+  
+Microsoft sugiere utilizar paréntesis para hacer las cláusulas en una expresión más evidentes. Esta práctica mejora la claridad y la legibilidad del código, especialmente en expresiones complejas.
+
+Ejemplo:
+
+```
+if ((num1 > num2) && (num1 > num3))
+{
+   // Contenido
+}
+```
+
+* **Convención de Estilo "Allman" para Corchetes**
+
+Microsoft nos recomienda usar el estilo "Allman" para los corchetes implica colocar tanto el corchete de apertura como el de cierre en su propia línea nueva, en lugar de colocarlos en la misma línea que la declaración correspondiente.
+
+Ejemplo:
+
+```
+while (x==y)
+{
+    //Contenido
+}
+```
+
+* **Comment Style**
+
+Se recomienda utilizar comentarios en una sola línea (//) para explicaciones breves dentro del código. Es preferible evitar comentarios en varias líneas (/* */) para explicaciones más largas, ya que los comentarios no están localizados y pueden dificultar la lectura del código. En su lugar, se sugiere incluir explicaciones más extensas en un artículo complementario o en documentación externa.
+
+```
+//Función que determina si el numero es primo
+bool esPrimo(int num)
+{
+    //Contenido
+}
+```
+
 
 ### 5.1.4 Software Deployment Configuration
 
