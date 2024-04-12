@@ -1806,6 +1806,123 @@ Al acceder a la página de membresía, los usuarios son recibidos por un texto d
 En la página de publicación de objetos, hemos diseñado un formulario intuitivo con instrucciones claras para guiar al usuario en todo el proceso. El formulario está dividido en secciones con subtítulos claramente definidos y un espacio equitativo entre ellos para una mejor organización visual. Cada sección cuenta con un sutil sombreado con un diseño minimalista, que proporciona una experiencia agradable y cómoda para el usuario. Además, los campos importantes se destacan mediante un tamaño de letra más grande y negrita, lo que facilita su identificación y comprensión durante la creación de la publicación. También hemos incluido un botón de "Publicar" en color amarillo, destacando visualmente sobre las demás secciones para que el usuario identifique intuitivamente que ese botón es para finalizar y publicar la información.<br><br>
 
 
+## 4.5. Web Applications Prototyping.
+
+A continuación, se presenta el prototipo que se realizó en base a los mockups que se desarrollaron y documentaron en puntos anteriores. El prototype nos permite evidenciar algunos flujos que se llevarán al desarrollo en código.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-0.PNG?raw=true"  alt="prototype">
+</div><br><br>
+
+Enlace: [Prototype de la App Web en Figma](https://www.figma.com/proto/VpmoDnfHRERQvKTwxnOjLe/CambiaZo?type=design&node-id=662-6234&t=6tWRPswBDZfqgYDM-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=662%3A4809&show-proto-sidebar=1)<br><br>
+
+
+Para complementar, se ha realizado un video donde se muestran los user flows del prototipo, detallando cada flujo de interacción y definiendo el tiempo en el cual se muestran para una comprensión efectiva. Este enfoque proporciona una visión dinámica de la experiencia del usuario, facilitando la identificación de mejoras y la validación de la funcionalidad del prototipo.<br><br>
+
+Enlace: [Video Prototype de la App Web](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EUUL7qHyT4ZEphT55Efo2EkBd8UOBk_GQsqR3o8HY9yMNg?e=3x2Yce&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)<br><br>
+
+
+**User Goal 1:**  Como usuario, quiero ingresar a la aplicación web utilizando una cuenta.<br><br>
+
+Tiempo: 0:15
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-1.PNG?raw=true" alt="prototype 1">
+</div><br>
+
+
+**User Goal 2:** Como usuario, quiero buscar objetos para intercambiar fácilmente y obtener información detallada sobre ellos.<br><br>
+
+Tiempo: 2:48
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-2.PNG?raw=true" alt="prototype 2">
+</div><br>
+
+
+**User Goal 3:** Como usuario, quiero que otros usuarios vean los objetos que publiqué para intercambiar.<br><br>
+
+Tiempo: 3:04
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-3.PNG?raw=true" alt="prototype 3">
+</div><br><br>
+
+
+**User Goal 4:** Como usuario, quiero solicitar un intercambio a cambio de uno de los objetos de mi publicación.<br><br>
+
+Tiempo: 1:35
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-4.PNG?raw=true" alt="prototype 4">
+</div><br><br>
+
+**User Goal 5:** Como usuario, quiero ser notificado cuando reciba una solicitud de intercambio y tener la opción de aceptar o rechazarla.<br><br>
+
+Tiempo: 0:50
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-5.PNG?raw=true" alt="prototype 5">
+</div><br><br>
+
+
+**User Goal 6:** Como usuario, quiero explorar y buscar ONGs y acceder a la información detallada sobre ellas.<br><br>
+
+Tiempo: 1:39
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-6.PNG?raw=true" alt="prototype 6">
+</div><br><br>
+
+
+
+**User Goal 7:** Como usuario, quiero explorar y obtener información sobre los perfiles de otros usuarios.<br><br>
+
+Tiempo: 2:53
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-7.PNG?raw=true" alt="prototype 7">
+</div><br><br>
+
+
+
+**User Goal 8:** Como usuario, quiero tener la opción de  pagar una membresía y disfrutar de los beneficios que ofrece.<br><br>
+
+Tiempo: 3:08
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-8.PNG?raw=true" alt="prototype 8">
+</div><br><br>
+
+
+**User Goal 9:** Como usuario, quiero tener acceso claro y fácil a toda la información relevante de la aplicación.<br><br>
+
+Tiempo: 3:48
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-9.PNG?raw=true" alt="prototype 9">
+</div><br><br>
+
+
+**User Goal 10:** Como usuario, quiero poder realizar modificaciones en mis publicaciones si considero que necesitan ajustes.<br><br>
+
+Tiempo: 4:30
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-10.PNG?raw=true" alt="prototype 10">
+</div><br><br>
+
+
+
+**User Goal 11:** Como usuario, quiero realizar cambios en mi perfil y mantenerlo actualizado con la información más reciente.<br><br>
+
+Tiempo: 4:20
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-11.PNG?raw=true" alt="prototype 11">
+</div><br><br>
+
+
 ## 4.6. Domain-Driven Software Architecture
 
 En esta sección emplearemos el modelo C4 para crear la estructura de software, considerando aspectos como el contexto, los recipientes, los elementos y la implementación. Este enfoque permite una comprensión sencilla de la arquitectura, tanto para los miembros del equipo como para las partes interesadas externas.
