@@ -1724,7 +1724,7 @@ Enlace: [Mock-up del Landing Page en Figma](https://www.figma.com/file/EuSz7z4cW
 
 En esta sección emplearemos el modelo C4 para crear la estructura de software, considerando aspectos como el contexto, los recipientes, los elementos y la implementación. Este enfoque permite una comprensión sencilla de la arquitectura, tanto para los miembros del equipo como para las partes interesadas externas.
 
-### 4.6.1. Software Architecture Context Diagrams
+### 4.6.1. Software Architecture Context Diagram
 
 Para lograr identificar y representar correctamente los usuarios y sistemas externos que se relacionan con nuestro sistema, hemos creado un diagrama de contexto, en el cual podemos ver que tenemos usuarios y administradores de la aplicación, y los sistemas externos son Gmail, la Reniec, un Servicio de Pagos, y las ONG’s.
 
