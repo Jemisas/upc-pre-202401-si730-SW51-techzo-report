@@ -3463,7 +3463,7 @@ https://codeinstitute.net/global/blog/what-is-javascript-and-why-should-i-learn-
 
 
 
-Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/personal/u202214059_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202214059_upc_edu_pe%2FDocuments%2Fupc-pre-202401-si730-sw51-techzo-needfinding-sprint-1%201%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/Eeb5zIydJiRJuxYajHT2EpABGacNeoYGNTcv_yUL82B9wQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nYHE2p)
 
 
 
@@ -3474,7 +3474,7 @@ Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/personal/u202214059_upc
  </div>
 
 
-Enlace: [Exposure video Tb1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EZvQGeU0vgJAhIno6pVhZHIB4BGs4RR-_R3uBf4w7RxB_Q?e=1fQi9e&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Enlace: [Exposure video Tb1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EZvQGeU0vgJAhIno6pVhZHIB4BGs4RR-_R3uBf4w7RxB_Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DJYLPh)
 
 
 ## Prototype de la App Web
@@ -3486,7 +3486,7 @@ Enlace: [Exposure video Tb1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u
 
 
 
-Enlace: [Video Prototype de la App Web](https://upcedupe-my.sharepoint.com/personal/u202214059_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202214059_upc_edu_pe%2FDocuments%2Fupc-pre-202401-si730-sw51-techzo-%20prototypenavigation-sprint-1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)<br><br>
+Enlace: [Video Prototype de la App Web](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EUUL7qHyT4ZEphT55Efo2EkBd8UOBk_GQsqR3o8HY9yMNg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2fg007)<br><br>
 
 
 
@@ -3497,7 +3497,7 @@ Enlace: [Video Prototype de la App Web](https://upcedupe-my.sharepoint.com/perso
  </div>
 
 
-Enlace: [ Video de Development Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/personal/u202214059_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202214059_upc_edu_pe%2FDocuments%2Fupc-pre-202401-si730-sw51-Techzo-CambiaZo-sprint-1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+Enlace: [ Video de Development Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERZ41TWKJfNEgcZAWeq9oc4BQFwwUI8fqcL9QOZr6rnBnA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=1Is42o)
         
 
 
