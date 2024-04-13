@@ -3471,11 +3471,11 @@ Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/personal/u202214059_upc
 ## Exposure video Tb1
 
   <div align="center">
-    <img src="" alt="Exposure video Tb1">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Expo/expo-web.PNG?raw=true" alt="Exposure video Tb1">
  </div>
 
 
-Enlace: [Exposure video Tb1](link)
+Enlace: [Exposure video Tb1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EZvQGeU0vgJAhIno6pVhZHIBE0DhxOBFunljNR3F9y3cnw?e=DlZd5e&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 ## Prototype de la App Web
