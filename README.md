@@ -3413,7 +3413,6 @@ En la fase de Especificación de Requisitos, la creación de historias de usuari
 Finalmente, en el diseño del producto, la cuidadosa planificación de la arquitectura de la información y la interfaz de usuario garantizó una experiencia de usuario intuitiva y atractiva. El uso de herramientas como Figma y LucidChart nos permitió crear prototipos y diseños visuales que sirvieron como referencia durante el desarrollo y la validación del producto.
 
 En resumen, cada etapa del proyecto nos brindó lecciones y aprendizajes importantes que contribuyeron al éxito general del proyecto. Desde la definición de la visión inicial hasta la implementación y validación del producto final, nuestro enfoque centrado en el usuario y nuestra colaboración efectiva como equipo fueron fundamentales para lograr nuestros objetivos.
-´
 <br><br>
 
 
