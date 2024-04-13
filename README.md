@@ -80,7 +80,7 @@
 </div><br><br>
 
 ---
-
+<div align="justify">
 
 # Project Report Collaboration Insights
 
