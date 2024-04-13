@@ -3499,9 +3499,9 @@ https://codeinstitute.net/global/blog/what-is-javascript-and-why-should-i-learn-
 ## Needfinding Interviews
 
   <div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Interviews/entrevista-Jorge-Pacheco.PNG?raw=true" alt="Needfinding Interviews">
+ </div>
 
-[![Needfinding Interviews](https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Interviews/entrevista-Jorge-Pacheco.PNG?raw=true)]([link](https://upcedupe-my.sharepoint.com/personal/u202214059_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202214059_upc_edu_pe%2FDocuments%2Fupc-pre-202401-si730-sw51-techzo-needfinding-sprint-1%201%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview))
-  </div>
 
 
 Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/personal/u202214059_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202214059_upc_edu_pe%2FDocuments%2Fupc-pre-202401-si730-sw51-techzo-needfinding-sprint-1%201%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
@@ -3511,10 +3511,8 @@ Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/personal/u202214059_upc
 ## Exposure video Tb1
 
   <div align="center">
-  
-[![Exposure video Tb1]()](link)
-  </div>
-
+    <img src="" alt="Exposure video Tb1">
+ </div>
 
 
 Enlace: [Exposure video Tb1](link)
@@ -3522,10 +3520,12 @@ Enlace: [Exposure video Tb1](link)
 
 ## Prototype de la App Web
 
+
   <div align="center">
-  
-[![Prototype de la App Web](https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-1.PNG?raw=true)](https://upcedupe-my.sharepoint.com/personal/u202214059_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202214059_upc_edu_pe%2FDocuments%2Fupc-pre-202401-si730-sw51-techzo-%20prototypenavigation-sprint-1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
-  </div>
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-1.PNG?raw=true" alt="Video Prototype de la App Web">
+ </div>
+
+
 
 Enlace: [Video Prototype de la App Web](https://upcedupe-my.sharepoint.com/personal/u202214059_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202214059_upc_edu_pe%2FDocuments%2Fupc-pre-202401-si730-sw51-techzo-%20prototypenavigation-sprint-1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)<br><br>
 
@@ -3534,9 +3534,9 @@ Enlace: [Video Prototype de la App Web](https://upcedupe-my.sharepoint.com/perso
 ## Sprint 1
 
   <div align="center">
-  
-[![Sprint 1 development evidence](https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-Backlog/Sprint%201%20Review.png?raw=true)](https://upcedupe-my.sharepoint.com/personal/u202214059_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202214059_upc_edu_pe%2FDocuments%2Fupc-pre-202401-si730-sw51-Techzo-CambiaZo-sprint-1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
-  </div>
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-Backlog/Sprint%201%20Review.png?raw=true" alt="Sprint 1 development evidence">
+ </div>
+
 
 Enlace: [ Video de Development Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/personal/u202214059_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202214059_upc_edu_pe%2FDocuments%2Fupc-pre-202401-si730-sw51-Techzo-CambiaZo-sprint-1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
         
