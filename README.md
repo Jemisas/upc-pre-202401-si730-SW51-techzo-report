@@ -3474,7 +3474,7 @@ Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/personal/u202214059_upc
  </div>
 
 
-Enlace: [Exposure video Tb1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EZvQGeU0vgJAhIno6pVhZHIBE0DhxOBFunljNR3F9y3cnw?e=DlZd5e&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Enlace: [Exposure video Tb1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EZvQGeU0vgJAhIno6pVhZHIB4BGs4RR-_R3uBf4w7RxB_Q?e=1fQi9e&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 ## Prototype de la App Web
