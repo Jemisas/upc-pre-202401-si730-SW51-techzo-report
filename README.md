@@ -245,53 +245,13 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
   </thead>
   <tbody>
     <tr>
-      <td colspan="3">Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</td>
-      <td colspan="3" align = "justify">
-<h3>Diego Anderson Criollo De La Cruz</h3>
-        <b>TB1</b>
-          <p>He contribuido planteando la idea inicial del proyecto, para después realizar la landing page del mismo y los wireframes.</p> 
-
-<h3>Joseph Alexis Huamani Mandujano</h3>
-        <b>TB1</b>
-          <p> He trabajado activamente con mi equipo, hice todos los puntos que me asignaron, estos son las entrevistas, needfinding, to-be scenario mapping, user stories, information architecture y software configuration management. </p> 
-
-<h3>Mathias André Mendoza Carrión</h3>
-        <b>TB1</b>
-          <p>Como miembro del equipo, desempeñé un papel crucial en diversas etapas del proyecto. Participé activamente en la creación del  Empathy Map, User Stories,  Product Backlog, To-Be Scenario Mapping, an interview, Database Diagrams, Web Application Mock-ups, and User Flow Diagram.</p> 
-
-<h3>Ian Haziel Donato Santisteban Palomino</h3>
-        <b>TB1</b>
-          <p>Como líder de equipo he trabajado constantemente y asignado a cada uno los puntos que mejor dominan, cumplí a tiempo con todos los puntos que me fueron asignaron, aquellos puntos fueron Análisis de Competidores, Entrevistas, Needfinding, User Stories, Impact Mapping, Style Guidelines, Web Applications UX/UI Design y Web Applications Prototyping.</p> 
-          
-<h3>Abel Andrés Valle Zuta</h3>
-        <b>TB1</b>
-          <p>He participado eficazmente en equipo, ya que realicé los puntos que me fueron asignados, los cuales fueron la Startup Profile, Solution Profile, Segmentos Objetivos, Entrevistas, User Stories, Landing Page UI Design, Domain Driven Software Architecture, Class Diagram, y todo el capítulo 5</p><br>
-      </td>
+	<td colspan="3">Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</td>
+      <td colspan="3" align = "justify"><h3>Diego Anderson Criollo De La Cruz</h3><b>TB1</b><p>He contribuido planteando la idea inicial del proyecto, para después realizar la landing page del mismo y los wireframes.</p> <h3>Joseph Alexis Huamani Mandujano</h3><b>TB1</b><p> He trabajado activamente con mi equipo, hice todos los puntos que me asignaron, estos son las entrevistas, needfinding, to-be scenario mapping, user stories, information architecture y software configuration management. </p> <h3>Mathias André Mendoza Carrión</h3><b>TB1</b><p>Como miembro del equipo, desempeñé un papel crucial en diversas etapas del proyecto. Participé activamente en la creación del  Empathy Map, User Stories,  Product Backlog, To-Be Scenario Mapping, an interview, Database Diagrams, Web Application Mock-ups, and User Flow Diagram.</p> <h3>Ian Haziel Donato Santisteban Palomino</h3><b>TB1</b><p>Como líder de equipo he trabajado constantemente y asignado a cada uno los puntos que mejor dominan, cumplí a tiempo con todos los puntos que me fueron asignaron, aquellos puntos fueron Análisis de Competidores, Entrevistas, Needfinding, User Stories, Impact Mapping, Style Guidelines, Web Applications UX/UI Design y Web Applications Prototyping.</p> <h3>Abel Andrés Valle Zuta</h3><b>TB1</b><p>He participado eficazmente en equipo, ya que realicé los puntos que me fueron asignados, los cuales fueron la Startup Profile, Solution Profile, Segmentos Objetivos, Entrevistas, User Stories, Landing Page UI Design, Domain Driven Software Architecture, Class Diagram, y todo el capítulo 5</p><br></td>
       <td colspan="3">Logramos trabajar todos en equipo satisfactoriamente, ya que nos apoyamos en todo momento, repartimos las tareas de cada uno equitativamente, cumplimos con todo lo establecido a tiempo y cumplimos con nuestro objetivo como equipo de trabajar sin tener ningún conflicto, apoyarnos en todo momento y de mantener una comunicación activa.</td>
     </tr>
     <tr>
       <td colspan="3">Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</td>
-      <td colspan="3" align = "justify">
-<h3>Diego Anderson Criollo De La Cruz</h3>
-        <b>TB1</b>
-          <p>He realizado un aporte de ideas para poder dar con la idea de solución final. Además contribuí con proporcionar el diseño para el desarrollo de la aplicación web.</p> 
-
-<h3>Joseph Alexis Huamani Mandujano</h3>
-        <b>TB1</b>
-          <p>Ayudé al equipo dando ideas de los softwares que podemos usar y de cómo utilizarlos correctamente.</p> 
-
-<h3>Mathias André Mendoza Carrión</h3>
-        <b>TB1</b>
-          <p>Durante el desarrollo del proyecto, colaboré de manera activa ofreciendo sugerencias para resaltar nuestra propuesta de solución y participé en su ejecución. </p> 
-
-<h3>Ian Haziel Donato Santisteban Palomino</h3>
-        <b>TB1</b>
-          <p>Ayudé en todo momento aportando ideas de cómo hacer resaltar nuestra propuesta de solución, además ayudé con su implementación.</p> 
-
-<h3>Abel Andrés Valle Zuta</h3>
-        <b>TB1</b>
-          <p>Aporté dando ideas de nuestros posibles competidores, y dando ideas para poder hacer única nuestra propuesta de solución. Además ayudé con el diseño y desarrollo de la misma.</p> 
-      </td>
+      <td colspan="3" align = "justify"><h3>Diego Anderson Criollo De La Cruz</h3><b>TB1</b><p>He realizado un aporte de ideas para poder dar con la idea de solución final. Además contribuí con proporcionar el diseño para el desarrollo de la aplicación web.</p> <h3>Joseph Alexis Huamani Mandujano</h3><b>TB1</b><p>Ayudé al equipo dando ideas de los softwares que podemos usar y de cómo utilizarlos correctamente.</p> <h3>Mathias André Mendoza Carrión</h3><b>TB1</b><p>Durante el desarrollo del proyecto, colaboré de manera activa ofreciendo sugerencias para resaltar nuestra propuesta de solución y participé en su ejecución. </p> <h3>Ian Haziel Donato Santisteban Palomino</h3><b>TB1</b><p>Ayudé en todo momento aportando ideas de cómo hacer resaltar nuestra propuesta de solución, además ayudé con su implementación.</p> <h3>Abel Andrés Valle Zuta</h3><b>TB1</b><p>Aporté dando ideas de nuestros posibles competidores, y dando ideas para poder hacer única nuestra propuesta de solución. Además ayudé con el diseño y desarrollo de la misma.</p> </td>
       <td colspan="3">Aprendimos acerca de diferentes oportunidades para realizar nuestra propuesta de solución única, diferente y llamativa, además de lograr diseñarlo y realizarlo con el fin de crear un producto nuevo, llamativo y útil para todas las personas.</td>
     </tr>
   </tbody>
