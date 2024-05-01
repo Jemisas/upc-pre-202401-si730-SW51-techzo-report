@@ -3563,7 +3563,19 @@ A continuación, presentaremos los commits realizados en el repositorio de nuest
 | - | - | - | - | - | - |
 
 
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
+A continuación presentaremos los commits que se han hecho en la rama “feature/sprint-2” de nuestro repositorio, en el cual hemos seguido el esquema Gherkin y añadimos los archivos .feature de nuestro Sprint 2.
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited On (Date)**|
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|AndresVZ23/TechZo-Organization/Acceptance-Test|feature/sprint-2|cbad20c|Feat: Created Sprint 2 folder and US-22|In this part, we created the folder for the sprint 2 and we applied Gherkin to the US-22.|30/04/2024|
+|HelloNerk/TechZo-Organization/Acceptance-Test|feature/sprint-2|2a5b5d1|Feat: Created US-23|I added the US-23|30/04/2024|
+|123-Mathias/TechZo-Organization/Acceptance-Test|feature/sprint-2|27cb609|Feat: Create TS-07|In this part, we applied Gherkin to the TS-07.|30/04/2024|
+|123-Mathias/TechZo-Organization/Acceptance-Test|feature/sprint-2|5d74728|Feat: Create TS-09|In this part, we applied Gherkin to the TS-09.|30/04/2024|
+|diegooo01/TechZo-Organization/Acceptance-Test|feature/sprint-2|c4e6c62|Feat: Create US-24|I created the US-24 in Gherkin|30/04/2024|
+|AndresVZ23/TechZo-Organization/Acceptance-Test|feature/sprint-2|b698c4c|Feat: Create TS-10|In this part, we applied Gherkin to the TS-10.|30/04/2024|
+|IanHD04/TechZo-Organization/Acceptance-Test|feature/sprint-2|1b05cff|Feat: Create TS-12|In this part, we applied Gherkin to the TS-12.|30/04/2024|
 
 
 </div>
