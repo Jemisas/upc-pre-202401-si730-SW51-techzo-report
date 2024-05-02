@@ -35,7 +35,7 @@
 </div>
 
 
-<br><div align="center"><h3>Abril 2024</h3></div><br>
+<br><div align="center"><h3>Mayo 2024</h3></div><br>
 
 
 <br><br>
@@ -3694,11 +3694,11 @@ Lo primero que realizamos fue crear un nuevo repositorio en GitHub para nuestra 
 En ambos repositorios adoptamos la metodología GitFlow para gestionar ramas, permitiendo el desarrollo simultáneo, y facilitando la integración de nuevas características.<br>
 
   <div align="center">
-  <img src=" https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-2-Images/web-branches.PNG?raw=true" alt="branches">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-2-Images/web-branches.PNG?raw=true" alt="branches">
   </div><br><br>
 
   <div align="center">
-  <img src=" https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-2-Images/acceptance-test-branches.PNG?raw=true" alt="branches">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-2-Images/acceptance-test-branches.PNG?raw=true" alt="branches">
   </div><br><br>
 
 En el repositorio “CambiaZo-Frontend” subimos nuestros archivos a diferentes ramas, luego de que todos los miembros del equipo lo revisaron y aprobaron, lo cargamos en la rama “main”.
@@ -3846,6 +3846,15 @@ Enlace: [Video Prototype de la App Web](https://upcedupe-my.sharepoint.com/:v:/g
 
 Enlace: [ Video de Development Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/Ed7K-j_Q149FmFTKQA4wB1YBbCKukD_w9-WbDuI0IUEqtw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=VS5fak)
 
+
+## Development Evidence de la App Web
+
+
+  <div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-2-Images/deply-web.PNG?raw=true" alt="Video Development Evidence de la App Web">
+ </div>
+
+ Enlace: [ Video Development Evidence de la App Web](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/Eb9GRzX9G3BBiyAzFzNO3tUBc-myuCMUdIdgWSERpdHuBg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=YMPowE)
 
 
 ## Exposure video TP1
