@@ -3658,6 +3658,16 @@ A continuación, en el enlace del vídeo se explica de forma más didáctica lo 
 Enlace: [Video del Development Evidence for Sprint 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERZ41TWKJfNEgcZAWeq9oc4BQFwwUI8fqcL9QOZr6rnBnA?e=VZtdOr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+ 
+Durante el desarrollo del Sprint 2, logramos tener avances significativos al momento de crear las pestañas establecidas y las API’s Fakes diseñadas previamente, ya que nos ayudó el habernos reunido previamente y establecer los puntos que debíamos avanzar para el presente entregable.
+
+Luego, al haber realizado avances, decidimos utilizar las funciones colaborativas de GitHub, esto nos permitió coordinar entregas más rápidas, efectivas y sin errores. También usamos la metodología Git Flow para trabajar organizadamente y poder saber qué ha agregado cada uno al proyecto y revisarlo antes de colocarlo en la rama principal.
+
+<br><br>
+
+
+
 
 
 
