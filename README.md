@@ -3580,8 +3580,36 @@ Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
 
 #### 5.2.2.3. Development Evidence for Sprint Review
 A continuación, presentaremos los commits realizados en el repositorio de nuestra aplicación web, estos commits se han realizado en diferentes ramas durante el desarrollo de nuestro Sprint 2.
-|*Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited On (Date)*|
-| - | - | - | - | - | - |
+
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited On (Date)**|
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|IanHD04/Fronted/src|main|7b050a1|Initial commit||May 02, 2024|
+|IanHD04/Fronted/src|main|8d855d5|chore: Clean Project||May 02, 2024|
+|IanHD04/Fronted/src|main|b8a5742|chore: Install dependencies||May 02, 2024|
+|IanHD04/Fronted/src|main|6bd03b5|chore: imported components||May 02, 2024|
+|diegooo01/Fronted/src|main|e9e2f4fe|Feat: Header Content|Header content was added, and the images used were also uploaded|May 02, 2024|
+|diegooo01/Fronted/src|main|4468dec|<p>Feat: Header style</p><p></p>|Header style was made|May 02, 2024|
+|diegooo01/Fronted/src|main|310dade|Feat: Responsive Header Style|The latest version of the header style was made applying responsive design|May 02, 2024|
+|diegooo01/Fronted/src|main|d36ed3d|Feat: Create Environment|The environment was created and the baseURL was declared|May 02, 2024|
+|123-Mathias/Fronted/src|feature/home|803435b|Feat: Creation of the Home page|The necessary components, services and models were created|May 02, 2024|
+|123-Mathias/Fronted/src|feature/home|09f4672|Feat: Components to use placed on the Home page|The components that will be used on the Home page were imported|May 02, 2024|
+|123-Mathias/Fronted/src|feature/home|9a67e1f|Feat: Create Products Model|The model of the Products class is made|May 02, 2024|
+|123-Mathias/Fronted/src|feature/home|16f6ebe|Feat: Create CategoriesObjects Model|The model of the Caregoriesobjects class is made|May 02, 2024|
+|<p></p><p>AndresVZ23</p><p>/Fronted/src</p>|feature/donations|3264207|<p>Feat: Help page content added</p><p></p>|<p>Added the content of Help</p><p></p>|May 02, 2024|
+|<p></p><p>AndresVZ23</p><p>/Fronted/src</p>|feature/terms-conditions|7ea8b96|<p>Feat: Creation of the Privacy and Policies page</p><p></p>|<p>The necessary components were created</p><p></p>|May 02, 2024|
+|<p></p><p>AndresVZ23</p><p>/Fronted/src</p>|feature/terms-conditions|5ecff5d|<p>Feat: Privacy and Policies page content added</p><p></p>|<p>Added the content of Privacy and Policies</p><p></p>|May 02, 2024|
+|<p></p><p>AndresVZ23</p><p>/Fronted/src</p>|feature/admin|10cd5b5|<p>Feat: Creation of the Toolbar Admin</p><p></p>|<p>The necessary components were created</p><p></p>|May 02, 2024|
+|HelloNerks/Fronted/src|feature/login-register|297d95c|<p>Feat: Creation of the LogIn page</p><p></p>|<p>The necessary components were created</p><p></p>|May 02, 2024|
+|HelloNerk/Fronted/src|feature/login-register|b205a69|<p>Feat: LogIn page content added</p><p></p>|Added the content of LogIn|May 02, 2024|
+|HelloNerk/Fronted/src|feature/login-register|75ffaef|<p>Feat: Creation of the Register page</p><p></p>|<p>The necessary components were created</p><p></p>|May 02, 2024|
+|HelloNerk/Fronted/src|feature/login-registers|2ee8227|<p>Feat: Page routing</p><p></p>|<p>Routes for pages were added</p><p></p>|May 02, 2024|
+|123-Mathias/Fronted/src|feature/memberships|253cf37|Feat: Creation of the Crud of Memberships|The necessary components were created|May 02, 2024|
+|123-Mathias/Fronted/src|feature/memberships|195bd81|Feat: Crud of Memberships content added|Added the content of Crud of Memberships|May 02, 2024|
+|123-Mathias/Fronted/src|feature/memberships|8af08a8|Feat: Creation of the Crud of Ongs|The necessary components were created|May 02, 2024|
+|123-Mathias/Fronted/src|feature/memberships|22c2e0a|<p>Feat: Crud of Ongscontent added</p><p></p>|Added the content of Crud of Ongs|May 02, 2024|
+
+
 
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
