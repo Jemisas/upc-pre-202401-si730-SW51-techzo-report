@@ -3070,7 +3070,54 @@ Para desplegar nuestro landing page hemos optado por usar Github Pages el cual b
   <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Deployment-Landing/paso5.png?raw=true" alt="landing repo">
 </div><br>
 
-Esta sería la forma de cómo desplegamos automáticamente la landing page en GitHub Pages. Con cada commit a la rama develop, se configuró GitHub Pages para que se despliegue desde esa rama en lugar de la principal. Luego, se creó un flujo de trabajo de GitHub Actions que se active con cada commit a develop, compile los archivos estáticos de la landing page y los suba a la misma rama develop, lo que provocará que GitHub Pages detecte los cambios y actualice automáticamente la landing page desplegada con los nuevos archivos subidos.<br><br>
+Esta sería la forma de cómo desplegamos automáticamente la landing page en GitHub Pages. Con cada commit a la rama develop, se configuró GitHub Pages para que se despliegue desde esa rama en lugar de la principal. Luego, se creó un flujo de trabajo de GitHub Actions que se active con cada commit a develop, compile los archivos estáticos de la landing page y los suba a la misma rama develop, lo que provocará que GitHub Pages detecte los cambios y actualice automáticamente la landing page desplegada con los nuevos archivos subidos.<br><br><br>
+
+
+**Aplicación Web**
+
+Para desplegar nuestra primera versión de la aplicación web hemos decidido emplear Netlify, plataforma en la cual podemos hostear nuestras páginas web sin ningun costo alguno y con gran facilidad.
+
+**1.  Ingresamos a la página web de Netlify**
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Deployment-Landing/netlify1.jpg?raw=true" alt="netlify">
+</div>
+
+<br>
+
+**2.  Iniciamos sesión con GitHub para poder usar los repositorios de nuestra cuenta**
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Deployment-Landing/netlify2.jpg?raw=true" alt="netlify">
+</div>
+
+<br>
+
+**3.  Seleccionamos el repositorio que queremos emplear**
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Deployment-Landing/netlify3.jpg?raw=true" alt="netlify">
+</div>
+
+<br>
+
+**4.  Elegimos un nombre dentro de la documentación permitida, para el dominio de la página.**
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Deployment-Landing/netlify4.jpg?raw=true" alt="netlify">
+</div>
+
+<br>
+
+**5.  Finalmente la página estaría disponible.**
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Deployment-Landing/netlify5.jpg?raw=true" alt="netlify">
+</div><br>
+
+
+Elegimos Netlify debido a que su plataforma es muy fácil e intuitiva de utilizar, además de que podemos aprovechar en usar los repositorios que tengamos y de esta forma gestionar los avances y versiones de acuerdo al repositorio, para que luego los cambios se vean reflejado en la página.<br><br>
+
 
 
 ## 5.2 Landing Page, Services & Applications Implementation
