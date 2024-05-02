@@ -76,6 +76,20 @@
 |1\.7.4|12/04/2024|Mathias Andre Mendoza Carrion|Se agregó contenido relacionado al User Flow|
 |1\.8|12/04/2024|Joseph Alexis Huamani Mandujano|Se agregaron las conclusiones y la bibliografía|
 |1\.8.1|12/04/2024|Ian Haziel Donato Santisteban Palomino|Se agregó el Student Outcome y la Tabla de Contenido|
+|2\.0|26/04/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta y<br>Ian Haziel Donato Santisteban Palomino|<p>Se agregaron nuevas entrevistas para los 2 segmentos objetivos. </p><p></p>|
+|2\.1|29/04/24|Abel Andrés Valle Zuta|Se arreglaron errores en las User Stories.|
+|2\.1.1|29/04/24|Abel Andrés Valle Zuta|Se arregló el contenido del Domain-Driven Software Architecture.|
+|2\.1.2|29/04/24|Abel Andrés Valle Zuta y Joseph Alexis Huamani Mandujano|Se agregó contenido del Sprint 2 y el Sprint Planning 2|
+|2\.2|29/04/24|Ian Haziel Donato Santisteban Palomino|Se agregó contenido relacionado al Wireframes Mobile App|
+|2\.2.1|29/04/24|Ian Haziel Donato Santisteban Palomino|Se agregó contenido relacionado al MockUp Mobile App|
+|2\.2.2|29/04/24|Ian Haziel Donato Santisteban Palomino|Se agregó contenido relacionado al Prototype Mobile App|
+|2\.3|30/04/24|Joseph Alexis Huamani Mandujano y Mathias Andre Mendoza Carrion|Se agregó el contenido del Sprint Backlog 2|
+|2\.3.1|30/04/24|Joseph Alexis Huamani Mandujano|Se arregló las conclusiones del student outcome del primer entregable TB1|
+|2\.3.2|30/04/24|Mathias Andre Mendoza Carrion|Se arregló el diagrama de la base de datos.|
+|2\.3.3|30/04/24|Abel Andrés Valle Zuta|Se agregaron nuevas referencias bibliográficas.|
+|2\.4|01/05/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta,<br>Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se agregó contenido restante del Sprint 2|
+|2\.4.1|01/05/24|Joseph Alexis Huamani Mandujano|Se agregaron nuevas conclusiones del proyecto.|
+|2\.4.2|02/05/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta,<br>Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se agregaron los student outcomes.|
 
 </div><br><br>
 
@@ -3454,14 +3468,12 @@ A continuación, se evidencia la distribución, organización y planeamiento del
 #### 5.2.2.2 Sprint Backlog 2
 Nuestro objetivo principal con este sprint 2 es desplegar una primera versión de la aplicación web de CambiaZo. Además, queremos crear API’s Fakes y obtener los datos de estas. Para lograr este objetivo, se han tomado en cuenta las características más importantes para que la primera versión de la aplicación web funcione correctamente en este sprint.
 
-Enlace: Sprint Backlog 2 en Trello<br><br>
+Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94d49929393b94517123fbc0f320cfc66B31A6FB/cambiazo)<br><br>
+
 
 <div align="center">
   <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-Backlog/trello-sprint-backlog-2.PNG?raw=true" alt="sprint">
 </div><br><br>
-
-feat: Added sprint 2 backlog
-In this part, we added the sprint 2 backlog
 
 <table>
 <thead>
@@ -3655,7 +3667,7 @@ A continuación, en el enlace del vídeo se explica de forma más didáctica lo 
 </div>
 <br><br>
 
-Enlace: [Video del Development Evidence for Sprint 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERZ41TWKJfNEgcZAWeq9oc4BQFwwUI8fqcL9QOZr6rnBnA?e=VZtdOr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Enlace: [Video del Development Evidence for Sprint 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/Eb9GRzX9G3BBiyAzFzNO3tUBc-myuCMUdIdgWSERpdHuBg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=YMPowE)
 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
@@ -3664,12 +3676,10 @@ Durante el desarrollo del Sprint 2, logramos tener avances significativos al mom
 
 Luego, al haber realizado avances, decidimos utilizar las funciones colaborativas de GitHub, esto nos permitió coordinar entregas más rápidas, efectivas y sin errores. También usamos la metodología Git Flow para trabajar organizadamente y poder saber qué ha agregado cada uno al proyecto y revisarlo antes de colocarlo en la rama principal.
 
-<br><br>
+<br>
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 Ahora procederemos a detallar los procesos que hemos realizado durante el Sprint 2:
-
-
 
 Lo primero que realizamos fue crear un nuevo repositorio en GitHub para nuestra Aplicación Web y actualizar nuestro repositorio donde tenemos guardados los Acceptance Test con las nuevas User Stories y Technical Stories que abarcamos en este segundo sprint.
 
@@ -3678,7 +3688,7 @@ Lo primero que realizamos fue crear un nuevo repositorio en GitHub para nuestra 
   </div><br><br>
   
   <div align="center">
-  <img src="">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-2-Images/Acceptance-Test-Repo.PNG?raw=true">
   </div><br>
 
 En ambos repositorios adoptamos la metodología GitFlow para gestionar ramas, permitiendo el desarrollo simultáneo, y facilitando la integración de nuevas características.<br>
@@ -3837,6 +3847,19 @@ Enlace: [Video Prototype de la App Web](https://upcedupe-my.sharepoint.com/:v:/g
 Enlace: [ Video de Development Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/Ed7K-j_Q149FmFTKQA4wB1YBbCKukD_w9-WbDuI0IUEqtw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=VS5fak)
 
 
+
+## Exposure video TP1
+
+  <div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-2-Images/expo-tp1.PNG?raw=true" alt="Exposure video TP1">
+ </div>
+
+
+Enlace: [Exposure video TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/Ec8XmX0XEPFBrzFbJ8MV4AUBByxgalufzPzpdEBsoN0kxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=odevHT)
+
+
+
+
+
+
 </div>
-
-
