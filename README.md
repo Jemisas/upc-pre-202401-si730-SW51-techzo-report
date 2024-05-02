@@ -3815,7 +3815,7 @@ Ahora procederemos a detallar los procesos que hemos realizado durante el Sprint
 Lo primero que realizamos fue crear un nuevo repositorio en GitHub para nuestra Aplicación Web y actualizar nuestro repositorio donde tenemos guardados los Acceptance Test con las nuevas User Stories y Technical Stories que abarcamos en este segundo sprint.
 
   <div align="center">
-  <img src="">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-2-Images/Repo-Fronted.PNG?raw=true">
   </div><br><br>
   
   <div align="center">
