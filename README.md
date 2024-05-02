@@ -3844,7 +3844,7 @@ Y en el caso del repositorio “Acceptance-Test”, todos los archivos se subía
   <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-2-Images/Feature-Branches.png?raw=true" alt="branches">
   </div><br><br>
   
-Finalmente configuramos GitHub Pages para obtener un enlace directo a la Web Application, facilitando la revisión continua de los cambios realizados.
+Finalmente configuramos Netlify para obtener un enlace directo a la Web Application, facilitando la revisión continua de los cambios realizados.
 
 Link: https://cambiazo.netlify.app/
 
@@ -3933,7 +3933,7 @@ https://codeinstitute.net/global/blog/what-is-javascript-and-why-should-i-learn-
 # Anexos
 
 + Landing Page: [Ver Landing Page](https://techzo-organization.github.io/landing-page-CambiaZo/)<br><br>
-+ App Web: [Ver App Web](https://cambiazo.netlify.app/home)<br><br>
++ App Web: [Ver App Web](https://cambiazo.netlify.app)<br><br>
 + Repositorio GitHub de la Organización:[Ver Organización](https://github.com/TechZo-Organization)<br><br>
 + Repositorio GitHub del Landing Page: [Ver Repositorio](https://github.com/TechZo-Organization/landing-page-CambiaZo)<br><br>
 + Repositorio GitHub del Fronted: [Ver Repositorio](https://github.com/TechZo-Organization/Fronted)<br><br>
