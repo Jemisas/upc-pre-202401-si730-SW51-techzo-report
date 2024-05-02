@@ -164,10 +164,10 @@ https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report
 + **Evidencias de colaboración y commits - Github:**
     * **Análiticos de colaboración** <br><br>
         + **Pulse Image of Github Insights**
-        <div align= https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Collaboration%20Insights/insights-tp-1.PNG?raw=true"center"><img src=""></div><br><br>
+        <div align= “"center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Collaboration%20Insights/insights-tp-1.PNG?raw=true"></div><br><br>
 
         + **Contributors Image of Github Insights**
-        <div align="center"><img src=" https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Collaboration%20Insights/insights-tp-2.PNG?raw=true"></div><br><br>
+        <div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Collaboration%20Insights/insights-tp-2.PNG?raw=true"></div><br><br>
 
     * **Commits**
 
@@ -175,25 +175,25 @@ https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report
 
         + **Ian Santisteban**
             <div style="display: flex; align-items: center;">
-            <img src=" https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Collaboration%20Insights/commits-tp-ian.PNG?raw=true" >
+            <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Collaboration%20Insights/commits-tp-ian.PNG?raw=true">
             </div><br>
 
         + **Andres Valle**
             <div style="display: flex; align-items: center;">
-            <img src=" https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Collaboration%20Insights/commits-tp-andres.PNG?raw=true">
+            <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Collaboration%20Insights/commits-tp-andres.PNG?raw=true">
             </div><br>
 
         + **Joseph Huamani**
             <div style="display: flex; align-items: center;">
-            <img src=" https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Collaboration%20Insights/commits-tp-joseph.PNG?raw=true">
+            <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Collaboration%20Insights/commits-tp-joseph.PNG?raw=true">
             </div><br>
         + **Mathias Mendoza**
             <div style="display: flex; align-items: center;">
-            <img src=" https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Collaboration%20Insights/commits-tp-mathias.PNG?raw=true">
+            <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Collaboration%20Insights/commits-tp-mathias.PNG?raw=true">
             </div><br>
         + **Diego Criollo**
             <div style="display: flex; align-items: center;">
-            <img src=" https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Collaboration%20Insights/commits-tp-diego.PNG?raw=true">
+            <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Collaboration%20Insights/commits-tp-diego.PNG?raw=true">
             </div><br><br>
 
 
