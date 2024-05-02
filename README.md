@@ -3834,19 +3834,27 @@ En ambos repositorios adoptamos la metodología GitFlow para gestionar ramas, pe
 
 En el repositorio “CambiaZo-Frontend” subimos nuestros archivos a diferentes ramas, luego de que todos los miembros del equipo lo revisaron y aprobaron, lo cargamos en la rama “main”.
 
+  <div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-2-Images/Fronted-Branches.png?raw=true" alt="branches">
+  </div><br><br>
+  
 Y en el caso del repositorio “Acceptance-Test”, todos los archivos se subían a la rama “feature/sprint-2”. Una vez se tenía la aprobación de todo el equipo, se pasaba a la rama “develop”.
 
+  <div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-2-Images/Feature-Branches.png?raw=true" alt="branches">
+  </div><br><br>
+  
 Finalmente configuramos GitHub Pages para obtener un enlace directo a la Web Application, facilitando la revisión continua de los cambios realizados.
 
-Link: https://techzoorganization-opensource.github.io/landing-page-OpenSource/ 
+Link: https://cambiazo.netlify.app/
 
   <div align="center">
-  <img src="" alt="github pages">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Deployment-Landing/netlify4.jpg?raw=true" alt="netlify">
   </div><br>
 
   
   <div align="center">
-  <img src="" alt="landing">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Deployment-Landing/netlify5.jpg?raw=true" alt="app-web">
   </div><br>
 
 
