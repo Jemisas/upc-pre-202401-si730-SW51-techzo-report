@@ -3812,7 +3812,7 @@ Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica d
 
   + Web Application
           <div align="center">
-        <img src="" alt="contributor-evidence.">
+        <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-2-Images/Insights.png?raw=true" alt="contributor-evidence.">
         </div>
 
     En esta imagen, se evidencia los integrantes que han contribuido en el desarrollo de la Aplicación Web. Se evidencia que todo el equipo ha participado.
