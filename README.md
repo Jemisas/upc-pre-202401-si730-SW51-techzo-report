@@ -219,10 +219,10 @@ https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report
 + **Evidencias de colaboración y commits - Github:**
     * **Análiticos de colaboración** <br><br>
         + **Pulse Image of Github Insights**
-        <div align= “"center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Collaboration%20Insights/insights-tp-1.PNG?raw=true"></div><br><br>
+        <div align= "center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/first-insight.PNG?raw=true"></div><br><br>
 
         + **Contributors Image of Github Insights**
-        <div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Collaboration%20Insights/insights-tp-2.PNG?raw=true"></div><br><br>
+        <div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/second-insight.PNG?raw=true"></div><br><br>
 
     * **Commits**
 
@@ -5204,6 +5204,7 @@ https://codeinstitute.net/global/blog/what-is-javascript-and-why-should-i-learn-
 + Repositorio GitHub de la Organización:[Ver Organización](https://github.com/TechZo-Organization)<br><br>
 + Repositorio GitHub del Landing Page: [Ver Repositorio](https://github.com/TechZo-Organization/landing-page-CambiaZo)<br><br>
 + Repositorio GitHub del Fronted: [Ver Repositorio](https://github.com/TechZo-Organization/Fronted)<br><br>
++ Repositorio GitHub del Backend: [Ver Repositorio](https://github.com/TechZo-Organization/Backend)<br><br>
 + Repositorio GitHub del Informe: [Ver Repositorio](https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report)<br><br>
 + Repositorio GitHub del Accepptance-Test: [Ver Repositorio](https://github.com/TechZo-Organization/Acceptance-Test)<br><br>
 + Wireframes: [Ver Wireframe](https://www.figma.com/file/VpmoDnfHRERQvKTwxnOjLe/CambiaZo?type=design&node-id=0-1&mode=design)<br><br>
@@ -5275,7 +5276,29 @@ Enlace: [ Video de Development Evidence for Sprint 1](https://upcedupe-my.sharep
 Enlace: [Exposure video TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/Ec8XmX0XEPFBrzFbJ8MV4AUBByxgalufzPzpdEBsoN0kxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=odevHT)
 
 
+## Validation Interviews
 
+  <div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Validation-Interviews/entrevista_validacion_rafaella.PNG?raw=true" alt="Validation Interviews">
+ </div>
+
+
+Enlace: [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EZyWNocmw6ZDtrphyu7zyQwBeV1VJNPXIG_BP8gCz630Qw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=HBlH71)
+
+
+## Exposure video TB2
+
+  <div align="center">
+    <img src="" alt="Exposure video TB2">
+ </div>
+
+
+Enlace: [Exposure video TB2]()
+
+
+## Video About The Team
+
+Enlace: [Video About The Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/Edg6QXMR2FpCocAJl19XlbkBToGQxPN1p8U56M45NMAjDw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jdY99E)
 
 
 
