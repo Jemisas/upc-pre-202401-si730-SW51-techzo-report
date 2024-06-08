@@ -4172,6 +4172,12 @@ A continuación presentaremos los commits que se han hecho en la rama “feature
 |IanHD04/TechZo-Organization/Acceptance-Tes|feature/sprint-3|79d9125|Feat: Create US-16|In this part, we applied Gherkin to the US-16|07/06/2024|
 
 
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+Lo que se logró en el Sprint 3 es desplegar la versión final de la aplicación web. En esta logramos desarrollar todas las pestañas que diseñamos previamente en el figma. Además, implementamos la primera versión del backend, donde hemos realizado acerca de los usuarios y productos. También se adoptó exitosamente la metodología GitFlow, trabajando en ramas para realizar pruebas y actualizaciones sin afectar la rama principal.
+
+
+
 
 
 
