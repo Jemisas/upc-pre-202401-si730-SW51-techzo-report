@@ -5289,11 +5289,11 @@ Enlace: [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/persona
 ## Exposure video TB2
 
   <div align="center">
-    <img src="" alt="Exposure video TB2">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/video-tb2.jpg?raw=true" alt="Exposure video TB2">
  </div>
 
 
-Enlace: [Exposure video TB2]()
+Enlace: [Exposure video TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EToqnAMiyDJMj4daWWnQUgMBTIuFxNmBW353DiM3YFUeAw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vroQHn)
 
 
 ## Video About The Team
