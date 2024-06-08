@@ -4054,6 +4054,35 @@ Enlace: [Sprint Backlog 3 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
 #### 5.2.3.3. Development Evidence for Sprint Review
 A continuación, presentaremos los commits realizados en el repositorio de nuestra aplicación web, estos commits se han realizado en diferentes ramas durante el desarrollo de nuestro Sprint 3.
 
+**Frontend:**
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited On (Date)**|
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|AndresVZ23/Fronted/src|user-profile|465ee4f|Feat: Created Header Profile|In this part we created the header profile|26/05/2024|
+|IanHD04/Fronted/src|login-register|e078b6c|Feat: The Login route was added to the header|In this part we added the login route to the header|26/05/2024|
+|123-Mathias/Fronted/src|publish-product|0665328|Fix: service and model product|In this part we fixed the model and service of products|26/05/2024|
+|HelloNerk/Fronted/src|edit-post|c68b0e6|Feat: TS dialog to confirm delete post|In this part we configured the ts of the dialog to confirm the delete post.|27/05/2024|
+|diegooo01/Fronted/src|product-information|d9c022b|Feat: Create page-product-details|In this part we created the page product details|27/05/2024|
+|AndresVZ23/Fronted/src|offers-validation|d8c3e4b|Feat: Completed Sent Offers section|In this part we completed the sent offers section|27/05/2024|
+|IanHD04/Fronted/src|register-login-validation|0cc56f3|Feat: The validator functions were created|In this part we created the functions of the validator|28/05/2024|
+|123-Mathias/Cambiazo-Fronted/src|ong-information|54fff7f|Feat: Detail ong and routing|In this part we added the detail ong and routing to the page.|28/05/2024|
+|HelloNerk/Cambiazo-Fronted/src|edit-post|c68b0e6|Feat: TS dialog to confirm delete post|In this part we added the ts to confirm the delete post|29/05/2024|
+|diegooo01/Cambiazo-Fronted/src|product-information|3c43595|Feat: Create product-information component|In this part we created the product information component|31/05/2024|
+|AndresVZ23/Cambiazo-Fronted/src|publish-product|f13df74|Feat: Add post cards|In this part we added the post cards|31/05/2024|
+|IanHD04/Cambiazo-Fronted/src|register-login-validation|3e2608d|Feat: Dialog Register Successfully|In this part we added the dialog for the register successful|31/05/2024|
+|123-Mathias/Cambiazo-Fronted/src|product-information|5c7d872|Feat: Functional search products|In this part we added functionality to search products|31/05/2024|
+|HelloNerk/Cambiazo-Fronted/src|offers-validation|0b77edb|feat: create ts of dialog successful exchange|In this part we created the dialog for a successful exchage|01/06/2024|
+|diegooo01/Cambiazo-Fronted/src|memberships|05c1c4f|Feat: Buy-membership page was created|In this part we created the buy membership page|01/06/2024|
+|AndresVZ23/Cambiazo-Fronted/src|publisher-profile|ea324d3|Feat: Add Users Cards Post|In this part we added the users cards post|03/06/2024|
+|IanHD04/Cambiazo-Fronted/src|register-login-validation|5c7d872|Feat: Creating the Verify Email Page|In this part we created the verify email page|03/06/2024|
+|123-Mathias/Cambiazo-Fronted/src|publish-product|a2de496|Fix: Create Post|In this part we fixed the create post section|03/06/2024|
+|HelloNerk/Cambiazo-Fronted/src|user-profile|023812e|feat: Create my-favorites component|In this part we created the my favorites component|04/06/2024|
+|diegooo01/Cambiazo-Fronted/src|publisher-profile|1dc9fb5|Feat: Created component publisher-profile|In this part we created the publisher profile component|04/06/2024|
+|AndresVZ23/Cambiazo-Fronted/src|user-profile|c0d7676|Feat: Completed "My Reviews" section|In this part we completed the section of my reviews|04/06/2024|
+|IanHD04/Cambiazo-Fronted/src|user-profile|6e509b7|Feat: Edit-profile page was created|In this part we created the edit profile page|04/06/2024|
+|123-Mathias/Cambiazo-Fronted/src|edit-post|d5af6ac|Feat: Creation of dialog-successfully-change|In this part we created the dialog of a successfully change|05/06/2024|
+|HelloNerk/Cambiazo-Fronted/src|publisher-profile|4c6367c|Fix: Reviews start rating|In this part we fixed the reviews rating stars|05/06/2024|
+|diegooo01/Cambiazo-Fronted/src|donations|410af59|Fix: Added new route|In this part we fixed a route|05/06/2024|
 
 
 
