@@ -4341,6 +4341,24 @@ Link: https://cambiazzo.netlify.app/
   <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/netlify-deploy.PNG?raw=true" alt="app web">
   </div><br>
 
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica de colaboración del repositorio "CambiaZo-Frontend" y el repositorio “CambiaZo-Backend”, donde se presenta una visualización de la contribución de cada miembro del equipo en el desarrollo del Sprint 3.
+
+<b>Analíticos de GitHUb</b>
+
+  + Web Application
+          <div align="center">
+        <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/insights-front.PNG?raw=true" alt="contributor-evidence.">
+        </div>
+  + Backend
+          <div align="center">
+        <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/insights-back.PNG?raw=true" alt="contributor-evidence.">
+        </div>
+
+
+   En estas imágenes se evidencia que todos los integrantes del equipo han contribuido en el desarrollo de la Aplicación Web, tanto en la parte del frontend como en la del backend.
+
 
 
 
