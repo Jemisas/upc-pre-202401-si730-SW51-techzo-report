@@ -4253,6 +4253,17 @@ Enlace: [Video del Development Evidence for Sprint 3 - Frontend]( https://upcedu
 </div>
 <br><br>
 
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/back-5.PNG?raw=true" alt="Back5" >
+</div>
+<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/back-6.PNG?raw=true" alt="Back6" >
+</div>
+<br><br>
+
+Enlace: [Video del Development Evidence for Sprint 3 - Backend]( https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/ETPYyfkF-BdGrbOD_6TJ_GcBShSYXStKx8_83vP9TqQihA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=sowGMs)
 
 
 
