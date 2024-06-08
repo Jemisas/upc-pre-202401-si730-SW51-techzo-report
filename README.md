@@ -4177,10 +4177,61 @@ A continuación presentaremos los commits que se han hecho en la rama “feature
 Lo que se logró en el Sprint 3 es desplegar la versión final de la aplicación web. En esta logramos desarrollar todas las pestañas que diseñamos previamente en el figma. Además, implementamos la primera versión del backend, donde hemos realizado acerca de los usuarios y productos. También se adoptó exitosamente la metodología GitFlow, trabajando en ramas para realizar pruebas y actualizaciones sin afectar la rama principal.
 
 
+A continuación, en el enlace del vídeo se explica de forma más didáctica lo ya mencionado e imágenes de lo alcanzado hasta este momento en el Sprint 3:
+
 <div align="center">
   <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/front-1.jpeg?raw=true" alt="Front1" >
 </div>
 <br><br>
+
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/front-2.jpeg?raw=true" alt="Front2" >
+</div>
+<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/front-3.jpeg?raw=true" alt="Front3" >
+</div>
+<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/front-4.jpeg?raw=true" alt="Front4" >
+</div>
+<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/front-5.jpeg?raw=true" alt="Front5" >
+</div>
+<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/front-6.jpeg?raw=true" alt="Front6" >
+</div>
+<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/front-7.jpeg?raw=true" alt="Front7" >
+</div>
+<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/front-8.jpeg?raw=true" alt="Front8" >
+</div>
+<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/front-9.jpeg?raw=true" alt="Front9" >
+</div>
+<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/front-10.jpeg?raw=true" alt="Front10" >
+</div>
+<br><br>
+
+
+
 
 
 
