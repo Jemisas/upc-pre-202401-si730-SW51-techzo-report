@@ -4233,6 +4233,25 @@ A continuación, en el enlace del vídeo se explica de forma más didáctica lo 
 Enlace: [Video del Development Evidence for Sprint 3 - Frontend]( https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/Eb8uKfCRwXBGm4cotXiWk6ABnDFQXJJ_S0LJR4G1DC02Mg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=musYJ0)
 
 
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/back-1.PNG?raw=true" alt="Back1" >
+</div>
+<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/back-2.PNG?raw=true" alt="Back2" >
+</div>
+<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/back-3.PNG?raw=true" alt="Back3" >
+</div>
+<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/back-4.PNG?raw=true" alt="Back4" >
+</div>
+<br><br>
 
 
 
