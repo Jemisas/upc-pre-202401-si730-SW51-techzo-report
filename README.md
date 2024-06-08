@@ -207,6 +207,50 @@ https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report
             </div><br><br>
 
 
+<strong>*Entrega TB2:*</strong>
+
++ Desarrollo de Actividades
+    En el entregable de TB2, el equipo se reunió por discord para hacer las coordinaciones y posteriormente todas las tareas lo documentamos en notitas en el Jamboard para que sea más fácil visualizar las tareas pendientes tanto de este entregable como las mejoras de la TP1. 
+
+    En cuanto al desarrollo del informe, el equipo realizó repartición de partes de manera justa por medio de decisión voluntaria.
+
+    Cabe resaltar, que el tiempo brindado en clase para poder recibir feedbacks y realizar consultas al docente fue de gran apoyo ya que no todos cuentan con la misma disponibilidad de tiempo.
+
++ **Evidencias de colaboración y commits - Github:**
+    * **Análiticos de colaboración** <br><br>
+        + **Pulse Image of Github Insights**
+        <div align= “"center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Collaboration%20Insights/insights-tp-1.PNG?raw=true"></div><br><br>
+
+        + **Contributors Image of Github Insights**
+        <div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Collaboration%20Insights/insights-tp-2.PNG?raw=true"></div><br><br>
+
+    * **Commits**
+
+         A continuacion se muestran algunos commits realizados en este entrega de TB1.
+
+        + **Ian Santisteban**
+            <div style="display: flex; align-items: center;">
+            <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Collaboration%20Insights/commits-tp-ian.PNG?raw=true">
+            </div><br>
+
+        + **Andres Valle**
+            <div style="display: flex; align-items: center;">
+            <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Collaboration%20Insights/commits-tp-andres.PNG?raw=true">
+            </div><br>
+
+        + **Joseph Huamani**
+            <div style="display: flex; align-items: center;">
+            <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Collaboration%20Insights/commits-tp-joseph.PNG?raw=true">
+            </div><br>
+        + **Mathias Mendoza**
+            <div style="display: flex; align-items: center;">
+            <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Collaboration%20Insights/commits-tp-mathias.PNG?raw=true">
+            </div><br>
+        + **Diego Criollo**
+            <div style="display: flex; align-items: center;">
+            <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Collaboration%20Insights/commits-tp-diego.PNG?raw=true">
+            </div><br><br>
+
 
 ---
 
@@ -300,6 +344,20 @@ https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+      - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+      - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+  - [5.3 Validation Interviews.](#53-validation-interviews)
+    - [5.3.1 Diseño de entrevistas](#531-diseño-de-entrevistas)
+    - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3 Evaluaciones Según Heurísticas](#533-evaluaciones-según-heurísticas)
+  - [5.4 Video About-the-Product](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -3906,8 +3964,7 @@ Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica d
 
 ### 5.2.3 Sprint 3
 En esta parte, nos encargamos de registrar y explicar el avance del Sprint 3 en cuanto al desarrollo del producto y la colaboración del equipo. Discutiremos diversos aspectos cruciales, como la planificación del sprint, el backlog del mismo y la evidencia de desarrollo para la Revisión del Sprint.
-
-
+ 
 #### 5.2.3.1 Sprint Planning 3
 A continuación, se muestra la distribución, organización y planificación del equipo para llevar a cabo de manera exitosa el Sprint 3.
 <table>
@@ -3963,16 +4020,18 @@ A continuación, se muestra la distribución, organización y planificación del
     <td>49 Story Points</td>
   </tr>
 </table><br><br>
-
+ 
+ 
 #### 5.2.3.2 Sprint Backlog 3
 Nuestro objetivo principal con este sprint 3 es desplegar la versión final del frontend de la aplicación web de CambiaZo y una primera versión de su backend. Para lograr este objetivo, se ha realizado una correcta distribución en cuanto a cantidad de pantallas que cada integrante debe realizar para completar el frontend de la aplicación web y evaluar lo principal que debe tener inicialmente el backend.
-
+ 
 Enlace: [Sprint Backlog 3 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94d49929393b94517123fbc0f320cfc66B31A6FB/cambiazo)<br><br>
-
+ 
 <div align="center">
-  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-Backlog/trello-sprint-backlog-3.PNG?raw=true" alt="sprint">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/trello-sprint-backlog-3.PNG?raw=true" alt="sprint">
 </div><br><br>
-
+ 
+ 
 |<p>Sprint</p><p>#</p>|Sprint 3 |||||||
 | - | - | :- | :- | :- | :- | :- | :- |
 |User Story|Work-Item / Task|||||||
