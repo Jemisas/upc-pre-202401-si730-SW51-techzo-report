@@ -4084,7 +4084,63 @@ A continuación, presentaremos los commits realizados en el repositorio de nuest
 |HelloNerk/Cambiazo-Fronted/src|publisher-profile|4c6367c|Fix: Reviews start rating|In this part we fixed the reviews rating stars|05/06/2024|
 |diegooo01/Cambiazo-Fronted/src|donations|410af59|Fix: Added new route|In this part we fixed a route|05/06/2024|
 
+**Backend:**
 
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited On (Date)**|
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|123-Mathias/TechZo-Organization/Backend|TS-07|db62040|Feat: Connection String|In this part, we added DefaultConection string to appsettings.json.|05/06/24|
+|123-Mathias/TechZo-Organization/Backend|TS-07|d60d8cd|Feat: BaseResponse|In this part, we created folder shared and the  BaseResponse.|05/06/24|
+|AndresVZ23/TechZo-Organization/Backend|TS-01|5ea138f|Feat: Created User class|In this part we generated the users class|05/06/24|
+|IanHD04/TechZo-Organization/Backend|TS-08|399afda|Feat: Created Response|In this part, we created response for product and product category.|05/06/24|
+|diegooo01/TechZo-Organization/Backend|TS-08|a7d644c|Feat: Created Ong Repository|In this part, we created Ong Repository with methods Post and Delete|05/06/24|
+|AndresVZ23/TechZo-Organization/Backend|TS-01|5d71942|Feat: Created the Authenticate Request|In this part we created the authenticate request|06/06/24|
+|123-Mathias/TechZo-Organization/Backend|TS-07|a3cb08f|Feat: SnakeCase|In this part, we created extensions toSnakeCase.|06/06/24|
+|AndresVZ23/TechZo-Organization/Backend|TS-02|a3a1317|Feat: Created the Register Request|In this part we created the register request|06/06/24|
+|IanHD04/TechZo-Organization/Backend|TS-09|d004e95|Feat: Product Service|In this part, added methods Post in product and product category  service.|06/06/24|
+|AndresVZ23/TechZo-Organization/Backend|TS-02|5f0dc37|Feat: Created the Update Request|In this part we created the class Update Request|06/06/24|
+|IanHD04/TechZo-Organization/Backend|TS-09|acf25e0|Feat: Added Post in Controller|In this part, we added mehthods post in product and product category controller.|06/06/24|
+|123-Mathias/TechZo-Organization/Backend|TS-13|fbd9b9d|Feat: Product Model|In this part, we created product model with its category.|06/06/24|
+|AndresVZ23/TechZo-Organization/Backend|TS-01|82aaee0|Feat: Created the Interface User Repository|In this part we created the interface of user repository|06/06/24|
+|IanHD04/TechZo-Organization/Backend|TS-14|bf952cb|Feat: Location Resource|In this part, we created country, district and department resource.|06/06/24|
+|123-Mathias/TechZo-Organization/Backend|TS-15|12ccf96|Feat: Added Mapper|In this part, we created and added mapping for products and products categories.|06/06/24|
+|AndresVZ23/TechZo-Organization/Backend|TS-02|b627629|Feat: Created the User Service interface|In this part we created the user services interface|07/06/24|
+|diegooo01/TechZo-Organization/Backend|TS-18|83df7b8|Feat: Created Ong Category Repository|In this part, we created Ong Category Repository with methods Post and Delete|07/06/24|
+|123-Mathias/TechZo-Organization/Backend|TS-17|5825a7d|Feat: Get Methods in Repository|In this part, we add the necessary Get methods for product and repository categories.|07/06/24|
+|123-Mathias/TechZo-Organization/Backend|TS-17|db50b46|<p></p><p>Feat: Methods Get in Service</p><p></p>|In this part, we add the necessary Get methods for product and service category.|07/06/24|
+|AndresVZ23/TechZo-Organization/Backend|TS-20|94875b4|Feat: Added constraints in the app db context|In this part we added constraints in the app db context|07/06/24|
+|123-Mathias/TechZo-Organization/Backend|TS-19|02c8f40|Feat: Functionality Get|In this part, we added the functionality to get in the controllers.|07/06/24|
+|IanHD04/TechZo-Organization/Backend|TS-21|f6be711|Feat: Mapping Location|In this part, we added mapper for model and resource.|07/06/24|
+|AndresVZ23/TechZo-Organization/Backend|TS-20|84300bc|Feat: Created IUser Repository and Service|In this part we created the Interface of user repository and service|07/06/24|
+|IanHD04/TechZo-Organization/Backend|TS-21|f85a6ef|Feat: Dependency Injection in Program|In this part, we added the necessary dependencies in program.|07/06/24|
+|123-Mathias/TechZo-Organization/Backend|TS-17|b0c7bf0|Fix: Product Resource|In this part, we fixed attributes in the product resource.|07/06/24|
+|AndresVZ23/TechZo-Organization/Backend|TS-20|35f69f7|Feat: Created App Exception|In this part we created the app exception|07/06/24|
+|123-Mathias/TechZo-Organization/Backend|TS-18|485863f|Feat: Create CountryResponse|In this part, we created country response.|07/06/24|
+|diegooo01/TechZo-Organization/Backend|TS-19|b99051c|Feat: Created Ong Category Service|<p>In this part, we created Ong Category Service with methods Post and Delete</p><p></p>|07/06/24|
+|123-Mathias/TechZo-Organization/Backend|TS-18|d77f49a|Feat: Create DepartmentResponse|In this part, we created department response.|07/06/24|
+|AndresVZ23/TechZo-Organization/Backend|TS-20|bc46499|Feat: Added functions on the User Service Security|In this part we added functions on the User Service from security|07/06/24|
+|AndresVZ23/TechZo-Organization/Backend|TS-20|77cecb2|Feat: Created User Controller|In this part we created the users controller|07/06/24|
+|IanHD04/TechZo-Organization/Backend|TS-17|bd6bd01|Feat: Update Country|In this part, we added the funcionallity to update a country.|07/06/24|
+|AndresVZ23/TechZo-Organization/Backend|TS-21|4ceb70c|Feat: Created JwtHandler|In this part we created the jwt handler|07/06/24|
+|123-Mathias/TechZo-Organization/Backend|TS-17|5bdf824|Feat: Methods Post in Repository|In this part, we created methods post in repositories for the producto location.|07/06/24|
+|123-Mathias/TechZo-Organization/Backend|TS-18|1337d2d|feat: Locations Controllers|In this part, we created controllers and added methos post.|07/06/24|
+|AndresVZ23/TechZo-Organization/Backend|TS-20|78f4c36|Feat: Created the Error Handler Middleware|In this part we created the error handler middleware|07/06/24|
+|IanHD04/TechZo-Organization/Backend|TS-19|4cec76c|Feat: Update District|In this part, we added the funcionallity to update a district.|07/06/24|
+|123-Mathias/TechZo-Organization/Backend|TS-17|b99f177|Fix: Mapper Save Resource|In this part, we fixed mapper in save resource for all models.|07/06/24|
+|AndresVZ23/TechZo-Organization/Backend|TS-22|8e37075|Feat: Created App Settings|In this part we created the app settings|07/06/24|
+|IanHD04/TechZo-Organization/Backend|TS-16|c8c6b62|Feat: Update Product|In this part, we added the funcionallity to update a product.|07/06/24|
+|123-Mathias/TechZo-Organization/Backend|TS-14|bd77b75|Fix: Product Atributte|In this part, we changed and added new atributte in product model.|07/06/24|
+|123-Mathias/TechZo-Organization/Backend|TS-14|3c43595|Feat: Plan Model|In this part, we created plan model.|07/06/24|
+|IanHD04/TechZo-Organization/Backend|TS-15|f13df74|Feat: Plan and Benefit Controller|In this part, we created Plan and Benefit Controller and added Get mehtod.|07/06/24|
+|123-Mathias/TechZo-Organization/Backend|TS-14|3e2608d|Feat: Benefit Model|In this part, we created Benefit Model.|07/06/24|
+|IanHD04/TechZo-Organization/Backend|TS-15|5c7d872|Feat: Mapper Plan and Benefit|In this part, we added a mapper for Plan and Benefit save resource.|07/06/24|
+|123-Mathias/TechZo-Organization/Backend|TS-13|0b77edb|Feat: Mapper Plan and Benefit|In this part, we added a mapper for Plan and Benefit resource.|07/06/24|
+|diegooo01/TechZo-Organization/Backend|TS-16|05c1c4f|Feat: Created Ong Service|In this part, we created Ong Service with methods Post and Delete.|07/06/24|
+|123-Mathias/TechZo-Organization/Backend|TS-13|ea324d3|Feat: Method Delete in Benefit Repository|In this part, we added method Delete in Benefit Repository and Repository Interface.|07/06/24|
+|123-Mathias/TechZo-Organization/Backend|TS-13|5c7d872|Feat: Ong Model|In this part, we created Ong and its cateogory model.|07/06/24|
+|diegooo01/TechZo-Organization/Backend|TS-16|a2de496|Feat: Created Ong Controller|In this part, we created Ong controller with methods Delete and Post.|07/06/24|
+|IanHD04/TechZo-Organization/Backend|TS-15|023812e|Feat: Methods Post in Repository|In this part, we added methods Post in Plan and Benefit repository.|07/06/24|
+|diegooo01/TechZo-Organization/Backend|TS-16|1dc9fb5|Feat: Created Ong Category Controller|In this part, we created Ong Category controller with methods Delete and Post.|07/06/24|
+|IanHD04/TechZo-Organization/Backend|TS-15|c0d7676|Feat: Method Post in Controller|In this part, we added Post mehtod in controller.|07/06/24|
 
 
 
