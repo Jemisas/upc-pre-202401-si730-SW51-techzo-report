@@ -5111,23 +5111,23 @@ A través de todo el proceso de realización del proyecto hemos conseguido valid
 <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.14.PNG?raw=true" alt="Heuristica 22">
 </div>|
 |Diseño estético y minimalista|Hemos sintetizado lo más importante y destacable para que al usuario no se le haga pesado leer acerca de CambiaZo.<br>
-<div align="center"><img src="" alt="Heuristica 22"></div><br>
-<div align="center"><img src="" alt="Heuristica 23"></div><br>
-<div align="center"><img src="" alt="Heuristica 24"></div>|
+<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h5.PNG?raw=true" alt="Heuristica 22"></div><br>
+<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h5.1.PNG?raw=true" alt="Heuristica 23"></div><br>
+<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h5.2.PNG?raw=true" alt="Heuristica 24"></div>|
 |Consistencia y estándares|Generalmente los sitios web tienen un proceso parecido al momento de iniciar sesión, registrarse y cambiar de contraseña, por lo que nos hemos adaptado a ello y creamos uno similar para que el usuario no presente complicaciones de entender nuestra aplicación web.<br>
-<div align="center"><img src="" alt="Heuristica 25"></div>
-<div align="center"><img src="" alt="Heuristica 26"></div>
+<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h6.PNG?raw=true" alt="Heuristica 25"></div>
+<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h6.1.PNG?raw=true" alt="Heuristica 26"></div>
 <br>
-<div align="center"><img src="" alt="Heuristica 27"></div>|
+<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h6.2.PNG?raw=true" alt="Heuristica 27"></div>|
 |Prevención de errores|Hemos agregado mensajes para evitar errores comunes que pueden tener los usuarios al introducir datos dentro de CambiaZo. <br>
-<div align="center"><img src="" alt="Heuristica 28"></div>
-<div align="center"><img src="" alt="Heuristica 29"></div>
+<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h7.PNG?raw=true" alt="Heuristica 28"></div>
+<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h7.1.PNG?raw=true" alt="Heuristica 29"></div>
 <br>
-<div align="center"><img src="" alt="Heuristica 30"></div>
-<div align="center"><img src="" alt="Heuristica 31"></div>|
+<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h7.2.PNG?raw=true" alt="Heuristica 30"></div>
+<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h7.3.PNG?raw=true" alt="Heuristica 31"></div>|
 |Flexibilidad y eficiencia de uso|Nuestra aplicación web está adaptada tanto para usuarios experimentados como para principiantes, esto se refleja al momento de realizar filtraciones de productos, pueden filtrar simplemente presionando algún botón de la categoría que deseen, o pueden realizar una búsqueda más específica completando campos.<br>
-<div align="center"><img src="" alt="Heuristica 32"></div>
-<div align="center"><img src="" alt="Heuristica 33"></div>|
+<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h8.PNG?raw=true" alt="Heuristica 32"></div>
+<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h8.1.PNG?raw=true" alt="Heuristica 33"></div>|
 
 
 
