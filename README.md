@@ -4177,6 +4177,12 @@ A continuación presentaremos los commits que se han hecho en la rama “feature
 Lo que se logró en el Sprint 3 es desplegar la versión final de la aplicación web. En esta logramos desarrollar todas las pestañas que diseñamos previamente en el figma. Además, implementamos la primera versión del backend, donde hemos realizado acerca de los usuarios y productos. También se adoptó exitosamente la metodología GitFlow, trabajando en ramas para realizar pruebas y actualizaciones sin afectar la rama principal.
 
 
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/front-1.jpeg?raw=true" alt="Front1" >
+</div>
+<br><br>
+
+
 
 
 
