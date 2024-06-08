@@ -4146,7 +4146,30 @@ A continuación, presentaremos los commits realizados en el repositorio de nuest
 
 A continuación presentaremos los commits que se han hecho en la rama “feature/sprint-3” de nuestro repositorio, en el cual hemos seguido el esquema Gherkin y añadimos los archivos .feature de nuestro Sprint 3.
 
-
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited On (Date)**|
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|AndresVZ23/TechZo-Organization/Acceptance-Test|feature/sprint-3|844beb0|Feat: Create US-02|In this part, we applied Gherkin to the US-02|07/06/2024|
+|AndresVZ23/TechZo-Organization/Acceptance-Test|feature/sprint-3|621d877|Feat: Create US-03|In this part, we applied Gherkin to the US-03|07/06/2024|
+|AndresVZ23/TechZo-Organization/Acceptance-Test|feature/sprint-3|0888457|Feat: Create US-04|In this part, we applied Gherkin to the US-04|07/06/2024|
+|AndresVZ23/TechZo-Organization/Acceptance-Test|feature/sprint-3|8a941c0|Feat: Create US-05|In this part, we applied Gherkin to the US-05|07/06/2024|
+|AndresVZ23/TechZo-Organization/Acceptance-Test|feature/sprint-3|bb46c4f|Feat: Create US-08|In this part, we applied Gherkin to the US-08|07/06/2024|
+|AndresVZ23/TechZo-Organization/Acceptance-Test|feature/sprint-3|3f8bb45|Feat: Create US-10|In this part, we applied Gherkin to the US-10|07/06/2024|
+|123-Mathias/TechZo-Organization/Acceptance-Test|feature/sprint-3|9c7aab5|Feat: Create TS-01|In this part, we applied Gherkin to the TS-01|07/06/2024|
+|123-Mathias/TechZo-Organization/Acceptance-Test|feature/sprint-3|9c7aab5|Feat: Create TS-02|In this part, we applied Gherkin to the TS-02|07/06/2024|
+|123-Mathias/TechZo-Organization/Acceptance-Test|feature/sprint-3|9c7aab5|Feat: Create TS-03|In this part, we applied Gherkin to the TS-03|07/06/2024|
+|123-Mathias/TechZo-Organization/Acceptance-Test|feature/sprint-3|9c7aab5|Feat: Create TS-13|In this part, we applied Gherkin to the TS-13|07/06/2024|
+|HelloNerk/TechZo-Organization/Acceptance-Tes|feature/sprint-3|3cdf1c8|Feat: Create TS-14|In this part, we applied Gherkin to the TS-14|07/06/2024|
+|HelloNerk/TechZo-Organization/Acceptance-Tes|feature/sprint-3|c9f7e41|Feat: Create TS-15|In this part, we applied Gherkin to the TS-15|07/06/2024|
+|HelloNerk/TechZo-Organization/Acceptance-Tes|feature/sprint-3|c69fc3f|Feat: Create TS-16|In this part, we applied Gherkin to the TS-16|07/06/2024|
+|HelloNerk/TechZo-Organization/Acceptance-Tes|feature/sprint-3|2268b82|Feat: Create TS-17|In this part, we applied Gherkin to the TS-17|07/06/2024|
+|diegooo01/TechZo-Organization/Acceptance-Tes|feature/sprint-3|03c82f8|Feat: Create US-17|In this part, we applied Gherkin to the US-17|07/06/2024|
+|diegooo01/TechZo-Organization/Acceptance-Tes|feature/sprint-3|92e63a8|Feat: Create US-19|In this part, we applied Gherkin to the US-19|07/06/2024|
+|diegooo01/TechZo-Organization/Acceptance-Tes|feature/sprint-3|d08304a|Feat: Create US-20|In this part, we applied Gherkin to the US-20|07/06/2024|
+|diegooo01/TechZo-Organization/Acceptance-Tes|feature/sprint-3|ee4b8e0|Feat: Create US-21|In this part, we applied Gherkin to the US-21|07/06/2024|
+|IanHD04/TechZo-Organization/Acceptance-Tes|feature/sprint-3|e004599|Feat: Create US-13|In this part, we applied Gherkin to the US-13|07/06/2024|
+|IanHD04/TechZo-Organization/Acceptance-Tes|feature/sprint-3|e0b9f24|Feat: Create US-14|In this part, we applied Gherkin to the US-14|07/06/2024|
+|IanHD04/TechZo-Organization/Acceptance-Tes|feature/sprint-3|7457fca|Feat: Create US-15|In this part, we applied Gherkin to the US-15|07/06/2024|
+|IanHD04/TechZo-Organization/Acceptance-Tes|feature/sprint-3|79d9125|Feat: Create US-16|In this part, we applied Gherkin to the US-16|07/06/2024|
 
 
 
