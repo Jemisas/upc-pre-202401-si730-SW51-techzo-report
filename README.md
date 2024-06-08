@@ -4292,6 +4292,54 @@ Lo primero que realizamos fue crear un nuevo repositorio en Github para nuestro 
   <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/repo-back.PNG?raw=true">
   </div><br><br>
 
+En todos los repositorios hemos adoptado la metodología GitFlow para gestionar ramas, permitiendo el desarrollo simultáneo, y facilitando la integración de nuevas características.<br>
+
+Para ello, en el repositorio del frontend hemos creado ramas para cada historia de usuario, nombrándolas con la nomenclatura “feature/US-[número de la historia de usuario]”, en las cuales implementamos las pantallas y funciones según los requerimientos que se evidencian en cada historia de usuario, y en el repositorio del backend también hemos creado ramas para cada historia técnica, nombrándolas con la nomenclatura “feature/TS-[número de la historia técnica]”, en las que hemos realizado la parte del backend para cumplir las funcionalidades que se solicitan en cada historia técnica.<br>
+En el caso del repositorio de acceptance test hemos creado una nueva rama llamada “feature/sprint-3” para agregar las nuevas User Stories y Technical Stories que abarcamos en este tercer sprint. <br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/branches-front.PNG?raw=true" alt="branches">
+  </div><br><br>
+
+  <div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/branches-at.PNG?raw=true" alt="branches">
+  </div><br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/branches-back.PNG?raw=true" alt="branches">
+  </div><br><br>
+
+<br>
+
+En el repositorio “CambiaZo-Frontend” subimos nuestros archivos a diferentes ramas, luego de que todos los miembros del equipo lo revisaron y aprobaron, lo cargamos en la rama “develop” y cuando comprobamos que no hay ningún conflicto, o los resolvemos en el caso de haber conflictos, lo pasamos a la rama “main”.
+
+  <div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/network-front.PNG?raw=true">
+  </div><br>
+
+Para el repositorio “CambiaZo-Backend” subimos nuestros archivos a diferentes ramas, luego de que todos los miembros del equipo lo revisaron y aprobaron, lo cargamos en la rama “develop” y cuando comprobamos que no hay ningún conflicto, o los resolvemos en el caso de haber conflictos, lo pasamos a la rama “main”.
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/network-back.PNG?raw=true">
+</div><br>
+
+En el caso del repositorio “Acceptance-Test-OpenSource”, todos los archivos los hemos subido a la rama “feature/sprint-3”. Una vez se tenía la aprobación de todo el equipo, lo subimos a la rama “develop”.
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/network-at.PNG?raw=true">
+</div><br>
+
+Finalmente configuramos Netlify para obtener un enlace directo a la Web Application, facilitando la revisión continua de los cambios realizados.
+
+Link: https://cambiazzo.netlify.app/
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/main/Resources/Deployment-Landing/netlify4.jpg" alt="netlify">
+  </div><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/netlify-deploy.PNG?raw=true" alt="app web">
+  </div><br>
 
 
 
