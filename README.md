@@ -4275,6 +4275,22 @@ Luego, al haber realizado avances, decidimos utilizar las funciones colaborativa
 
 <br>
 
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+Ahora procederemos a detallar los procesos que hemos realizado durante el Sprint 3:
+
+Lo primero que realizamos fue crear un nuevo repositorio en Github para nuestro backend de nuestra Aplicación Web y actualizar los repositorios de nuestro frontend y acceptance test.
+
+  <div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/repo-front.PNG?raw=true">
+  </div><br><br>
+  
+  <div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/repo-at.PNG?raw=true">
+  </div><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/repo-back.PNG?raw=true">
+  </div><br><br>
 
 
 
