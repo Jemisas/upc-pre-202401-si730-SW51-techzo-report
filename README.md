@@ -5006,10 +5006,12 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 </table>
 <br>
 
-<div align="center
+### 5.3.3 Evaluaciones Según Heurísticas
+
+<div align="center"
 ** UX Heuristics & Principles Evaluation**
-<br>
 ** Usability - Inclusive Design - Information Architecture**
+
 </div><br>
 
 **Site o App a evaluar:**
