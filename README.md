@@ -4142,7 +4142,9 @@ A continuación, presentaremos los commits realizados en el repositorio de nuest
 |diegooo01/TechZo-Organization/Backend|TS-16|1dc9fb5|Feat: Created Ong Category Controller|In this part, we created Ong Category controller with methods Delete and Post.|07/06/24|
 |IanHD04/TechZo-Organization/Backend|TS-15|c0d7676|Feat: Method Post in Controller|In this part, we added Post mehtod in controller.|07/06/24|
 
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
+A continuación presentaremos los commits que se han hecho en la rama “feature/sprint-3” de nuestro repositorio, en el cual hemos seguido el esquema Gherkin y añadimos los archivos .feature de nuestro Sprint 3.
 
 
 
