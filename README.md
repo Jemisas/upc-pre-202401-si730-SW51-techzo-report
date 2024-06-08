@@ -4230,7 +4230,7 @@ A continuación, en el enlace del vídeo se explica de forma más didáctica lo 
 </div>
 <br><br>
 <br>
-Enlace: [Video del Development Evidence for Sprint 3 - Frontend]( https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/Eb8uKfCRwXBGm4cotXiWk6ABnDFQXJJ_S0LJR4G1DC02Mg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=musYJ0)
+Enlace: [Video del Development Evidence for Sprint 3 - Frontend](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/Eb8uKfCRwXBGm4cotXiWk6ABnDFQXJJ_S0LJR4G1DC02Mg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=musYJ0)
 
 <br>
 <div align="center">
@@ -4263,7 +4263,7 @@ Enlace: [Video del Development Evidence for Sprint 3 - Frontend]( https://upcedu
 </div>
 <br><br>
 
-Enlace: [Video del Development Evidence for Sprint 3 - Backend]( https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/ETPYyfkF-BdGrbOD_6TJ_GcBShSYXStKx8_83vP9TqQihA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=sowGMs)
+Enlace: [Video del Development Evidence for Sprint 3 - Backend](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/ETPYyfkF-BdGrbOD_6TJ_GcBShSYXStKx8_83vP9TqQihA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=sowGMs)
 
 <br>
 
@@ -5027,6 +5027,53 @@ CambiaZo
 11.	Filtrar y ver la información completa de los objetos dentro de la aplicación
 12.	Filtrar y ver la información a detalle de las ONG ‘s registradas
 
+**ESCALA DE SEVERIDAD:**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+|**Nivel**|**Descripción**|
+| - | - |
+|**1**|Problema superficial: puede ser fácilmente superado por el usuario ó ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|**2**|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.|
+|**3**|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|**4**|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+**TABLA DE RESUMEN:**
+
+|#|Problema|Escala de severidad|Heurística/Principio violada(o)|
+| :-: | :-: | :-: | :-: |
+|1|Se tiene que escribir en minúsculas la ubicación para que se pueda filtrar por localización las ONG.|2|Usability: Libertad y control del usuario|
+|2|Se tiene que escribir exactamente una palabra para que se pueda encontrar en el filtro de productos.|2|Usability: Libertad y control del usuario|
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+**Problema 1: Se tiene que escribir en minúsculas la ubicación para que se pueda filtrar por localización las ONG.**
+
+Severidad: 2
+Heurística violada: Usability: Libertad y control del usuario
+
+Problema:
+
+Al momento de escribir la localización por la cual queremos filtrar las ONG, solo aparece si está escrito todo en minúsculas, por lo que al escribir con mayúsculas no se muestra ninguna ONG. Esto puede generar confusión entre los usuarios, ya que pueden pensar que no existe una ONG registrada dentro de nuestra aplicación web en la localización que desean buscar dentro de la aplicación web, pero la realidad es que sí existe pero escrito en minúsculas.
+
+<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/problem-1.PNG?raw=true" alt="Problema 1"></div>
+
+Recomendación:
+
+Añadir que se pueda buscar tanto en minúsculas como en mayúsculas como también combinado en mayúsculas y minúsculas, de este modo no habrá problema cuando los usuarios ingresen las locaciones de cualquier manera.
+
+**Problema #2: Se tiene que escribir exactamente una palabra para que se pueda encontrar en el filtro de productos.**
+
+Severidad: 2
+Heurística violada: Usability: Libertad y control del usuario
+
+Problema:
+
+Al momento de escribir el nombre del producto que queremos filtrar, solo aparece si está escrito exactamente como en la publicación, por lo que al escribir con mayúsculas o minúsculas no se muestra el producto. Esto puede generar confusión entre los usuarios, ya que pueden pensar que no existe el objeto que desean dentro de la aplicación web, pero la realidad es que sí existe pero escrito con una minúscula o mayúscula diferente.
+
+<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/problem-2.PNG?raw=true" alt="Problema 2"></div>
+
+Recomendación:
+
+Lo más práctico para este caso es que al momento de comparar el nombre de los productos registrados con el texto ingresado se tome en cuenta como si todo estuviera escrito en minúsculas.
 
 
 
