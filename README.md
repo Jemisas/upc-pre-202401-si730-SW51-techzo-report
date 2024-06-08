@@ -5005,6 +5005,27 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 </table>
 <br>
 
+<div align="center
+** UX Heuristics & Principles Evaluation**
+<br>
+** Usability - Inclusive Design - Information Architecture**
+</div><br>
+
+**Site o App a evaluar:**
+CambiaZo
+**Tareas a evaluar:**
+1.	Registro de un nuevo usuario dentro de la aplicación web.
+2.	Inicio de sesión con datos incorrectos y correctos.
+3.	Cambio de contraseña.
+4.	Crear y editar una publicación de intercambio
+5.	Ver perfil del usuario con su calificación
+6.	Agregar y eliminar productos a la sección de Favoritos
+7.	Editar perfil del usuario
+8.	Adquirir una membresía, cambiarla y cancelarla
+9.	Ofertar por productos de otros usuarios
+10.	Ver perfiles y reseñas de otros usuarios
+11.	Filtrar y ver la información completa de los objetos dentro de la aplicación
+12.	Filtrar y ver la información a detalle de las ONG ‘s registradas
 
 
 
