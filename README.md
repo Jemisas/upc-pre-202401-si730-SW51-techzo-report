@@ -4230,6 +4230,7 @@ A continuación, en el enlace del vídeo se explica de forma más didáctica lo 
 </div>
 <br><br>
 <br>
+
 Enlace: [Video del Development Evidence for Sprint 3 - Frontend](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/Eb8uKfCRwXBGm4cotXiWk6ABnDFQXJJ_S0LJR4G1DC02Mg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=musYJ0)
 
 <br>
@@ -5130,18 +5131,12 @@ A través de todo el proceso de realización del proyecto hemos conseguido valid
 <div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h8.1.PNG?raw=true" alt="Heuristica 33"></div>|
 
 
+## 5.4 Video About-the-Product
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/about-the-product.PNG?raw=true" alt="Video About The Product">
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
+Enlace: [Video About-the-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/ETDBIa0GBBlHsl_zKnLut58B_LawzfLOxV8_d6n7UGVtQA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=iq43fu)
 
 
 
