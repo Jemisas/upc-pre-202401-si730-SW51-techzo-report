@@ -4386,6 +4386,18 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
 7. ¿Usted utilizaría la aplicación web para realizar trueques? ¿Por qué?
 8. ¿Recomendaría a sus amigos y familiares a unirse a CambiaZo? ¿Por qué?
 
+**Segmento objetivo 2:** Personas adultas que desean donar artículos que ya no utilizan (Donantes)
+**Preguntas Específicas**
+
+1. ¿Qué le pareció nuestra landing page y nuestra aplicación web?
+2. ¿Cuál considera que es la parte más importante de ambas? ¿Por qué?
+3. Si tuviera la posibilidad de cambiar o añadir algo en la landing page o en la aplicación web ¿Qué cambiaría o añadiría?
+4. ¿Cree que la solución presentada contribuirá al aumento de donaciones en el país? ¿Por qué?
+5. Sobre la landing page, ¿considera que cumple su función, la cual es persuadir a los visitantes a registrarse dentro de CambiaZo?
+6. Sobre la aplicación web, ¿considera que es intuitiva y fácil de usar? ¿Por qué?
+7. ¿Usted utilizaría la aplicación web para realizar donaciones? ¿Por qué?
+8. ¿Recomendaría a sus amigos y familiares a unirse a CambiaZo? ¿Por qué?
+
 
 
 
