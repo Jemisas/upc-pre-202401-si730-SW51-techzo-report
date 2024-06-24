@@ -4575,6 +4575,40 @@ A continuación, presentaremos los commits realizados en el repositorio de nuest
 
 **Backend:**
 
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited On (Date)**|
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|123-Mathias/TechZo-Organization/Backend|main|29cf2f9|Feat: Offer Controller|In this part, we created Offer Controller.|15/06/24|
+|HelloNerk/TechZo-Organization/Backend|main|331812a|Feat: Favorite Product Model|<p>In this part, we created Favorite Product Model.</p><p></p>|15/06/24|
+|AndresVZ23/TechZo-Organization/Backend|main|348d46a|Feat: Favorite Prodcut Query|<p>In this part, we created Favorite Prodcut Query.</p><p></p>|16/06/24|
+|IanHD04/TechZo-Organization/Backend|main|a136d40|<p>Fix: New Profile Attribute</p><p></p>|<p>In this part, we added a new attribute in profile.</p><p></p>|17/06/24|
+|diegooo01/TechZo-Organization/Backend|main|2a0bc24|Feat: Benefit Controller|<p>In this part, we created benefit controller</p><p></p>|17/06/24|
+|AndresVZ23/TechZo-Organization/Backend|main|d228b4b|<p>Feat: Benefit Resource</p><p></p>|<p>In this part, we created benefit resource.</p><p></p>|17/06/24|
+|HelloNerk/TechZo-Organization/Backend|main|dabb733|Feat: Membership Resource|<p>In this part, we created membership resource.</p><p></p>|17/06/24|
+|AndresVZ23/TechZo-Organization/Backend|main|f84d5d4|<p>Feat: Interface Membership Repository</p><p></p>|<p>In this part, we created membership respository.</p><p></p>|17/06/24|
+|IanHD04/TechZo-Organization/Backend|main|410618b|<p>Feat: Relation Entities</p><p></p>|<p>In this part, we created the relationship between eneitites.</p><p></p>|18/06/24|
+|AndresVZ23/TechZo-Organization/Backend|main|e30d12c|<p>Feat: Inject Dependencies</p><p></p>|<p>In this part, we added the necessary dependencies.</p><p></p>|18/06/24|
+|IanHD04/TechZo-Organization/Backend|main|07fc848|<p>Fix: Profile</p><p></p>|<p>In this part, we fixed Profile.</p><p></p>|18/06/24|
+|123-Mathias/TechZo-Organization/Backend|main|955b4e4|<p>Feat: Favorite Product Resource</p><p></p>|<p>In this part, we created Favorite Product Query Service.</p><p></p>|18/06/24|
+|AndresVZ23/TechZo-Organization/Backend|main|5e02044|<p>Feat: Benefit Model</p><p></p>|<p>In this part, we created benefit model.</p><p></p>|18/06/24|
+|IanHD04/TechZo-Organization/Backend|main|f84d5d4|<p>Feat: Interface Membership Repository</p><p></p>|<p>In this part, we created membership respository.</p><p></p>|18/06/24|
+|HelloNerk/TechZo-Organization/Backend|main|25155c5|<p>Feat: Membership Controller</p><p></p>|<p>In this part, we created membership controller.</p><p></p>|18/06/24|
+|AndresVZ23/TechZo-Organization/Backend|main|4c700db|<p>Feat: Entities Relations</p><p></p>|<p>In this part, we added the new entities to database.</p><p></p>|18/06/24|
+|diegooo01/TechZo-Organization/Backend|main|b8f97ac|<p>Feat: Inject Dependency</p><p></p>|<p>In this part, we added the necessary dependencies.</p><p></p>|19/06/24|
+|123-Mathias/TechZo-Organization/Backend|main|4d9e3ef|<p>Feat: ReviewAudit</p><p></p>|<p>In this part, we created ReviewAudit</p><p></p>|19/06/24|
+|123-Mathias/TechZo-Organization/Backend|main|5365e12|<p>Feat: Review Model</p><p></p><p>: </p><p></p>|<p>In this part, we created review model.</p><p></p>|19/06/24|
+|AndresVZ23/TechZo-Organization/Backend|main|5365e12|<p>Feat: Review Model</p><p></p>|<p>In this part, we created review model.</p><p></p>|19/06/24|
+|123-Mathias/TechZo-Organization/Backend|main|1280976|<p>Feat: Review Command</p><p></p>|<p>In this part, we created review commands.</p><p></p>|19/06/24|
+|IanHD04/TechZo-Organization/Backend|main|93fdd60|<p>Feat: Review Queries</p><p></p>|<p>In this part, we created review queries.</p><p></p>|19/06/24|
+|AndresVZ23/TechZo-Organization/Backend|main|c8783ee|<p>Feat: Review Repository</p><p></p>|<p>In this part, we created Review Repository.</p><p></p>|20/06/24|
+|IanHD04/TechZo-Organization/Backend|main|7ccac9e|<p>Feat: Method find in Review Repository</p><p></p>|<p>In this part, we added method find by user and offer in review repository.</p><p></p>|20/06/24|
+|123-Mathias/TechZo-Organization/Backend|main|<p>70513d3</p><p><br><br><br><br></p>|<p>Feat: Review Query Service</p><p></p>|<p>In this part, we created Review Query Service</p><p></p>|20/06/24|
+|AndresVZ23/TechZo-Organization/Backend|main|<p>6148ae5</p><p></p>|<p>Feat: Review Command Service</p><p></p>|<p>In this part, we created Review Command Service</p><p></p>|20/06/24|
+|123-Mathias/TechZo-Organization/Backend|main|<p>8b39bb0</p><p></p>|<p>Feat: Ong Attribute in AccountNumber</p><p></p>|<p>In this part, we added relation for review.</p><p></p>|20/06/24|
+|diegooo01/TechZo-Organization/Backend|main|893704a|<p>Feat: Review Transform</p><p></p>|<p>In this part, we created Review Transform.</p><p></p>|20/06/24|
+|123-Mathias/TechZo-Organization/Backend|main|577b5b7|<p>Fix: Getter for OngId in Project</p><p></p>|<p>In this part, we fixed Getter for OngId in Project.</p><p></p>|20/06/24|
+
+
+
 ## 5.3 Validation Interviews
 En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación web.
 
