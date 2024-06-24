@@ -95,11 +95,23 @@
 |3\.1.1|29/05/24|Abel Andrés Valle Zuta|Se agregó el contenido del Sprint Backlog 3|
 |3\.2|2/06/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta,<br>Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se realizaron 10 entrevistas de los acceptance test|
 |3\.2.1|4/06/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta,<br>Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se realizó el análisis de cada una de las entrevistas.|
-|3\.3.1|5/06/24|Abel Andrés Valle Zuta|Se realizó el análisis de Heurísticas|
-|3\.4.1|5/06/24|Ian Haziel Donato Santisteban Palomino|Se realizó el Video About the Product|
-|3\.5.1|5/06/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta,<br>Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se realizó el video About the Team.|
-|3\.6.1|06/06/24|Joseph Alexis Huamani Mandujano|Se actualizaron las conclusiones del informe.|
-|3\.7.1|06/06/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta,<br>Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se agregaron los student outcome y sus conclusiones del TB2.|
+|3\.3|5/06/24|Abel Andrés Valle Zuta|Se realizó el análisis de Heurísticas|
+|3\.4|5/06/24|Ian Haziel Donato Santisteban Palomino|Se realizó el Video About the Product|
+|3\.5|5/06/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta,<br>Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se realizó el video About the Team.|
+|3\.6|06/06/24|Joseph Alexis Huamani Mandujano|Se actualizaron las conclusiones del informe.|
+|3\.7|06/06/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta,<br>Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se agregaron los student outcome y sus conclusiones del TB2.|
+|4\.0|10/06/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta y<br>Ian Haziel Donato Santisteban Palomino|Se agregó el sprint 4|
+|4\.1|10/06/24|Abel Andrés Valle Zuta|Se agregó contenido del Sprint 4 y el Sprint Planning 4|
+|4\.1.1|12/06/24|Abel Andrés Valle Zuta|Se agregó el contenido del Sprint Backlog 4|
+|4\.1.2|15/06/24|Diego Anderson Criollo de la Cruz|Se agregó el contenido del Development Evidence for Sprint Review|
+|4\.1.3|16/06/24|Ian Haziel Donato Santisteban Palomino|Se agregó el contenido del Testing Suite Evidence for Sprint Review|
+|4\.1.4|17/06/24|Joseph Alexis Huamani Mandujano|Se agregó el contenido del Execution Evidence for Sprint Review|
+|4\.1.5|18/06/24|Mathias Andre Mendoza Carrion|Se agregó el contenido del Services Documentation Evidence for Sprint Review|
+|4\.1.6|19/06/24|Abel Andrés Valle Zuta|Se agregó el contenido del Software Deployment Evidence for Sprint Review|
+|4\.1.6|19/06/24|Abel Andrés Valle Zuta|Se agregó el contenido del Team Collaboration Insights during Sprint|
+|4\.2|20/06/24|Ian Haziel Donato Santisteban Palomino|Se actualizaron las conclusiones y bibliografías del informe.|
+|4\.3|21/06/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta,<br>Ian Haziel Donato Santisteban Palomino y <br>Mathias Andre Mendoza Carrion|Se agregaron los student outcome y sus conclusiones del TF1.|
+
 
 </div><br><br>
 
@@ -181,7 +193,7 @@ https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report
 
     * **Commits**
 
-         A continuacion se muestran algunos commits realizados en este entrega de TB1.
+         A continuacion se muestran algunos commits realizados en este entrega de TP1.
 
         + **Ian Santisteban**
             <div style="display: flex; align-items: center;">
@@ -226,7 +238,7 @@ https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report
 
     * **Commits**
 
-         A continuacion se muestran algunos commits realizados en este entrega de TB1.
+         A continuacion se muestran algunos commits realizados en este entrega de TB2.
 
         + **Ian Santisteban**
             <div style="display: flex; align-items: center;">
@@ -250,6 +262,52 @@ https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report
             <div style="display: flex; align-items: center;">
             <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Collaboration%20Insights/commits-tp-diego.PNG?raw=true">
             </div><br><br>
+
+
+<strong>*Entrega TF1:*</strong>
+
++ Desarrollo de Actividades
+    En el entregable de TF1, el equipo se reunió por discord para hacer las coordinaciones y posteriormente todas las tareas lo documentamos en notitas en el Jamboard para que sea más fácil visualizar las tareas pendientes tanto de este entregable como las mejoras de la TB2. 
+
+    En cuanto al desarrollo del informe, el equipo realizó repartición de partes de manera justa por medio de decisión voluntaria.
+
+    Cabe resaltar, que el tiempo brindado en clase para poder recibir feedbacks y realizar consultas al docente fue de gran apoyo ya que no todos cuentan con la misma disponibilidad de tiempo.
+
++ **Evidencias de colaboración y commits - Github:**
+    * **Análiticos de colaboración** <br><br>
+        + **Pulse Image of Github Insights**
+        <div align="center"><img src=""></div><br><br>
+
+        + **Contributors Image of Github Insights**
+        <div align="center"><img src=""></div><br><br>
+
+    * **Commits**
+
+         A continuacion se muestran algunos commits realizados en este entrega de TF1.
+
+        + **Ian Santisteban**
+            <div style="display: flex; align-items: center;">
+            <img src="">
+            </div><br>
+
+        + **Andres Valle**
+            <div style="display: flex; align-items: center;">
+            <img src="">
+            </div><br>
+
+        + **Joseph Huamani**
+            <div style="display: flex; align-items: center;">
+            <img src="">
+            </div><br>
+        + **Mathias Mendoza**
+            <div style="display: flex; align-items: center;">
+            <img src="">
+            </div><br>
+        + **Diego Criollo**
+            <div style="display: flex; align-items: center;">
+            <img src="">
+            </div><br><br>
+
 
 
 ---
@@ -353,6 +411,15 @@ https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+      - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+      - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3 Validation Interviews.](#53-validation-interviews)
     - [5.3.1 Diseño de entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -3669,7 +3736,7 @@ Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
 
 
 <div align="center">
-  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-Backlog/trello-sprint-backlog-2.PNG?raw=true" alt="sprint">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-Backlog/trello-sprint-backlog-2.PNG?raw=true" alt="sprint">
 </div><br><br>
 
 <table>
@@ -4329,7 +4396,7 @@ Para el repositorio “CambiaZo-Backend” subimos nuestros archivos a diferente
   <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/network-back.PNG?raw=true">
 </div><br>
 
-En el caso del repositorio “Acceptance-Test-OpenSource”, todos los archivos los hemos subido a la rama “feature/sprint-3”. Una vez se tenía la aprobación de todo el equipo, lo subimos a la rama “develop”.
+En el caso del repositorio “Acceptance-Test”, todos los archivos los hemos subido a la rama “feature/sprint-3”. Una vez se tenía la aprobación de todo el equipo, lo subimos a la rama “develop”.
 
 <div align="center">
   <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/network-at.PNG?raw=true">
@@ -5013,14 +5080,18 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 
 ### 5.3.3 Evaluaciones Según Heurísticas
 
-<div align="center"
-** UX Heuristics & Principles Evaluation**
-** Usability - Inclusive Design - Information Architecture**
+<div align="center">
+
+**UX Heuristics & Principles Evaluation**
+
+**Usability - Inclusive Design - Information Architecture**
 
 </div><br>
 
 **Site o App a evaluar:**
 CambiaZo
+<br>
+
 **Tareas a evaluar:**
 1.	Registro de un nuevo usuario dentro de la aplicación web.
 2.	Inicio de sesión con datos incorrectos y correctos.
@@ -5035,6 +5106,8 @@ CambiaZo
 11.	Filtrar y ver la información completa de los objetos dentro de la aplicación
 12.	Filtrar y ver la información a detalle de las ONG ‘s registradas
 
+<br>
+
 **ESCALA DE SEVERIDAD:**
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
@@ -5045,6 +5118,8 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 |**3**|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
 |**4**|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
 
+<br>
+
 **TABLA DE RESUMEN:**
 
 |#|Problema|Escala de severidad|Heurística/Principio violada(o)|
@@ -5052,10 +5127,16 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 |1|Se tiene que escribir en minúsculas la ubicación para que se pueda filtrar por localización las ONG.|2|Usability: Libertad y control del usuario|
 |2|Se tiene que escribir exactamente una palabra para que se pueda encontrar en el filtro de productos.|2|Usability: Libertad y control del usuario|
 
+<br>
+
 **DESCRIPCIÓN DE PROBLEMAS:**
+
+<br>
+
 **Problema 1: Se tiene que escribir en minúsculas la ubicación para que se pueda filtrar por localización las ONG.**
 
 Severidad: 2
+
 Heurística violada: Usability: Libertad y control del usuario
 
 Problema:
@@ -5064,13 +5145,15 @@ Al momento de escribir la localización por la cual queremos filtrar las ONG, so
 
 <div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/problem-1.PNG?raw=true" alt="Problema 1"></div>
 
-Recomendación:
+<br>Recomendación:
 
 Añadir que se pueda buscar tanto en minúsculas como en mayúsculas como también combinado en mayúsculas y minúsculas, de este modo no habrá problema cuando los usuarios ingresen las locaciones de cualquier manera.
+<br><br>
 
 **Problema #2: Se tiene que escribir exactamente una palabra para que se pueda encontrar en el filtro de productos.**
 
 Severidad: 2
+
 Heurística violada: Usability: Libertad y control del usuario
 
 Problema:
@@ -5079,64 +5162,27 @@ Al momento de escribir el nombre del producto que queremos filtrar, solo aparece
 
 <div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/problem-2.PNG?raw=true" alt="Problema 2"></div>
 
-Recomendación:
+<br>Recomendación:
 
 Lo más práctico para este caso es que al momento de comparar el nombre de los productos registrados con el texto ingresado se tome en cuenta como si todo estuviera escrito en minúsculas.
 
-
+<br>
 
 A través de todo el proceso de realización del proyecto hemos conseguido validar las siguientes heurísticas relacionadas a nuestra landing page y aplicación web:
 
 
 |**Heurística**|**Descripción**|
 | :-: | :-: |
-|Usabilidad|Tanto en la landing page como en la aplicación web, el usuario puede desplazarse sin problemas usando la barra de desplazamiento o la rueda de desplazamiento del mouse, además puede acceder a cualquier apartado de la aplicación sin tener ningún inconveniente.<br>
-<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h1-app.PNG?raw=true" alt="Heuristica 1"></div><br>
-<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h1-landing.PNG?raw=true" alt="Heuristica 2"></div>|
-|Accesibilidad|El usuario puede acceder tanto a la landing page como a la página web desde cualquier dispositivo, ya sea computadora o dispositivo móvil, debido a que se adaptan correctamente al tamaño de la pantalla.<br>
-<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h2-app.PNG?raw=true" alt="Heuristica 3"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h2-landing.PNG?raw=true" alt="Heuristica 4"></div>|
-|Libertad y control por parte del usuario|<p>Los usuarios pueden realizar acciones por equivocación, por lo que es importante una opción que le permita cancelar lo que seleccionó para que pueda salir de la acción que no desea realizar sin tener que pasar por un largo proceso. Por ello hemos implementado botones que permiten que el usuario pueda deshacer una acción que realizaron por error.</p><br>
-<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h3.PNG?raw=true" alt="Heuristica 5"></div><br>
-<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h3.1.PNG?raw=true" alt="Heuristica 6"></div><br>
-<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h3.2.PNG?raw=true" alt="Heuristica 7"></div>||
-|Consistencia entre el sistema y el mundo real|En ambos (landing page y aplicación web) hemos utilizado símbolos reconocibles por cualquier usuario, de modo que no sea un problema para ellos tratar de descifrar qué significa cada uno de nuestros botones.<br>
-<div align="center">
-<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.PNG?raw=true" alt="Heuristica 8">
-<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.1.PNG?raw=true" alt="Heuristica 9">
-<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.2.PNG?raw=true" alt="Heuristica 10">
-<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.3.PNG?raw=true" alt="Heuristica 11">
-<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.4.PNG?raw=true" alt="Heuristica 12">
-<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.5.PNG?raw=true" alt="Heuristica 13">
-<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.6.PNG?raw=true" alt="Heuristica 14">
-<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.7.PNG?raw=true" alt="Heuristica 15">
-<br>
-<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.8.PNG?raw=true" alt="Heuristica 16">
-<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.9.PNG?raw=true" alt="Heuristica 17">
-<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.10.PNG?raw=true" alt="Heuristica 18">
-<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.11.PNG?raw=true" alt="Heuristica 19">
-<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.12.PNG?raw=true" alt="Heuristica 20">
-<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.13.PNG?raw=true" alt="Heuristica 21">
-<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.14.PNG?raw=true" alt="Heuristica 22">
-</div>|
-|Diseño estético y minimalista|Hemos sintetizado lo más importante y destacable para que al usuario no se le haga pesado leer acerca de CambiaZo.<br>
-<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h5.PNG?raw=true" alt="Heuristica 22"></div><br>
-<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h5.1.PNG?raw=true" alt="Heuristica 23"></div><br>
-<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h5.2.PNG?raw=true" alt="Heuristica 24"></div>|
-|Consistencia y estándares|Generalmente los sitios web tienen un proceso parecido al momento de iniciar sesión, registrarse y cambiar de contraseña, por lo que nos hemos adaptado a ello y creamos uno similar para que el usuario no presente complicaciones de entender nuestra aplicación web.<br>
-<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h6.PNG?raw=true" alt="Heuristica 25"></div>
-<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h6.1.PNG?raw=true" alt="Heuristica 26"></div>
-<br>
-<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h6.2.PNG?raw=true" alt="Heuristica 27"></div>|
-|Prevención de errores|Hemos agregado mensajes para evitar errores comunes que pueden tener los usuarios al introducir datos dentro de CambiaZo. <br>
-<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h7.PNG?raw=true" alt="Heuristica 28"></div>
-<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h7.1.PNG?raw=true" alt="Heuristica 29"></div>
-<br>
-<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h7.2.PNG?raw=true" alt="Heuristica 30"></div>
-<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h7.3.PNG?raw=true" alt="Heuristica 31"></div>|
-|Flexibilidad y eficiencia de uso|Nuestra aplicación web está adaptada tanto para usuarios experimentados como para principiantes, esto se refleja al momento de realizar filtraciones de productos, pueden filtrar simplemente presionando algún botón de la categoría que deseen, o pueden realizar una búsqueda más específica completando campos.<br>
-<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h8.PNG?raw=true" alt="Heuristica 32"></div>
-<div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h8.1.PNG?raw=true" alt="Heuristica 33"></div>|
+|Usabilidad|Tanto en la landing page como en la aplicación web, el usuario puede desplazarse sin problemas usando la barra de desplazamiento o la rueda de desplazamiento del mouse, además puede acceder a cualquier apartado de la aplicación sin tener ningún inconveniente.<br><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h1-app.PNG?raw=true" alt="Heuristica 1"></div><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h1-landing.PNG?raw=true" alt="Heuristica 2"></div>|
+|Accesibilidad|El usuario puede acceder tanto a la landing page como a la página web desde cualquier dispositivo, ya sea computadora o dispositivo móvil, debido a que se adaptan correctamente al tamaño de la pantalla.<br><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h2-app.PNG?raw=true" alt="Heuristica 3"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h2-landing.PNG?raw=true" alt="Heuristica 4"></div>|
+|Libertad y control por parte del usuario|<p>Los usuarios pueden realizar acciones por equivocación, por lo que es importante una opción que le permita cancelar lo que seleccionó para que pueda salir de la acción que no desea realizar sin tener que pasar por un largo proceso. Por ello hemos implementado botones que permiten que el usuario pueda deshacer una acción que realizaron por error.</p><br><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h3.PNG?raw=true" alt="Heuristica 5"></div><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h3.1.PNG?raw=true" alt="Heuristica 6"></div><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h3.2.PNG?raw=true" alt="Heuristica 7"></div>||
+|Consistencia entre el sistema y el mundo real|En ambos (landing page y aplicación web) hemos utilizado símbolos reconocibles por cualquier usuario, de modo que no sea un problema para ellos tratar de descifrar qué significa cada uno de nuestros botones.<br><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.PNG?raw=true" alt="Heuristica 8"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.1.PNG?raw=true" alt="Heuristica 9"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.2.PNG?raw=true" alt="Heuristica 10"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.3.PNG?raw=true" alt="Heuristica 11"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.4.PNG?raw=true" alt="Heuristica 12"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.5.PNG?raw=true" alt="Heuristica 13"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.6.PNG?raw=true" alt="Heuristica 14"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.7.PNG?raw=true" alt="Heuristica 15"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.8.PNG?raw=true" alt="Heuristica 16"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.9.PNG?raw=true" alt="Heuristica 17"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.10.PNG?raw=true" alt="Heuristica 18"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.11.PNG?raw=true" alt="Heuristica 19"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.12.PNG?raw=true" alt="Heuristica 20"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.13.PNG?raw=true" alt="Heuristica 21"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.14.PNG?raw=true" alt="Heuristica 22"></div>|
+|Diseño estético y minimalista|Hemos sintetizado lo más importante y destacable para que al usuario no se le haga pesado leer acerca de CambiaZo.<br><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h5.PNG?raw=true" alt="Heuristica 22"></div><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h5.1.PNG?raw=true" alt="Heuristica 23"></div><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h5.2.PNG?raw=true" alt="Heuristica 24"></div>|
+|Consistencia y estándares|Generalmente los sitios web tienen un proceso parecido al momento de iniciar sesión, registrarse y cambiar de contraseña, por lo que nos hemos adaptado a ello y creamos uno similar para que el usuario no presente complicaciones de entender nuestra aplicación web.<br><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h6.PNG?raw=true" alt="Heuristica 25"></div><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h6.1.PNG?raw=true" alt="Heuristica 26"></div><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h6.2.PNG?raw=true" alt="Heuristica 27"></div>|
+|Prevención de errores|Hemos agregado mensajes para evitar errores comunes que pueden tener los usuarios al introducir datos dentro de CambiaZo. <br><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h7.PNG?raw=true" alt="Heuristica 28"></div><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h7.1.PNG?raw=true" alt="Heuristica 29"></div><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h7.2.PNG?raw=true" alt="Heuristica 30"></div><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h7.3.PNG?raw=true" alt="Heuristica 31"></div>|
+|Flexibilidad y eficiencia de uso|Nuestra aplicación web está adaptada tanto para usuarios experimentados como para principiantes, esto se refleja al momento de realizar filtraciones de productos, pueden filtrar simplemente presionando algún botón de la categoría que deseen, o pueden realizar una búsqueda más específica completando campos.<br><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h8.PNG?raw=true" alt="Heuristica 32"></div><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h8.1.PNG?raw=true" alt="Heuristica 33"></div>|
 
+<br>
 
 ## 5.4 Video About-the-Product
 <div align="center">
@@ -5208,6 +5254,7 @@ https://codeinstitute.net/global/blog/what-is-javascript-and-why-should-i-learn-
 
 + Landing Page: [Ver Landing Page](https://techzo-organization.github.io/landing-page-CambiaZo/)<br><br>
 + App Web: [Ver App Web](https://cambiazo.netlify.app)<br><br>
++ Backend: [Ver Backend]()<br><br>
 + Repositorio GitHub de la Organización:[Ver Organización](https://github.com/TechZo-Organization)<br><br>
 + Repositorio GitHub del Landing Page: [Ver Repositorio](https://github.com/TechZo-Organization/landing-page-CambiaZo)<br><br>
 + Repositorio GitHub del Fronted: [Ver Repositorio](https://github.com/TechZo-Organization/Fronted)<br><br>
@@ -5301,6 +5348,16 @@ Enlace: [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/persona
 
 
 Enlace: [Exposure video TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EToqnAMiyDJMj4daWWnQUgMBTIuFxNmBW353DiM3YFUeAw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vroQHn)
+
+
+## Exposure video TF1
+
+  <div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-4-Images/expo-tf.png?raw=true" alt="Exposure video TF1">
+ </div>
+
+
+Enlace: [Exposure video TF1]()
 
 
 ## Video About The Team
