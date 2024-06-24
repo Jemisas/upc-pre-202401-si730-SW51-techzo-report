@@ -4607,7 +4607,9 @@ A continuación, presentaremos los commits realizados en el repositorio de nuest
 |diegooo01/TechZo-Organization/Backend|main|893704a|<p>Feat: Review Transform</p><p></p>|<p>In this part, we created Review Transform.</p><p></p>|20/06/24|
 |123-Mathias/TechZo-Organization/Backend|main|577b5b7|<p>Fix: Getter for OngId in Project</p><p></p>|<p>In this part, we fixed Getter for OngId in Project.</p><p></p>|20/06/24|
 
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
+A continuación presentaremos los commits que se han hecho en la rama “feature/sprint-4” de nuestro repositorio, en el cual hemos seguido el esquema Gherkin y añadimos los archivos .feature de nuestro Sprint 4.
 
 ## 5.3 Validation Interviews
 En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación web.
