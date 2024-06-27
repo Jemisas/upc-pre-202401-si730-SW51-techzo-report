@@ -4712,7 +4712,7 @@ En el caso del repositorio “Acceptance-Test”, todos los archivos los hemos s
 
 
 Finalmente, desde el mismo Rider utilizamos un plugin de Azure, el cual nos permite poder desplegar el backend de nuestra aplicación usando el servicio de Azure llamado Web App. Posteriormente lo configuramos desde Microsoft Azure para generar nuestros endpoints del backend y poderlos conectar con el frontend.
-<br>
+<br><br>
 Link: https://backend20240624204555.azurewebsites.net/swagger/index.html
 <br><br>
 <div align="center">
