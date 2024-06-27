@@ -4624,14 +4624,22 @@ A continuación presentaremos los commits que se han hecho en la rama “feature
 
 Lo que se logró en el Sprint 4 es desplegar la versión final del backend y unirlo con el frontend de la aplicación web. Logramos crear todos los endpoints definidos junto a sus métodos para que se puedan realizar todas las funciones definidas desde el inicio del proyecto. Además, adoptamos correctamente la metodología Gitflow, ya que hemos trabajado en ramas para realizar actualizaciones y pruebas sin afectar la rama principal. 
 
-A continuación, en el enlace del vídeo se explica de forma más didáctica lo ya mencionado e imágenes de lo alcanzado en este Sprint 4:
+A continuación, se muestran algunas imágenes de lo alcanzado en este Sprint 4:
 
 <div align="center">
-  <img src="" alt="evidence1" >
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-4-Images/conect-1.jpeg?raw=true" alt="evidence1" >
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-4-Images/conect-2.jpeg?raw=true" alt="evidence2" >
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-4-Images/conect-3.jpeg?raw=true" alt="evidence3" >
 </div>
 <br><br>
-
-Enlace: [Video del Development Evidence for Sprint 4 – Web Application]()
 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
@@ -5671,7 +5679,7 @@ Enlace: [Exposure video TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u
  </div>
 
 
-Enlace: [Exposure video TF1]()
+Enlace: [Exposure video TF1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a133_upc_edu_pe/EZwWL1gVH1ZEgFn7gisKPu8BgZJPeKXY_ok7hoozpRjVyA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qaZZHZ)
 
 
 ## Video About The Team
