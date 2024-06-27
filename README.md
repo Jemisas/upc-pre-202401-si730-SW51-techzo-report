@@ -4664,7 +4664,8 @@ Para ello, en el repositorio del backend hemos creado ramas para cada historia t
   </div><br><br>
 
 
-<div align="center">  
+<div align="center">
+
 |Rama|Descripción|
 | :-: | :-: |
 |feature/TS-01|Se crea la estructura de la API de Usuarios junto a sus métodos.|
@@ -4672,6 +4673,7 @@ Para ello, en el repositorio del backend hemos creado ramas para cada historia t
 |feature/TS-03|Se crea la estructura de la API de ONGs junto a sus métodos.|
 |feature/TS-04|Se crea la estructura de la API de Membresías junto a sus métodos.|
 |feature/TS-05|Se crea la estructura de la API de Productos junto a sus métodos.|
+
 </div>
 
 <br>
@@ -4707,7 +4709,7 @@ En el caso del repositorio “Acceptance-Test”, todos los archivos los hemos s
 
 Finalmente, desde el mismo Rider utilizamos un plugin de Azure, el cual nos permite poder desplegar el backend de nuestra aplicación usando el servicio de Azure llamado Web App. Posteriormente lo configuramos desde Microsoft Azure para generar nuestros endpoints del backend y poderlos conectar con el frontend.
 
-<br><br>
+<br>
 Link: https://backend20240624204555.azurewebsites.net/swagger/index.html
 <br>
 <div align="center">
@@ -5494,7 +5496,7 @@ A través de todo el proceso de realización del proyecto hemos conseguido valid
     <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/about-the-product.PNG?raw=true" alt="Video About The Product">
 </div>
 
-Enlace: [Video About-the-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EfEN8f3TclVNjD0g9v4x2V4BT2GBTPro270aP1KkWOf0wQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CxHin0)
+Enlace: [Video About-the-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EfEN8f3TclVNjD0g9v4x2V4BT2GBTPro270aP1KkWOf0wQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XK9rID)
 
 
 
