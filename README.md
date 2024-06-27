@@ -4617,7 +4617,7 @@ A continuación presentaremos los commits que se han hecho en la rama “feature
 |diegooo01/TechZo-Organization/Acceptance-Tes|feature/sprint-4|51efe6a|Feat: Create TS-02|In this part, we applied Gherkin to the TS-02|24/06/2024|
 |IanHD04/TechZo-Organization/Acceptance-Tes|feature/sprint-4|81997b0|Feat: Create TS-03|In this part, we applied Gherkin to the TS-03|24/06/2024|
 |123-Mathias/TechZo-Organization/Acceptance-Test|feature/sprint-4|c5cb700|Feat: Create TS-04|In this part, we applied Gherkin to the TS-04|24/06/2024|
-|HelloNerk/TechZo-Organization/Acceptance-Tes|feature/sprint-4|c5cb700|Feat: Create TS-05|In this part, we applied Gherkin to the TS-05|24/06/2024|
+|HelloNerk/TechZo-Organization/Acceptance-Tes|feature/sprint-4|b09cb1d|Feat: Create TS-05|In this part, we applied Gherkin to the TS-05|24/06/2024|
 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
@@ -4664,7 +4664,7 @@ Para ello, en el repositorio del backend hemos creado ramas para cada historia t
   </div><br><br>
 
 
-
+<div align="center">  
 |Rama|Descripción|
 | :-: | :-: |
 |feature/TS-01|Se crea la estructura de la API de Usuarios junto a sus métodos.|
@@ -4672,7 +4672,7 @@ Para ello, en el repositorio del backend hemos creado ramas para cada historia t
 |feature/TS-03|Se crea la estructura de la API de ONGs junto a sus métodos.|
 |feature/TS-04|Se crea la estructura de la API de Membresías junto a sus métodos.|
 |feature/TS-05|Se crea la estructura de la API de Productos junto a sus métodos.|
-
+</div>
 
 <br>
 
@@ -4692,7 +4692,7 @@ El nombre de cada rama tiene la siguiente nomenclatura: “feature/sprint-[núme
 |feature/sprint-4|Se realizan los archivos .feature sobre todas las historias técnicas realizadas en el sprint 4.|
 
 <br>
-En el repositorio de “CambiaZo-Backend” subimos nuestros archivos a las diferentes ramas, de acuerdo a la Technical Story que se refiera, luego de que todos los miembros del equipo lo revisaron y aprobaron, le hacemos merge en la rama “develop” y al ver que todo corra bien y sin errores lo subimos a la rama “main”. <br>
+En el repositorio de “CambiaZo-Backend” subimos nuestros archivos a las diferentes ramas, de acuerdo a la Technical Story que se refiera, luego de que todos los miembros del equipo lo revisaron y aprobaron, le hacemos merge en la rama “develop” y al ver que todo corra bien y sin errores lo subimos a la rama “main”. <br><br>
 
 <div align="center">
   <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-4-Images/network-4.PNG?raw=true">
@@ -4702,6 +4702,22 @@ En el caso del repositorio “Acceptance-Test”, todos los archivos los hemos s
 
 <div align="center">
   <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-4-Images/network-at-4.PNG?raw=true">
+  </div><br><br>
+
+
+Finalmente, desde el mismo Rider utilizamos un plugin de Azure, el cual nos permite poder desplegar el backend de nuestra aplicación usando el servicio de Azure llamado Web App. Posteriormente lo configuramos desde Microsoft Azure para generar nuestros endpoints del backend y poderlos conectar con el frontend.
+
+<br><br>
+Link: https://backend20240624204555.azurewebsites.net/swagger/index.html
+<br>
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-4-Images/deploy-back-1.jpeg?raw=true">
+  </div><br>
+<div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-4-Images/deploy-back-2.jpeg?raw=true">
+  </div><br>
+  <div align="center">
+  <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-4-Images/deploy-back-3.jpeg?raw=true">
   </div><br>
 
 
@@ -5465,10 +5481,10 @@ A través de todo el proceso de realización del proyecto hemos conseguido valid
 |Usabilidad|Tanto en la landing page como en la aplicación web, el usuario puede desplazarse sin problemas usando la barra de desplazamiento o la rueda de desplazamiento del mouse, además puede acceder a cualquier apartado de la aplicación sin tener ningún inconveniente.<br><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h1-app.PNG?raw=true" alt="Heuristica 1"></div><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h1-landing.PNG?raw=true" alt="Heuristica 2"></div>|
 |Accesibilidad|El usuario puede acceder tanto a la landing page como a la página web desde cualquier dispositivo, ya sea computadora o dispositivo móvil, debido a que se adaptan correctamente al tamaño de la pantalla.<br><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h2-app.PNG?raw=true" alt="Heuristica 3"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h2-landing.PNG?raw=true" alt="Heuristica 4"></div>|
 |Libertad y control por parte del usuario|<p>Los usuarios pueden realizar acciones por equivocación, por lo que es importante una opción que le permita cancelar lo que seleccionó para que pueda salir de la acción que no desea realizar sin tener que pasar por un largo proceso. Por ello hemos implementado botones que permiten que el usuario pueda deshacer una acción que realizaron por error.</p><br><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h3.PNG?raw=true" alt="Heuristica 5"></div><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h3.1.PNG?raw=true" alt="Heuristica 6"></div><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h3.2.PNG?raw=true" alt="Heuristica 7"></div>||
-|Consistencia entre el sistema y el mundo real|En ambos (landing page y aplicación web) hemos utilizado símbolos reconocibles por cualquier usuario, de modo que no sea un problema para ellos tratar de descifrar qué significa cada uno de nuestros botones.<br><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.PNG?raw=true" alt="Heuristica 8"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.1.PNG?raw=true" alt="Heuristica 9"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.2.PNG?raw=true" alt="Heuristica 10"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.3.PNG?raw=true" alt="Heuristica 11"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.4.PNG?raw=true" alt="Heuristica 12"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.5.PNG?raw=true" alt="Heuristica 13"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.6.PNG?raw=true" alt="Heuristica 14"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.7.PNG?raw=true" alt="Heuristica 15"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.8.PNG?raw=true" alt="Heuristica 16"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.9.PNG?raw=true" alt="Heuristica 17"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.10.PNG?raw=true" alt="Heuristica 18"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.11.PNG?raw=true" alt="Heuristica 19"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.12.PNG?raw=true" alt="Heuristica 20"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.13.PNG?raw=true" alt="Heuristica 21"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h4.14.PNG?raw=true" alt="Heuristica 22"></div>|
+|Consistencia entre el sistema y el mundo real|En ambos (landing page y aplicación web) hemos utilizado símbolos reconocibles por cualquier usuario, de modo que no sea un problema para ellos tratar de descifrar qué significa cada uno de nuestros botones.<br><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-4-Images/icons.PNG?raw=true" alt="Heuristica 8">|
 |Diseño estético y minimalista|Hemos sintetizado lo más importante y destacable para que al usuario no se le haga pesado leer acerca de CambiaZo.<br><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h5.PNG?raw=true" alt="Heuristica 22"></div><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h5.1.PNG?raw=true" alt="Heuristica 23"></div><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h5.2.PNG?raw=true" alt="Heuristica 24"></div>|
 |Consistencia y estándares|Generalmente los sitios web tienen un proceso parecido al momento de iniciar sesión, registrarse y cambiar de contraseña, por lo que nos hemos adaptado a ello y creamos uno similar para que el usuario no presente complicaciones de entender nuestra aplicación web.<br><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h6.PNG?raw=true" alt="Heuristica 25"></div><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h6.1.PNG?raw=true" alt="Heuristica 26"></div><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h6.2.PNG?raw=true" alt="Heuristica 27"></div>|
-|Prevención de errores|Hemos agregado mensajes para evitar errores comunes que pueden tener los usuarios al introducir datos dentro de CambiaZo. <br><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h7.PNG?raw=true" alt="Heuristica 28"></div><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h7.1.PNG?raw=true" alt="Heuristica 29"></div><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h7.2.PNG?raw=true" alt="Heuristica 30"></div><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h7.3.PNG?raw=true" alt="Heuristica 31"></div>|
+|Prevención de errores|Hemos agregado mensajes para evitar errores comunes que pueden tener los usuarios al introducir datos dentro de CambiaZo. <br><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-4-Images/errors.PNG?raw=true" alt="Heuristica 28"></div>|
 |Flexibilidad y eficiencia de uso|Nuestra aplicación web está adaptada tanto para usuarios experimentados como para principiantes, esto se refleja al momento de realizar filtraciones de productos, pueden filtrar simplemente presionando algún botón de la categoría que deseen, o pueden realizar una búsqueda más específica completando campos.<br><br><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h8.PNG?raw=true" alt="Heuristica 32"></div><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/h8.1.PNG?raw=true" alt="Heuristica 33"></div>|
 
 <br>
@@ -5478,7 +5494,7 @@ A través de todo el proceso de realización del proyecto hemos conseguido valid
     <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-3-Images/about-the-product.PNG?raw=true" alt="Video About The Product">
 </div>
 
-Enlace: [Video About-the-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/ETDBIa0GBBlHsl_zKnLut58B_LawzfLOxV8_d6n7UGVtQA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=iq43fu)
+Enlace: [Video About-the-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EfEN8f3TclVNjD0g9v4x2V4BT2GBTPro270aP1KkWOf0wQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CxHin0)
 
 
 
@@ -5547,7 +5563,7 @@ https://codeinstitute.net/global/blog/what-is-javascript-and-why-should-i-learn-
 
 + Landing Page: [Ver Landing Page](https://techzo-organization.github.io/landing-page-CambiaZo/)<br><br>
 + App Web: [Ver App Web](https://cambiazo.netlify.app)<br><br>
-+ Backend: [Ver Backend]()<br><br>
++ Backend: [Ver Backend](https://backend20240624204555.azurewebsites.net/swagger/index.html)<br><br>
 + Repositorio GitHub de la Organización:[Ver Organización](https://github.com/TechZo-Organization)<br><br>
 + Repositorio GitHub del Landing Page: [Ver Repositorio](https://github.com/TechZo-Organization/landing-page-CambiaZo)<br><br>
 + Repositorio GitHub del Fronted: [Ver Repositorio](https://github.com/TechZo-Organization/Fronted)<br><br>
@@ -5654,6 +5670,10 @@ Enlace: [Exposure video TF1]()
 
 
 ## Video About The Team
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-4-Images/about-the-team.PNG?raw=true" alt="Video About The Team">
+ </div>
 
 Enlace: [Video About The Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/Edg6QXMR2FpCocAJl19XlbkBToGQxPN1p8U56M45NMAjDw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jdY99E)
 
