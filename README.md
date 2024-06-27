@@ -4686,12 +4686,16 @@ El nombre de cada rama tiene la siguiente nomenclatura: “feature/sprint-[núme
   <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-4-Images/branches-at-4.PNG?raw=true" alt="branches">
   </div><br><br>
 
+<div align="center">
+
 |Rama|Descripción|
 | :-: | :-: |
 |feature/sprint-1|Se realizan los archivos .feature sobre todas las historias de usuario realizadas en el sprint 1.|
 |feature/sprint-2|Se realizan los archivos .feature sobre todas las historias de usuario realizadas en el sprint 2.|
 |feature/sprint-3|Se realizan los archivos .feature sobre todas las historias de usuario realizadas en el sprint 3.|
 |feature/sprint-4|Se realizan los archivos .feature sobre todas las historias técnicas realizadas en el sprint 4.|
+
+</div>
 
 <br>
 En el repositorio de “CambiaZo-Backend” subimos nuestros archivos a las diferentes ramas, de acuerdo a la Technical Story que se refiera, luego de que todos los miembros del equipo lo revisaron y aprobaron, le hacemos merge en la rama “develop” y al ver que todo corra bien y sin errores lo subimos a la rama “main”. <br><br>
@@ -4708,10 +4712,9 @@ En el caso del repositorio “Acceptance-Test”, todos los archivos los hemos s
 
 
 Finalmente, desde el mismo Rider utilizamos un plugin de Azure, el cual nos permite poder desplegar el backend de nuestra aplicación usando el servicio de Azure llamado Web App. Posteriormente lo configuramos desde Microsoft Azure para generar nuestros endpoints del backend y poderlos conectar con el frontend.
-
 <br>
 Link: https://backend20240624204555.azurewebsites.net/swagger/index.html
-<br>
+<br><br>
 <div align="center">
   <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Sprint-4-Images/deploy-back-1.jpeg?raw=true">
   </div><br>
